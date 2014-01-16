@@ -1,0 +1,73 @@
+## Mac 平台下的开发软件
+
+大家使用同款软件的好处就是，遇到问题至少有同事帮忙搞定。且能互相交流高阶用法。
+
+### 日常工具
+
+名称  | 功能简述
+----- | ------
+Alfred 2 | 效率软件
+1Password | 密码管理
+Moom | 窗口大小管理
+Coffee Break | 番茄工作法
+Shimo | 科学上网
+Proxifier | 单App，规则代理工具
+Clyppan | 管理剪贴板
+iStat Menus | 监控状态栏
+JsonXmlConvert | Json 转换器
+Marked | Markdown preview 软件
+YoudaoDict | 有道词典
+MindNode Pro | 思维导图
+Cyberduck | 上传工具
+iTerm | 命令行增强
+CleanMyMac | 清理一下缓存，日志等
+
+### 前后通用工具
+
+名称  | 功能简述
+----- | ------
+Dash | 全语言文档手册速查
+Sublime Text | Editor
+Versions | SVN 工具
+SourceTree | Git 工具
+Mou | Markdown 编辑器
+CodeBox | 代码收集管理
+
+### 后端工具
+
+名称  | 功能简述
+----- | ------
+Kaleidoscope | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
+CodeRunner | 各编程语言快速测试集成环境
+Intellij IDEA | IDE
+Navicat Premium | 全数据库管理软件
+Sequel Pro | Mysql 库管理软件
+Mac Vim | Editor
+BugHub | 管理 Github Issues 的工具
+0xED | 2进制文件编辑器
+Robomongo | Mongo 数据库管理软禁
+PlistEdit Pro | Plist 编辑器
+
+### 前端工具
+
+名称  | 功能简述
+----- | ------
+xScope | 8合一标尺神器
+LiveReload | 调试工具：浏览器自刷新、前端代码编译等
+Coda | Editor
+Sketch | 图像处理设计工具，获2012苹果设计大奖
+Duo | 测试网页的响应式设计
+Xpressive | CSS 前端开发工具
+ProCSSor | CSS 处理工具
+Pixelmator | 简易版本 PS
+Spectrum | 配色软件
+Color Explorer | 小巧的取色软件
+Antetype | UE 软件
+Briefs | UE 软件
+FontExplorer X Pro | 字体管理软件
+ImageOptim | 缩小图片体积
+Img2icns | Img 转换成 Icon
+
+## Best App
+
+https://github.com/hzlzh/Best-App
