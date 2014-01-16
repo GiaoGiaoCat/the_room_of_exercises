@@ -33,10 +33,11 @@ Guides for getting things done, programming well, and programming in style.
 * 前端：熟悉 Javascript / CSS（3）/ HTML（5）及其相关工具、框架。 比如：jQuery, sass/less, bootstrap, CoffeeScript 等
 * 数据库：熟悉 Mysql / Postgresql 等关系型数据库, 熟悉 Memcached，熟悉 NoSql（redis/mongodb）更好
 * 框架：熟练使用 Rails 相关部署工具, 熟悉 Rails 开发框架, 熟悉 Rails 之外的开发框架更好, 了解 mvc 开发模式。
-* 日常：Google, Github, StackOverflow, 科学上网, *nix 下开发没压力
+* 日常：Google, Github, StackOverflow, 科学上网, Mac / Linux 下开发没压力
 * 加分1：了解并实践过 OO, Refactoring, TDD / BDD
 * 加分2：熟悉linux, git, shell, vim, emacs 优先考虑
 * 加分3：拥有良好的代码习惯, 结构清晰, 命名规范, 逻辑性强, 有DRY原则
+* 加分4：熟悉 Git-flow, rebase 分支
 
 ### 前端开发工程师
 
@@ -45,3 +46,5 @@ Guides for getting things done, programming well, and programming in style.
 3. 对前端 web 标准有正确的理解，熟悉各种前端开发规范
 4. 熟悉各大浏览器之间的差异，并可熟练解决各种浏览器兼容问题
 5. 熟悉前端开发常用工具及框架，比如 jQuery，sass/less，bootstrap
+6. 有前端 MVC 开发经验
+7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性

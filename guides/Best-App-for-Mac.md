@@ -45,7 +45,7 @@ Sequel Pro | Mysql 库管理软件
 Mac Vim | Editor
 BugHub | 管理 Github Issues 的工具
 0xED | 2进制文件编辑器
-Robomongo | Mongo 数据库管理软禁
+Robomongo | mongodb 数据库管理
 PlistEdit Pro | Plist 编辑器
 
 ### 前端工具
