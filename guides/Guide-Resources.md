@@ -13,6 +13,7 @@ Guides for getting things done, programming well, and programming in style.
 ## 提高
 
 1. [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/tutsplus/ruby-refactoring)
+2. [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
 
 ## 收集
 
