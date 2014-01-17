@@ -10,16 +10,25 @@ Guides for getting things done, programming well, and programming in style.
 6. [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 7. [A developer's guide of practices to follow when building Rails projects](https://github.com/hopsoft/rails_standards/tree/rails-4-0)
 
+## 入门
+
+* [Rails 教程中文版](https://github.com/Tassandar/Rails-Tutorial-Translate/)
+* [Ruby on Rails Guides 中文](http://guides.ruby-china.org/)
+
 ## 提高
 
-1. [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
-2. [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
+* [Web 开发小技巧](http://happycasts.net/)
+* [RailsCasts](http://railscasts.com/)
+* [Rails 视频教程](http://railscasts-china.com/)
+* [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
+* [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
 
-## 收集
+## 收集资源
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
 * [图灵免费电子书](http://www.ituring.com.cn/book)
+* [Ruby China Wiki](http://ruby-china.org/wiki)
 
 ## 阅读
 
