@@ -21,6 +21,7 @@ MindNode Pro | 思维导图
 Cyberduck | 上传工具
 iTerm | 命令行增强
 CleanMyMac | 清理一下缓存，日志等
+Tyme | 个人时间计划管理工具
 
 ### 前后通用工具
 
@@ -62,11 +63,12 @@ ProCSSor | CSS 处理工具
 Pixelmator | 简易版本 PS
 Spectrum | 配色软件
 Color Explorer | 小巧的取色软件
-Antetype | UE 软件
+Antetype | 界面设计工具。它功能全面，交互到位，精细之处做的非常细致，创造了全新的部件风格
 Briefs | UE 软件
 FontExplorer X Pro | 字体管理软件
 ImageOptim | 缩小图片体积
 Img2icns | Img 转换成 Icon
+CodeKit | 自动编译前端文件，自动刷新浏览器，还能对图片优化
 
 ## Best App
 
