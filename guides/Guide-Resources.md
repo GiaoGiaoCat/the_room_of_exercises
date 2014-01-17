@@ -19,6 +19,7 @@ Guides for getting things done, programming well, and programming in style.
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
+* [图灵免费电子书](http://www.ituring.com.cn/book)
 
 ## 阅读
 
@@ -31,7 +32,9 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Keyboard symbols in English Chinese Japanese](http://weih.github.io/symbolinenglish/)
 
-## 人员要求
+---
+
+## 招聘人员要求
 
 ### Ruby开发工程师（全栈）
 
@@ -56,3 +59,12 @@ Guides for getting things done, programming well, and programming in style.
 5. 熟悉前端开发常用工具及框架，比如 jQuery，sass/less，bootstrap
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
+
+---
+
+## 设计师资源
+
+** Sketch 相关 **
+
+* [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
+* [Sketch中文手册](http://www.ituring.com.cn/book/1305)

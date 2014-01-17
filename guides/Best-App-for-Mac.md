@@ -69,6 +69,7 @@ FontExplorer X Pro | 字体管理软件
 ImageOptim | 缩小图片体积
 Img2icns | Img 转换成 Icon
 CodeKit | 自动编译前端文件，自动刷新浏览器，还能对图片优化
+Ember | 收集你喜欢的一切
 
 ## Best App
 
