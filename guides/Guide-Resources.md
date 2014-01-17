@@ -40,6 +40,12 @@ Guides for getting things done, programming well, and programming in style.
 ## 速查手册
 
 * [Keyboard symbols in English Chinese Japanese](http://weih.github.io/symbolinenglish/)
+* [3753个常用汉字的UTF-8编码大全](http://www.cr173.com/html/11686_all.html)
+* [HTML特殊符号对照表](http://tool.chinaz.com/Tools/HtmlChar.aspx)
+
+## 在线工具
+
+* [各种转换工具大全](http://tool.chinaz.com/)
 
 ---
 
