@@ -48,6 +48,7 @@ BugHub | 管理 Github Issues 的工具
 0xED | 2进制文件编辑器
 Robomongo | mongodb 数据库管理
 PlistEdit Pro | Plist 编辑器
+[shuttle](http://fitztrev.github.io/shuttle/) | A simple SSH shortcut menu
 
 ### 前端工具
 
