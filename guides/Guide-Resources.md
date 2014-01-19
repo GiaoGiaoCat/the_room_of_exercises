@@ -15,6 +15,10 @@ Guides for getting things done, programming well, and programming in style.
 * [Rails 教程中文版](https://github.com/Tassandar/Rails-Tutorial-Translate/)
 * [Ruby on Rails Guides 中文](http://guides.ruby-china.org/)
 
+## Rails4 知识
+
+* [Strong Parameters](https://github.com/rails/strong_parameters)
+
 ## 提高
 
 * [Web 开发小技巧](http://happycasts.net/)
