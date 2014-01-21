@@ -47,9 +47,6 @@ Guides for getting things done, programming well, and programming in style.
 * [3753个常用汉字的UTF-8编码大全](http://www.cr173.com/html/11686_all.html)
 * [HTML特殊符号对照表](http://tool.chinaz.com/Tools/HtmlChar.aspx)
 
-## 在线工具
-
-* [各种转换工具大全](http://tool.chinaz.com/)
 
 ---
 
@@ -79,12 +76,3 @@ Guides for getting things done, programming well, and programming in style.
 5. 熟悉前端开发常用工具及框架，比如 jQuery，sass/less，bootstrap
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
-
----
-
-## 设计师资源
-
-** Sketch 相关 **
-
-* [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
-* [Sketch中文手册](http://www.ituring.com.cn/book/1305)

@@ -73,6 +73,7 @@ Img2icns | Img 转换成 Icon
 CodeKit | 自动编译前端文件，自动刷新浏览器，还能对图片优化
 Ember | 收集你喜欢的一切
 
-## Best App
+## 找寻和下载 Best App
 
-https://github.com/hzlzh/Best-App
+* [“反”斗软件旗下软件限免资讯网站](http://free.apprcn.com/)
+* [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
