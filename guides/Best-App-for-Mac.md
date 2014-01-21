@@ -22,6 +22,7 @@ Cyberduck | 上传工具
 iTerm | 命令行增强
 CleanMyMac | 清理一下缓存，日志等
 Tyme | 个人时间计划管理工具
+Cleaner | 清理 svn, git 项目垃圾文件
 
 ### 前后通用工具
 
