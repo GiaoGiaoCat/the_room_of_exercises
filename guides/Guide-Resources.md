@@ -62,10 +62,6 @@ Guides for getting things done, programming well, and programming in style.
 * [3753个常用汉字的UTF-8编码大全](http://www.cr173.com/html/11686_all.html)
 * [HTML特殊符号对照表](http://tool.chinaz.com/Tools/HtmlChar.aspx)
 
-### 在线工具
-
-* [各种转换工具大全](http://tool.chinaz.com/)
-
 ---
 
 ## 招聘人员要求
@@ -78,11 +74,12 @@ Guides for getting things done, programming well, and programming in style.
 * 数据库：熟悉 Mysql / Postgresql 等关系型数据库, 熟悉 Memcached，熟悉 NoSql（redis/mongodb）更好
 * 框架：熟练使用 Rails 相关部署工具, 熟悉 Rails 开发框架, 熟悉 Rails 之外的开发框架更好, 了解 MVC
 * 日常：Google, Github, StackOverflow, 科学上网, Mac / Linux 下开发没压力
-* 加分1：了解并实践过 OO, Refactoring, TDD / BDD
-* 加分2：熟悉linux, git, shell, vim, emacs 优先考虑
+* 加分1：了解并实践过 OO, Refactoring, TDD / BDD，熟悉单元测试、功能测试、性能测试方法者优先。
+* 加分2：熟悉linux, git, shell 编程, vim, emacs 优先考虑
 * 加分3：拥有良好的代码习惯, 结构清晰, 命名规范, 逻辑性强, 有DRY原则
 * 加分4：熟悉 Git-flow, rebase 分支
 * 加分5：在 github 贡献过代码, 自己写过 gem
+* 加分6：了解缓存、消息队列、定时任务等相关技术
 
 #### 前端开发工程师
 
@@ -93,12 +90,3 @@ Guides for getting things done, programming well, and programming in style.
 5. 熟悉前端开发常用工具及框架，比如 jQuery，sass/less，bootstrap
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
-
----
-
-## 设计师资源
-
-** Sketch 相关 **
-
-* [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
-* [Sketch中文手册](http://www.ituring.com.cn/book/1305)
