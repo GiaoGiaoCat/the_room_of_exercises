@@ -1,4 +1,6 @@
-## 编程规范
+## Ruby and Rails
+
+### 编程规范
 
 Guides for getting things done, programming well, and programming in style.
 
@@ -10,16 +12,17 @@ Guides for getting things done, programming well, and programming in style.
 6. [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 7. [A developer's guide of practices to follow when building Rails projects](https://github.com/hopsoft/rails_standards/tree/rails-4-0)
 
-## 入门
+### 入门
 
 * [Rails 教程中文版](https://github.com/Tassandar/Rails-Tutorial-Translate/)
 * [Ruby on Rails Guides 中文](http://guides.ruby-china.org/)
+* [Cumiki is the platform for learning and teaching programming](http://cumiki.com/)
 
-## Rails4 知识
+### Rails4 知识
 
 * [Strong Parameters](https://github.com/rails/strong_parameters)
 
-## 提高
+### 提高
 
 * [Web 开发小技巧](http://happycasts.net/)
 * [RailsCasts](http://railscasts.com/)
@@ -27,27 +30,39 @@ Guides for getting things done, programming well, and programming in style.
 * [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
 * [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
 
-## 收集资源
+### 收集资源
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
 * [图灵免费电子书](http://www.ituring.com.cn/book)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 
-## 阅读
+### 阅读
 
 * [码农周刊](http://weekly.manong.io/)
 * [编程狂人](http://www.tuicool.com/mags)
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
 
-## 速查手册
+### 业内博客
+
+* [張文鈿](http://ihower.tw/)
+
+---
+
+## Web开发
+
+### Git
+
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+
+### 速查手册
 
 * [Keyboard symbols in English Chinese Japanese](http://weih.github.io/symbolinenglish/)
 * [3753个常用汉字的UTF-8编码大全](http://www.cr173.com/html/11686_all.html)
 * [HTML特殊符号对照表](http://tool.chinaz.com/Tools/HtmlChar.aspx)
 
-## 在线工具
+### 在线工具
 
 * [各种转换工具大全](http://tool.chinaz.com/)
 
@@ -55,7 +70,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ## 招聘人员要求
 
-### Ruby开发工程师（全栈）
+#### Ruby开发工程师（全栈）
 
 * 经验：至少两年 Ruby 相关工作经验。
 * 语言：Ruby, 懂元编程。
@@ -69,7 +84,7 @@ Guides for getting things done, programming well, and programming in style.
 * 加分4：熟悉 Git-flow, rebase 分支
 * 加分5：在 github 贡献过代码, 自己写过 gem
 
-### 前端开发工程师
+#### 前端开发工程师
 
 1. 至少两年的前端开发工作经验
 2. 对 PC web 和移动 web 的页面开发标准有一定了解
