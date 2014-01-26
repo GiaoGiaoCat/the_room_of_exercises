@@ -5,12 +5,12 @@
 
 ## 设计师资源
 
-** Sketch 相关 **
+**Sketch 相关**
 
 * [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
 * [Sketch中文手册](http://www.ituring.com.cn/book/1305)
 
-** 字体 **
+**字体**
 
 * [造字工坊](http://makefont.com/fonts.html)
 

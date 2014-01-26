@@ -41,12 +41,14 @@ Guides for getting things done, programming well, and programming in style.
 
 * [码农周刊](http://weekly.manong.io/)
 * [编程狂人](http://www.tuicool.com/mags)
+* [谷歌开发者周刊](http://gdgweekly.com/)
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
 
 ### 业内博客
 
 * [張文鈿](http://ihower.tw/)
+* [李华顺](http://huacnlee.com/)
 
 ---
 
