@@ -50,6 +50,7 @@ BugHub | 管理 Github Issues 的工具
 Robomongo | mongodb 数据库管理
 PlistEdit Pro | Plist 编辑器
 [shuttle](http://fitztrev.github.io/shuttle/) | A simple SSH shortcut menu
+iTerm2 | 终端工具
 
 ### 前端工具
 
@@ -72,6 +73,13 @@ ImageOptim | 缩小图片体积
 Img2icns | Img 转换成 Icon
 CodeKit | 自动编译前端文件，自动刷新浏览器，还能对图片优化
 Ember | 收集你喜欢的一切
+
+## 工具相关的文章
+
+* [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
+* [iterm2：Mac_os下开源免费的并支持Zmodem(sz_rz)的ssh客户端手把手教程](http://wenku.baidu.com/link?url=SVUT0DpPCl7dfgM2JqexucPHVkEuM2LOSqHkzNpgme1merhUYhkzOyXOYfKt1sEJI00Ac04teYtqP1wDBEI8D4Q62ENlmCs6SglaBIYYYuC)
+* [iTerm Themes](http://iterm2colorschemes.com/)
+* [A set of fecund iTerm 2 color schemes](https://github.com/baskerville/iTerm-2-Color-Themes)
 
 ## 找寻和下载 Best App
 
