@@ -50,7 +50,6 @@ BugHub | 管理 Github Issues 的工具
 Robomongo | mongodb 数据库管理
 PlistEdit Pro | Plist 编辑器
 [shuttle](http://fitztrev.github.io/shuttle/) | A simple SSH shortcut menu
-iTerm2 | 终端工具
 
 ### 前端工具
 
