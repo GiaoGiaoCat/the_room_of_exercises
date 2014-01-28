@@ -14,6 +14,24 @@
 
 * [造字工坊](http://makefont.com/fonts.html)
 
+## 编程相关
+
+* [http://www.dewen.org/](http://www.dewen.org/)
+
+
+### 收集资源
+
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+* [图灵免费电子书](http://www.ituring.com.cn/book)
+
+### 开发阅读
+
+* [码农周刊](http://weekly.manong.io/)
+* [编程狂人](http://www.tuicool.com/mags)
+* [谷歌开发者周刊](http://gdgweekly.com/)
+* [设计匠艺](http://www.tuicool.com/mags/design)
+* [独立博客大全](http://lusongsong.com/daohang/)
+
 ## 娱乐
 
 * [A站](http://www.acfun.tv/)

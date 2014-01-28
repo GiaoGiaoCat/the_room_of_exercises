@@ -22,7 +22,7 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Strong Parameters](https://github.com/rails/strong_parameters)
 
-### 提高
+### Rails 提高
 
 * [Web 开发小技巧](http://happycasts.net/)
 * [RailsCasts](http://railscasts.com/)
@@ -32,20 +32,10 @@ Guides for getting things done, programming well, and programming in style.
 
 ### 收集资源
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
-* [图灵免费电子书](http://www.ituring.com.cn/book)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 
-### 阅读
-
-* [码农周刊](http://weekly.manong.io/)
-* [编程狂人](http://www.tuicool.com/mags)
-* [谷歌开发者周刊](http://gdgweekly.com/)
-* [设计匠艺](http://www.tuicool.com/mags/design)
-* [独立博客大全](http://lusongsong.com/daohang/)
-
-### 业内博客
+### Ruby & Rails 业内博客
 
 * [張文鈿](http://ihower.tw/)
 * [李华顺](http://huacnlee.com/)
