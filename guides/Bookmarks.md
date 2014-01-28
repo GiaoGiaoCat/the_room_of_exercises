@@ -16,7 +16,8 @@
 
 ## 编程相关
 
-* [http://www.dewen.org/](http://www.dewen.org/)
+* [德问](http://www.dewen.org/)
+* [stackoverflow](http://stackoverflow.com/)
 
 
 ### 收集资源
