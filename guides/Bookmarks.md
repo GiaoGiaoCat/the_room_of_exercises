@@ -45,3 +45,11 @@
 ## 读书
 
 * [摆摆书架](http://bookfor.us/) 您可以分享自己看过的闲书，并且可以免费借阅他人分享书籍。 
+
+
+
+
+## VIM
+
+* [macvim下载](https://github.com/b4winckler/macvim/releases) 
+* [在线学习VIM](http://www.openvim.com/tutorial.html)
