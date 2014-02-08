@@ -7,6 +7,7 @@
 * **Ruby-Gems** 自己开发工作之中使用的各种 gem 相关介绍
 * **Ruby-Rails-Resources** Ruby and Rails，Web 开发从入门到提高各种相关资源和书籍
 * **豌豆荚文案风格指南**
+* **terminal-mac-cheatsheet** Mac terminal 快捷键
 
 ## 读书笔记
 
