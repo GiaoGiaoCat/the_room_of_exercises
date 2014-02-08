@@ -17,6 +17,7 @@
 ## 问答
 
 * [德问](http://www.dewen.org/)
+* [segmentfault](http://segmentfault.com/)
 * [stackoverflow](http://stackoverflow.com/)
 
 ## 在线学习编程网站
