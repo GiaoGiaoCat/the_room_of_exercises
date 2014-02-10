@@ -21,6 +21,11 @@ Guides for getting things done, programming well, and programming in style.
 ### Rails4 知识
 
 * [Strong Parameters](https://github.com/rails/strong_parameters)
+* [What's new in Rails 4.1](http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html)
+* [Code Concerns in Rails 4 Models](http://richonrails.com/articles/rails-4-code-concerns-in-active-record-models)
+* [What's new in Active Record [Rails 4 Countdown to 2013]](http://blog.remarkablelabs.com/2012/12/what-s-new-in-active-record-rails-4-countdown-to-2013)
+* [Exploring Concerns for Rails 4](http://blog.andywaite.com/2012/12/23/exploring-concerns-for-rails-4/)
+* [Debugging Rails 4 CoffeeScript and Sass source files in Google Chrome](http://blog.vhyza.eu/blog/2013/09/22/debugging-rails-4-coffeescript-and-sass-source-files-in-google-chrome/)
 
 ### Rails 提高
 
@@ -35,10 +40,48 @@ Guides for getting things done, programming well, and programming in style.
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 
+### 专题
+
+#### 重构&最佳实践
+
+* [Rails Best Practices](http://rails-bestpractices.com/)
+* [重构 Rails 项目之最佳实践](http://yedingding.com/2013/03/04/steps-to-refactor-controller-and-models-in-rails-projects.html)
+* [Rails 3.2 網站效能](http://ihower.tw/rails3/performance.html)
+* [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+
+#### ActiveRecord
+
+* [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
+
+#### Caches
+
+* [Caching Tutorial for Web Authors and Webmasters](http://www.mnot.net/cache_docs/)
+* [Rails Cache for dummies](http://www.codelearn.org/blog/rails-cache-with-examples)
+* [使用Rack::Cache进行平滑的HTTP缓存](http://www.infoq.com/cn/news/2008/11/rack-cache)
+
+#### API
+
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?utm_campaign=Manong_Weekly_Issue_8&utm_medium=EDM&utm_source=Manong_Weekly)
+
+#### Rack
+
+* [A Quick Introduction to Rack](http://rubylearning.com/blog/a-quick-introduction-to-rack/)
+* [32 Rack Resources to Get You Started](http://jasonseifer.com/2009/04/08/32-rack-resources-to-get-you-started)
+* [使用Rack::Cache进行平滑的HTTP缓存](http://www.infoq.com/cn/news/2008/11/rack-cache)
+
 ### Ruby & Rails 业内博客
+
+#### 中文
 
 * [張文鈿](http://ihower.tw/)
 * [李华顺](http://huacnlee.com/)
+* [Rei A web developer](http://chloerei.com/)
+
+#### 英文
+
+* [David Lesches on Rails](http://davidlesches.com/)
+* [GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS](http://robots.thoughtbot.com/)
+
 
 ---
 
