@@ -57,7 +57,9 @@
 
 * [macvim下载](https://github.com/b4winckler/macvim/releases) 
 * [在线学习VIM](http://www.openvim.com/tutorial.html)
+* [vim快捷键](http://wenku.baidu.com/link?url=jqiAJZL49_r_OyeAKt7S02FbvFXf5il3nV1btXDc-jnPrbkmS3OAeZO9MKU8gsmYyoyqLFnhQvvF50fjzntoIl462v_Xr6XRRAciAJVg6Qa)
 
 ### VIM 提高
 
 * [9 Enhancements to Shell and Vim Productivity](http://www.danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity)
+* [继续 FSE 插件](http://bluegene8210.is-programmer.com/categories/5367/posts)
