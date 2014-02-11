@@ -38,6 +38,10 @@
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
 
+### IT新闻
+
+* [IT桔子](http://itjuzi.com)
+
 ## 娱乐
 
 * [A站](http://www.acfun.tv/)
@@ -47,10 +51,13 @@
 
 * [摆摆书架](http://bookfor.us/) 您可以分享自己看过的闲书，并且可以免费借阅他人分享书籍。 
 
-
-
-
 ## VIM
+
+### VIM 入门
 
 * [macvim下载](https://github.com/b4winckler/macvim/releases) 
 * [在线学习VIM](http://www.openvim.com/tutorial.html)
+
+### VIM 提高
+
+* [9 Enhancements to Shell and Vim Productivity](http://www.danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity)
