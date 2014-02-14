@@ -63,3 +63,5 @@
 
 * [9 Enhancements to Shell and Vim Productivity](http://www.danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity)
 * [继续 FSE 插件](http://bluegene8210.is-programmer.com/categories/5367/posts)
+* [Key Mapping and Vintage Mode Setup for Sublime Text 2](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2/)
+* [Vintage Mode for Sublime Text 2](https://www.sublimetext.com/docs/2/vintage.html)
