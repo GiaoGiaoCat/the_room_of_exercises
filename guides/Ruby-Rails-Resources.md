@@ -7,7 +7,7 @@ Guides for getting things done, programming well, and programming in style.
 1. [protocol](https://github.com/thoughtbot/guides/tree/master/protocol)
 2. [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 3. [Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
-4. [Style](https://github.com/thoughtbot/guides/tree/master/style) 
+4. [Style](https://github.com/thoughtbot/guides/tree/master/style)
 5. [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 6. [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 7. [A developer's guide of practices to follow when building Rails projects](https://github.com/hopsoft/rails_standards/tree/rails-4-0)
@@ -115,6 +115,39 @@ Guides for getting things done, programming well, and programming in style.
 * 加分4：熟悉 Git-flow, rebase 分支
 * 加分5：在 github 贡献过代码, 自己写过 gem
 * 加分6：了解缓存、消息队列、定时任务等相关技术
+
+##### Senior
+
+* Analyse and profile an application for performance and memory issues
+* Analyses and profile an application for security issues
+* Understand database modeling and query analysis
+* Tune a production deployment (Passenger, Thin, Apache etc)
+* Understand and use Ruby metaprogramming
+* Mentoring skills
+* Communication skills
+* Planning and Estimation
+
+##### Mid-level
+
+* Setup and deploy a Rails App for production
+* Understand the Rails stack - callbacks, filters, plugins, engines, gems, rack
+* Understand and use Active Record associations
+* Understand and use scopes to define model abstractions
+* Define tests using Cucumber and rSpec
+* Understand and use Object Orientation
+* Understand and use Design Patterns (explain what they are, know some basic patterns)
+
+##### Entry Level
+
+* Create and setup a Rails environment
+* Use generators to create models, controllers and migrations
+* Create and use a migration to manage the database
+* Create a unit test using rspec/etc
+* Create a model and basic validations
+* Handle a GET request using a Controller, Model, and View
+* Handle a POST request using a Controller, Model, and View
+* Basic HTML, CSS and JavaScript
+* Basic GIT - clone, commit, push
 
 #### 前端开发工程师
 
