@@ -29,6 +29,7 @@
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [图灵免费电子书](http://www.ituring.com.cn/book)
+* [Yelp开发团队发布内部网站设计指南](http://www.infoq.com/cn/news/2014/02/yelp-style-guide?utm_source=tuicool)
 
 ### 开发阅读
 
