@@ -32,6 +32,8 @@ Guides for getting things done, programming well, and programming in style.
 * [Web 开发小技巧](http://happycasts.net/)
 * [RailsCasts](http://railscasts.com/)
 * [Rails 视频教程](http://railscasts-china.com/)
+* [tutsplus 视频教程](http://tutsplus.com)
+* [14个方法让 ruby 编码更快乐](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 * [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
 * [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
 
@@ -39,6 +41,8 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby 各种知识点](http://www.sitepoint.com/ruby/)
 
 ### 专题
 
