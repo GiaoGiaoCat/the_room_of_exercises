@@ -1,0 +1,129 @@
+# Alfred Workflows
+
+## 网站浏览
+
+### v2ex.com
+
+```
+v2ex n
+```
+
+### ruby-china.org
+
+```
+rubychina
+```
+
+### Startup News
+
+http://news.dbanotes.net/news
+
+```
+sn
+```
+
+### stackoverflow
+
+```
+st somekeywords
+```
+
+### Site Search in Google
+
+```
+site v2ex.com alfred #site domain keyword
+```
+
+## 工作
+
+### Dash
+
+```
+dash somewords 
+r4 somewords
+r2 somewords
+```
+
+### OpenInSublime
+
+```
+subl something
+```
+
+### Run Terminal Command Here
+
+```
+cdh # means command here
+```
+
+### Chrome Bookmarks
+
+```
+bm keyword
+```
+
+### Github
+
+```
+git search {query} - Search all of Github repos (Documentation)
+git my {query} - Search user Github repos
+git star {query} - Search user starred Github repos
+git limit - Get remaining requests allowed count
+gist {query} - Search user gists
+gist create - Create new gist
+```
+
+### todo
+
+```
+add #tag something
+todo
+tag
+clear
+
+setup
+reset
+```
+
+## 其它
+
+### f.lux
+
+```
+flux
+```
+
+### kill process
+
+```
+kill something
+```
+
+### 颜文字
+
+```
+o3o
+```
+
+### ping
+
+```
+ping
+```
+
+### 有道翻译
+
+```
+yd someword
+```
+### Add-task-to-Things
+
+```
+task
+```
+
+## 相关网站
+
+* [Alfred Workflows for Developers](https://github.com/willfarrell/alfred-workflows)
+* [国人必备的30个 Workflows](http://www.waerfa.com/alfred-workflow)
+* [Workflows 大全](http://www.alfredworkflow.com/)

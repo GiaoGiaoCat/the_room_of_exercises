@@ -38,10 +38,12 @@
 * [谷歌开发者周刊](http://gdgweekly.com/)
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
+* [Startup News](http://news.dbanotes.net/)
 
 ### IT新闻
 
 * [IT桔子](http://itjuzi.com)
+* [内存溢出 - 为程序员服务的内容聚合网站](http://outofmemory.cn/)
 
 ## 娱乐
 
