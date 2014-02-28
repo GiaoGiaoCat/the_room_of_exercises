@@ -22,6 +22,18 @@ http://news.dbanotes.net/news
 sn
 ```
 
+### 知乎日报
+
+```
+zh
+```
+
+### 什么值得买
+
+```
+zdm
+```
+
 ### stackoverflow
 
 ```
@@ -50,16 +62,17 @@ r2 somewords
 subl something
 ```
 
+### TerminalFinder
+
+```
+ft # finder to terminal
+tf # terminal to finder
+```
+
 ### Run Terminal Command Here
 
 ```
 cdh # means command here
-```
-
-### Chrome Bookmarks
-
-```
-bm keyword
 ```
 
 ### Github
@@ -86,6 +99,18 @@ reset
 ```
 
 ## 其它
+
+### Open Chrome's current tab in Firefox
+
+```
+ff
+```
+
+### Chrome Bookmarks
+
+```
+bm keyword
+```
 
 ### f.lux
 
@@ -120,6 +145,12 @@ yd someword
 
 ```
 task
+```
+
+### 淘宝搜索
+
+```
+tb
 ```
 
 ## 相关网站
