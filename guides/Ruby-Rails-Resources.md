@@ -36,6 +36,7 @@ Guides for getting things done, programming well, and programming in style.
 * [14个方法让 ruby 编码更快乐](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 * [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
 * [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
+* [Rails 源代码学习](http://monkeyandcrow.com/series/reading_rails/)
 
 ### 收集资源
 

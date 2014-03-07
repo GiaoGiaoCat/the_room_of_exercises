@@ -159,6 +159,12 @@ task
 tb
 ```
 
+### VimTips
+
+```
+vimtips s 
+```
+
 ## 相关网站
 
 * [Alfred Workflows for Developers](https://github.com/willfarrell/alfred-workflows)
