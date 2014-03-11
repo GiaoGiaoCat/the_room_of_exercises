@@ -163,3 +163,7 @@ Guides for getting things done, programming well, and programming in style.
 5. 熟悉前端开发常用工具及框架，比如 jQuery，sass/less，bootstrap
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
+
+
+[前端技能汇总](https://github.com/JacksonTian/fks)
+[30天学习30种新技术系列](http://segmentfault.com/a/1190000000349384)
