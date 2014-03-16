@@ -27,6 +27,12 @@ Guides for getting things done, programming well, and programming in style.
 * [Exploring Concerns for Rails 4](http://blog.andywaite.com/2012/12/23/exploring-concerns-for-rails-4/)
 * [Debugging Rails 4 CoffeeScript and Sass source files in Google Chrome](http://blog.vhyza.eu/blog/2013/09/22/debugging-rails-4-coffeescript-and-sass-source-files-in-google-chrome/)
 
+### 在线学习Ruby编程
+
+* [CodeWars](http://www.codewars.com/)
+* [CodeSchool](https://www.codeschool.com/)
+* [CodeCademy](http://www.codecademy.com/dashboard)
+
 ### Rails 提高
 
 * [Web 开发小技巧](http://happycasts.net/)

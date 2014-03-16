@@ -22,7 +22,6 @@
 
 ## 在线学习编程网站
 
-* [codecademy](http://www.codecademy.com/dashboard)
 * [中文慕课网](http://www.imooc.com/)
 
 ### 收集资源
@@ -53,14 +52,14 @@
 
 ## 读书
 
-* [摆摆书架](http://bookfor.us/) 您可以分享自己看过的闲书，并且可以免费借阅他人分享书籍。 
+* [摆摆书架](http://bookfor.us/) 您可以分享自己看过的闲书，并且可以免费借阅他人分享书籍。
 * [书格](http://shuge.org/)
 
 ## VIM
 
 ### VIM 入门
 
-* [macvim下载](https://github.com/b4winckler/macvim/releases) 
+* [macvim下载](https://github.com/b4winckler/macvim/releases)
 * [在线学习VIM](http://www.openvim.com/tutorial.html)
 * [vim快捷键](http://wenku.baidu.com/link?url=jqiAJZL49_r_OyeAKt7S02FbvFXf5il3nV1btXDc-jnPrbkmS3OAeZO9MKU8gsmYyoyqLFnhQvvF50fjzntoIl462v_Xr6XRRAciAJVg6Qa)
 
