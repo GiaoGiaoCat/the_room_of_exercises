@@ -57,7 +57,7 @@ site v2ex.com alfred #site domain keyword
 ### Dash
 
 ```
-dash somewords 
+dash somewords
 r4 somewords
 r2 somewords
 ```
@@ -118,12 +118,6 @@ ff
 bm keyword
 ```
 
-### f.lux
-
-```
-flux
-```
-
 ### kill process
 
 ```
@@ -147,6 +141,7 @@ ping
 ```
 yd someword
 ```
+
 ### Add-task-to-Things
 
 ```
@@ -162,7 +157,7 @@ tb
 ### VimTips
 
 ```
-vimtips s 
+vimtips s
 ```
 
 ## 相关网站

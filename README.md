@@ -8,6 +8,8 @@
 * **Ruby-Rails-Resources** Ruby and Rails，Web 开发从入门到提高各种相关资源和书籍
 * **豌豆荚文案风格指南**
 * **terminal-mac-cheatsheet** Mac terminal 快捷键
+* **chrome-cheatsheet** Chrome 的快捷键
+* **alfred-workflows** 自己使用的 workflows
 
 ## 读书笔记
 
