@@ -54,14 +54,6 @@ site v2ex.com alfred #site domain keyword
 
 ## 工作
 
-### Dash
-
-```
-dash somewords
-r4 somewords
-r2 somewords
-```
-
 ### OpenInSublime
 
 ```
