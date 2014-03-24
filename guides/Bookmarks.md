@@ -66,10 +66,12 @@
 
 * [macvim下载](https://github.com/b4winckler/macvim/releases)
 * [在线学习VIM](http://www.openvim.com/tutorial.html)
+* [游戏：VIM大冒险](http://coolshell.cn/articles/7166.html)
 * [vim快捷键](http://wenku.baidu.com/link?url=jqiAJZL49_r_OyeAKt7S02FbvFXf5il3nV1btXDc-jnPrbkmS3OAeZO9MKU8gsmYyoyqLFnhQvvF50fjzntoIl462v_Xr6XRRAciAJVg6Qa)
 
 ### VIM 提高
 
+* [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
 * [9 Enhancements to Shell and Vim Productivity](http://www.danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity)
 * [继续 FSE 插件](http://bluegene8210.is-programmer.com/categories/5367/posts)
 * [Key Mapping and Vintage Mode Setup for Sublime Text 2](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2/)
