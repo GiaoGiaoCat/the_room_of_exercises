@@ -84,18 +84,6 @@ gist {query} - Search user gists
 gist create - Create new gist
 ```
 
-### todo
-
-```
-add #tag something
-todo
-tag
-clear
-
-setup
-reset
-```
-
 ## 其它
 
 ### Open Chrome's current tab in Firefox
@@ -132,12 +120,6 @@ ping
 
 ```
 yd someword
-```
-
-### Add-task-to-Things
-
-```
-task
 ```
 
 ### 淘宝搜索
