@@ -23,6 +23,8 @@
 ## 在线学习编程网站
 
 * [中文慕课网](http://www.imooc.com/)
+* [测试你的编程能力](http://smarterer.com/)
+* [Go 语言在线学习](http://go-tour-zh.appspot.com/#1)
 
 ### 收集资源
 
@@ -49,6 +51,7 @@
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Code_Guide](https://github.com/Suxiaogang/Code_Guide)
+* [编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范](http://codeguide.bootcss.com/?utm_source=tuicool)
 
 ## 娱乐
 

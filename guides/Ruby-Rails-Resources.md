@@ -41,6 +41,7 @@ Guides for getting things done, programming well, and programming in style.
 * [RailsCasts](http://railscasts.com/)
 * [Rails 视频教程](http://railscasts-china.com/)
 * [tutsplus 视频教程](http://tutsplus.com)
+* [DESTROY ALL SOFTWARE CATALOG 视频教程](https://www.destroyallsoftware.com/screencasts/catalog)
 * [14个方法让 ruby 编码更快乐](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 * [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
 * [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
@@ -52,6 +53,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby 各种知识点](http://www.sitepoint.com/ruby/)
+* [Supercharge Your Rails Development Environment](http://joshsymonds.com/blog/2014/01/22/supercharge-your-rails-development-environment/)
 
 ### 专题
 
