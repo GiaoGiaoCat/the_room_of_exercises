@@ -52,7 +52,8 @@ Guides for getting things done, programming well, and programming in style.
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 * [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby 各种知识点](http://www.sitepoint.com/ruby/)
+* [sitepoint - Ruby 各种知识点](http://www.sitepoint.com/ruby/)
+* [scotch.io - Sublime Text 3 各种知识点](http://scotch.io/)
 * [Supercharge Your Rails Development Environment](http://joshsymonds.com/blog/2014/01/22/supercharge-your-rails-development-environment/)
 
 ### 专题
