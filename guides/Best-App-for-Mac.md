@@ -35,7 +35,7 @@ Dash | 全语言文档手册速查
 Sublime Text | Editor
 Versions | SVN 工具
 SourceTree | Git 工具
-Mou | Markdown 编辑器
+haroopress | Markdown 编辑器
 CodeBox | 代码收集管理
 
 ### 后端工具
