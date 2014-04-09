@@ -50,6 +50,7 @@ Guides for getting things done, programming well, and programming in style.
 ### 收集资源
 
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
+* [Ruby on Rails文档 (v3.2.3)](http://www.rubycc.com/column/rails3.2.3/railsdoc.htm)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [sitepoint - Ruby 各种知识点](http://www.sitepoint.com/ruby/)
