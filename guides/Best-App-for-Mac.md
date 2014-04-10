@@ -90,3 +90,4 @@ Ember | 收集你喜欢的一切
 
 * [“反”斗软件旗下软件限免资讯网站](http://free.apprcn.com/)
 * [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
+* [Mac软件推荐 | 玩儿法](http://www.waerfa.com/)
