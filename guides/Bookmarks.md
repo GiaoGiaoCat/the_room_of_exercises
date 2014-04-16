@@ -11,6 +11,7 @@
 * [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
 * [sketchappsources](http://www.sketchappsources.com/)
 * [Sketch中文手册](http://www.ituring.com.cn/book/1305)
+* [Sketch中文网](http://sketchcn.com)
 * [SKETCH TIPS & TRICKS BLOG](http://sketchtips.tumblr.com/)
 * [mengto](http://blog.mengto.com/topic/sketch/)
 

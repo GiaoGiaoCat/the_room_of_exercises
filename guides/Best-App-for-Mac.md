@@ -36,6 +36,7 @@ Sublime Text | Editor
 Versions | SVN 工具
 SourceTree | Git 工具
 haroopress | Markdown 编辑器
+Mou | Markdown 编辑器
 CodeBox | 代码收集管理
 
 ### 后端工具
@@ -61,7 +62,7 @@ PlistEdit Pro | Plist 编辑器
 xScope | 8合一标尺神器
 LiveReload | 调试工具：浏览器自刷新、前端代码编译等
 Coda | Editor
-Sketch | 图像处理设计工具，获2012苹果设计大奖
+Sketch 3 | 图像处理设计工具，获2012苹果设计大奖
 Duo | 测试网页的响应式设计
 Xpressive | CSS 前端开发工具
 ProCSSor | CSS 处理工具
