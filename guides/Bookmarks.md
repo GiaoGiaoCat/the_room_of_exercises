@@ -14,7 +14,15 @@
 * [Sketch中文网](http://sketchcn.com)
 * [SKETCH TIPS & TRICKS BLOG](http://sketchtips.tumblr.com/)
 * [mengto](http://blog.mengto.com/topic/sketch/)
+* [sketchcasts](http://www.sketchcasts.net/episodes) 视频教学
+* [sketch2 快捷键](http://sketchshortcuts.com/)
+* [brilliantsketch](http://brilliantsketch.com/)
 
+
+**Sketch 相关文章**
+* [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
+* [What is new in Sketch 3](https://medium.com/p/4b92d8b25f3)
+* [iOS 7 GUI templates will ship inside of Sketch 3](http://www.teehanlax.com/blog/ios-7-gui-templates-will-ship-inside-of-sketch-3/)
 
 **字体**
 
