@@ -48,3 +48,7 @@
 
 * Assets, Covered!
 * Sketch Summary: Recap and Revision
+
+**技巧**
+
+1. 导出切片可以选择只导出 group 中的内容，这样就不会有背景了
