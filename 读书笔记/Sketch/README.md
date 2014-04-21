@@ -35,6 +35,15 @@
 * The Build II
 * Webpage Finale
 
+**技巧**
+
+1. 修改 size 的时候接受四则运算 例如 520/2, 50 * 3
+2. 善用别人做好的 sketch 资源包，例如 iphone 或者 ipad 的背景资源
+3. scale 按钮可以按照 百分比等比缩放资源
+4. 背景图片的 blur 可以做出很漂亮的效果
+5. 导出的时候可以只导出 group 的内容，所以 group 要做好
+6. 对于Web开发可以使用 Copy CSS Attributes 按钮简化开发
+
 ## The Webpage
 
 * Assets, Covered!
