@@ -23,6 +23,9 @@
 * [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
 * [What is new in Sketch 3](https://medium.com/p/4b92d8b25f3)
 * [iOS 7 GUI templates will ship inside of Sketch 3](http://www.teehanlax.com/blog/ios-7-gui-templates-will-ship-inside-of-sketch-3/)
+* [Android-UI in dribbble](https://dribbble.com/shots/1029552-Android-UI-XHDPI-Template-sketch)
+* [20 Free UI Templates for Sketch.app](http://speckyboy.com/2013/04/22/free-ui-templates-for-sketch-app/)
+
 
 **字体**
 
