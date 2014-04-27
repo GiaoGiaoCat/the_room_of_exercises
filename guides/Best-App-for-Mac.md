@@ -22,7 +22,7 @@ iStat Menus | 监控状态栏
 Marked | Markdown preview 软件
 YoudaoDict | 有道词典
 MindNode Pro | 思维导图
-*Cyberduck* | 上传工具
+Flow | sft/ftp工具
 iTerm | 命令行增强
 CleanMyMac | 清理一下缓存，日志等
 Tyme | 个人时间计划管理工具
