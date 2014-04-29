@@ -26,6 +26,9 @@
 * [Android-UI in dribbble](https://dribbble.com/shots/1029552-Android-UI-XHDPI-Template-sketch)
 * [20 Free UI Templates for Sketch.app](http://speckyboy.com/2013/04/22/free-ui-templates-for-sketch-app/)
 
+**图标和资源下载**
+
+* [免费图标下载](http://www.pixeden.com/free-icons-set)
 
 **字体**
 
