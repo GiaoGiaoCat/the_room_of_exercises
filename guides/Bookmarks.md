@@ -29,6 +29,10 @@
 **图标和资源下载**
 
 * [免费图标下载](http://www.pixeden.com/free-icons-set)
+* [subtlepatterns 纹理站](http://subtlepatterns.com/)
+* [随机纹理站](http://thepatternlibrary.com/)
+* [优设 设计师资源网站](http://www.uisdc.com/)
+
 
 **字体**
 
