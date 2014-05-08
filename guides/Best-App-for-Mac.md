@@ -59,6 +59,7 @@ Sequel Pro | Mysql 库管理软件
 ### 设计工具
 
 Sketch 3 | 图像处理设计工具，获2012苹果设计大奖
+PaintCode | 设计软件，生成的图标可以直接在iOS中使用的源码
 Spectrum | 配色软件
 Sip | 小巧的取色软件
 Pixelmator | 位图处理

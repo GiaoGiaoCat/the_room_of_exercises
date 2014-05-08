@@ -32,6 +32,7 @@
 * [subtlepatterns 纹理站](http://subtlepatterns.com/)
 * [随机纹理站](http://thepatternlibrary.com/)
 * [优设 设计师资源网站](http://www.uisdc.com/)
+* [设计网站大全](http://hao.zlg.cc/)
 
 
 **字体**
