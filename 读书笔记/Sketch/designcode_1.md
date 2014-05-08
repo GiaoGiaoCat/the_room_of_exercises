@@ -1,0 +1,76 @@
+# Learn Sketch 3 5月8日开始学习
+
+## What's new in Sketch 3
+
+* Improved UI
+* Symbols - 请务必多多使用 symbol 在任何能用的地方
+* Text Styles
+* Quick Export to Multiple Resolutions
+* It comes with the iOS 7 UI Kit
+
+## Getting Started
+
+* As little design as possible
+* Customizing your UI
+* Using Artboards
+* Using the Smart Guides
+* Duplicating with the Make Grid tool
+* Sub-pixel Antialias
+* Get your colors ready - 制作属于自己的 color 面板
+* Start with a few good fonts - 搞点适合做UI设计的字体库
+* Library of icons for Sketch
+
+**tips**
+
+* artboards 是屏幕显示区域，它被设计用来作为情节板来连接多个屏幕
+* Sub-pixel Antialias 没有的，这个选项必须打开，在设置的 general 中
+* 在创作之前引入 Pastel colors 面板是个好主意
+
+**resources**
+
+* Fonts [Google Webfonts](http://www.google.com/fonts) Avenir Next, Open Sans and Roboto.
+* Fonts [Adobe CC's Typekit](https://typekit.com/) Museo Sans and Proxima Nova.
+* Icons [The ultimate iOS 7 tab bar iconset(http://pixellove.com/)
+* Icons [1600+ vector icons](http://www.streamlineicons.com/)
+* Icons [Free Vector Icons from Chapps](https://dribbble.com/shots/1277721-Free-Vector-Icons-from-Chapps)
+* Icons [Tab Bar Icons iOS 7 Vol5](http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5)
+* Icons [Simple Line Icons - 100+ free icons (Ai, Eps, Svg, Psd)](https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd)
+
+## Previewing on your iPhone
+
+* iOS Mirror
+
+## Sketch 3 Techniques
+
+* Drag and Drop Export - 可以直接把 layout, group 拽出 sketch 这会直接导出
+* Alt Tab Focusing - 选中一个元素然后按 alt + tab 可以直接定位到它的属性面板
+* Flatten to Bitmap - 把矢量图片转换成 bitmap 可以很大的提高性能，这个功能在 layer 菜单中
+* Multiply and Divide - 把对象的 width 和 height 属性选择锁上，并用4则运算扩大缩小是个技巧
+* Rotate Copies
+* CSS Styles
+* Vectorize Stroke - 可以用
+* Using iCloud
+* Open recent files - 长按 sketch 的 dock 图标会显示最近工作过的文档列表
+
+## Migrating from Photoshop and Illustrator
+
+* PSD Shapes to Sketch - 只要导出成 SVG 就行
+* Patterns - 纹理材质的话可以去 [thepatternlibrary](http://thepatternlibrary.com/) 找找，另外我的 bookmarks 里面也记录不少
+
+## Keyboard Shortcuts
+
+* [官方 Documentation](http://bohemiancoding.com/sketch/support/documentation/15-shortcuts/)
+
+## Essential Plugins
+
+* [awesome-sket.ch](http://awesome-sket.ch/) 有很多有效的插件帮我们提高效率
+* Painless Style guides - 在你设计的原件上标出标准宽高和边距，方便程序员开发
+* Dynamic buttons - 每次创建按钮修改文本之后总要自己手动调整按钮大小，用了它会自动帮你调整按钮大小适应文字
+
+## Resources
+
+最好的学习方法是看别人怎么画的，所以下面列几个站点，更多的在 bookmarks 中
+
+* http://www.sketchappsources.com/
+* http://sketchmine.co/
+* https://medium.com/p/4b92d8b25f3
