@@ -74,3 +74,45 @@
 * http://www.sketchappsources.com/
 * http://sketchmine.co/
 * https://medium.com/p/4b92d8b25f3
+
+
+
+# Sketch 3 Techniques
+
+* Understanding Sketch
+* UI Templates
+* Artboards and Pages
+* Drag and Drop Export
+* Alt Tab Focusing
+* Pixel Perfection
+* Multiply and Divide
+* Masking and Alpha Masking
+* Text on Path
+* Distribute Spacing
+* Rounded Corners Editing
+* CSS Styles
+* Vectorize Stroke
+* Combine, Substract, Intersect, Difference
+* Set Style as Default
+* Rotate Copies
+* Insert Shape
+* Set Background
+* Flatten to Bitmap
+* Presentation Mode
+* Using iCloud
+* Open recent files
+* Layout Grids
+* 1 to 0 keys for Opacity
+* Changing Numbers
+
+**tips**
+
+* Use one Page per section of your app and multiple Artboards to show the different sub-content and page states.
+* Use Layer -> Round to Nearest Pixel Edge 让设计像素对齐
+* Using pair numbers -- this is essential when you're designing in Retina. When you export your asset to 1x, the number can be divided by 2, therefore avoiding half pixels.
+* 在输入数值的地方可以输入 乘除 符号方便扩展
+* 选择多个对象之后可以右键选择 Distribute *** 对齐或者 Make Grid
+* you can set the background color for your Artboards and slices.
+* Just press Command + . will be into Presentation Mode
+* When you select a Layer or a Group and press the 1 key, it'll set it to 10% opacity.
+* 按住 shift 的同时按住方向键，可以一次增减 10 像素
