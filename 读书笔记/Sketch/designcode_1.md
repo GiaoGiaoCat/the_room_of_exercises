@@ -116,3 +116,47 @@
 * Just press Command + . will be into Presentation Mode
 * When you select a Layer or a Group and press the 1 key, it'll set it to 10% opacity.
 * 按住 shift 的同时按住方向键，可以一次增减 10 像素
+
+# Design From Scratch
+
+## Designing an article page
+
+* Picking colors
+* The cover image
+* Typography
+* Negative Spacing
+* The Back Button
+
+**tips**
+
+* 画一个图形，在 fill 界面选择倒数第2个，之后再选择一张图片可以当做背景图片，在下面选择 fill 可以填充到整个图形.
+* 30px for the body, 40px for the sub-heading and 100px for the heading.
+* I like to apply around 30-40px bleed. And around 10-50px vertically between the elements.
+* A circle button of 72px by 72px.
+
+## Finishing the first screen
+
+* A taller Artboard
+* The avatar
+* The buttons
+* Icons with text
+* Applying colors
+* Using lines
+* Read Next preview
+
+**tips**
+
+* Let's draw a 100x100 pixels circles and set the border to 2 pixels, and make them as buttons should be good.
+
+## Center, align and use symmetry whenever possible
+
+* Smart Guides with distances - 按住 option 然后看边距
+* Using the Guides
+* Understanding Symmetry
+* Round your numbers - 让你的图形是整数并且是偶数
+
+**tips**
+
+* 善用辅助线，确保文字的基准线对齐
+* 善用对称设计对于新人来说很简单，两个按钮就左右各一个，一个按钮就放在正中间
+* 让你的图形是整数并且是偶数
