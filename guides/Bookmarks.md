@@ -3,6 +3,7 @@
 * [API测试平台](https://www.runscope.com/)
 * [各种转换工具大全](http://tool.chinaz.com/)
 * [ASCII码图片转换器](http://www.network-science.de/ascii/)
+* [Ruby正则替换器](http://www.rubular.com/)
 
 ## 设计师资源
 
