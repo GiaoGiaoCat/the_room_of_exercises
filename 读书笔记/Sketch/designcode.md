@@ -1,4 +1,4 @@
-# Learn Sketch 3 5月8日学习
+# Learn Sketch 3 5月8日学习 - 5月14号学习完毕
 
 ## What's new in Sketch 3
 
