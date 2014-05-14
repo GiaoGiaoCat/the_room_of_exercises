@@ -4,6 +4,8 @@
 * [各种转换工具大全](http://tool.chinaz.com/)
 * [ASCII码图片转换器](http://www.network-science.de/ascii/)
 * [Ruby正则替换器](http://www.rubular.com/)
+* [Ruby Code Review](https://codeclimate.com/)
+* [Unpack or deobfuscate JavaScript and HTML](http://jsbeautifier.org/)
 
 ## 设计师资源
 
@@ -34,7 +36,8 @@
 * [随机纹理站](http://thepatternlibrary.com/)
 * [优设 设计师资源网站](http://www.uisdc.com/)
 * [设计网站大全](http://hao.zlg.cc/)
-
+* [android 设计欣赏 1](http://www.android-app-patterns.com/)
+* [android 设计欣赏 2](http://androidniceties.tumblr.com/)
 
 **字体**
 
@@ -66,6 +69,13 @@
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
 * [Startup News](http://news.dbanotes.net/)
+* [移动开发每周精选](http://www.mobdevweekly.com/)
+* [移动开发者门户](http://www.apkbus.com/)
+* [iOS技术周报](http://weekly.ios-wiki.com/)
+* [iOS移动开发周报](http://blog.devtang.com/blog/categories/ios/)
+* [NSHipster 关注被忽略的 Objective-C 和 Cocoa 特性](http://nshipster.cn/)
+* [iOS Dev Weekly](https://iosdevweekly.com/)
+* [Java Code Geeks](http://www.javacodegeeks.com/android/)
 
 ### IT新闻
 
@@ -92,6 +102,7 @@
 ## 好玩工具
 
 * [方便制作表格](http://ozh.github.io/ascii-tables/)
+* [Android Holo Colors Generator](http://android-holo-colors.com/)
 
 ## 游戏开发
 * [raywenderlich](http://www.raywenderlich.com/)

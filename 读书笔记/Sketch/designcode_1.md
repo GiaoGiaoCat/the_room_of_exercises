@@ -1,4 +1,4 @@
-# Learn Sketch 3 5月8日开始学习
+# Learn Sketch 3 5月8日学习
 
 ## What's new in Sketch 3
 
@@ -160,3 +160,53 @@
 * 善用辅助线，确保文字的基准线对齐
 * 善用对称设计对于新人来说很简单，两个按钮就左右各一个，一个按钮就放在正中间
 * 让你的图形是整数并且是偶数
+
+# Designing Screens 5月14日学习
+
+## Designing the Articles List
+
+* Using Pages
+* The rows
+* Adding the extra data
+* Duplicating rows
+* The interface should disappear
+* A simple header
+* Swipe actions
+
+## Action Screens
+
+* Using Symbols
+* The List states
+* The Profile state
+* The Share state
+
+## Designing buttons
+
+* Rounded rectangles
+* Circle buttons
+* Square buttons
+* Pressed states
+
+**tips**
+
+* 图片和内容要无限接近真实，而不要随便找一些测试数据甚至是完全一样的数据重复用。 Make it seem as polished as the final produc.
+* 内容为王所以背景色尽量靠近白色，不要让界面有过多的色彩.
+* 设计师最好覆盖如下情况 long filenames, loading, pressed states, realistic backgrounds, offline content, empty states.
+
+# Prototype in Flinto
+
+* The logo
+* The App Icon
+* Copying Artboards
+* Exporting the art boards
+* The Startup screen
+* Start a trial on Flinto
+* Drag and Drop
+* Connecting the screens
+* The back button
+* Sending your prototype
+* Installing the prototype
+
+**tips**
+
+* The startup screen is pretty simple. You can put your brand there or simply a 4x. Size of the app icon to give that consistent zoom effect.

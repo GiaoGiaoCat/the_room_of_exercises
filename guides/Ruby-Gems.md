@@ -7,3 +7,14 @@
 ### 相关资源
 
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
+
+### 我用过的GEM
+
+**部署**
+
+* [Puma](http://puma.io/)
+* [Mina](http://nadarei.co/mina/)
+
+**功能**
+
+**开发**
