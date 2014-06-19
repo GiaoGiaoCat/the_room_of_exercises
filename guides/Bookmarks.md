@@ -9,6 +9,14 @@
 
 ## 设计师资源
 
+**原型设计工具**
+
+原型设计工具分两种，带基础控件，让大家把精力集中在功能设计上。导入图片，实现高保证的原型动画交互。
+
+* [mockingbot.com](https://mockingbot.com/) - 提供控件
+* [marvelapp.com](https://marvelapp.com/) - 导入图片
+* [flinto.com](https://www.flinto.com/) - 导入图片
+
 **Sketch 相关**
 
 * [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
