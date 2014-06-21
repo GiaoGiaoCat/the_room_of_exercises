@@ -17,6 +17,18 @@
 * [marvelapp.com](https://marvelapp.com/) - 导入图片
 * [flinto.com](https://www.flinto.com/) - 导入图片
 
+** 动画效果设计工具**
+
+例子: http://www.pinterest.com/julient/animated-uxui/
+
+* Quartz Composer
+  1. http://quartzcomposer.com/patches
+  2. https://developer.apple.com/library/mac/documentation/graphicsimaging/conceptual/quartzcomposeruserguide/qc_intro/qc_intro.html
+  3. http://www.zhihu.com/question/20956344
+* [Origmai](http://facebook.github.io/origami/)
+* [avocado](https://github.com/ideo/avocado/)
+* [After Effects](http://developertodesigner.wordpress.com/2014/05/09/how-to-create-animated-gifs-for-ui-design-presentations/)
+
 **Sketch 相关**
 
 * [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
@@ -113,8 +125,16 @@
 * [Android Holo Colors Generator](http://android-holo-colors.com/)
 
 ## 游戏开发
+
 * [raywenderlich](http://www.raywenderlich.com/)
 
+## Dvorak Keyboard Layout
+
+* [Programmer Dvorak Keyboard Layout](http://www.kaufmann.no/roland/dvorak/)
+* [Programmer Dvorak typing tutorial](http://programmer-dvorak.appspot.com/)
+* [The Programmer's Dvorak keyboard layout](http://dev.hubspot.com/blog/bid/6190/The-Programmer-s-Dvorak-keyboard-layout)
+* [Installing the Programmer Dvorak Keyboard Layout on Mac OS X](http://www.kaufmann.no/roland/dvorak/macosx.html)
+* [typingspeed](http://www.typeonline.co.uk/typingspeed.php)
 
 ## VIM
 
@@ -132,3 +152,10 @@
 * [继续 FSE 插件](http://bluegene8210.is-programmer.com/categories/5367/posts)
 * [Key Mapping and Vintage Mode Setup for Sublime Text 2](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2/)
 * [Vintage Mode for Sublime Text 2](https://www.sublimetext.com/docs/2/vintage.html)
+
+### VIM & Dvorak
+
+* [Using Vim with the Dvorak keyboard layout](http://vim.wikia.com/wiki/Using_Vim_with_the_Dvorak_keyboard_layout)
+* [Switching to Vim with Dvorak](http://kevin.pfefferle.co/2012/02/14/switching-to-vim-with-dvorak/)
+* [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+* [vi/vim tutorial for Dvorak](http://boredzo.org/vi_tutorial/)
