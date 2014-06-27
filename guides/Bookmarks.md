@@ -123,6 +123,8 @@
 
 * [方便制作表格](http://ozh.github.io/ascii-tables/)
 * [Android Holo Colors Generator](http://android-holo-colors.com/)
+* [Product Hunt - the best new products, every day](http://www.producthunt.com/)
+
 
 ## 游戏开发
 
