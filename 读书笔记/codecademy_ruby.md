@@ -23,7 +23,9 @@ Ruby 区分大小写，所以 *true* 和 *True* 是不同的。
 
 变量是程序开发中的基础概念。你可以把变量当做掌握某一个值的单词或者名称。
 
-``` my_num = 25 ```
+```
+my_num = 25
+```
 
 ### Math
 
@@ -34,7 +36,9 @@ Ruby 区分大小写，所以 *true* 和 *True* 是不同的。
 * Exponentiation (**) 求幂(乘方)
 * Modulo (%) 求余
 
-```2***3 means 2 * 2 * 2```
+```
+2***3 means 2 * 2 * 2
+```
 
 ### 'puts' and 'print'
 
@@ -88,3 +92,24 @@ Ruby 不会阻止你用奇怪的符号当做变量的开头，但是按照惯例
 *gets* 是 Ruby 内置的方法，用来获得用户输入。当获得输入的时候，Ruby 会在输入后自动加一个空行。*chomp* 方法可以移除这个空行。
 
 ### string interpolation
+
+---
+
+# CONTROL FLOW IN RUBY
+
+## Introduction to Control Flow
+
+* if, elsif, else, unless
+* while, until
+* loop, for, next, break
+* each
+* times
+
+```
+i = 0
+loop do
+  i += 1
+  print "#{i}"
+  break if i > 5
+end
+```
