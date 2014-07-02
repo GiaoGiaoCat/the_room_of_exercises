@@ -74,6 +74,7 @@
 * [中文慕课网](http://www.imooc.com/)
 * [测试你的编程能力](http://smarterer.com/)
 * [Go 语言在线学习](http://go-tour-zh.appspot.com/#1)
+* [Learn Version Control with Git](http://www.git-tower.com/learn/)
 
 ### 收集资源
 

@@ -16,6 +16,7 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Rails 教程中文版](https://github.com/Tassandar/Rails-Tutorial-Translate/)
 * [Ruby on Rails Guides 中文](http://guides.ruby-china.org/)
+* [免费的编程中文书籍索引](https://code.csdn.net/JustJavaC/free-programming-books-zh_cn)
 * [Cumiki is the platform for learning and teaching programming](http://cumiki.com/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
 * [Rails 102](http://rocodev.gitbooks.io/rails-102/)
@@ -57,6 +58,8 @@ Guides for getting things done, programming well, and programming in style.
 * [sitepoint - Ruby 各种知识点](http://www.sitepoint.com/ruby/)
 * [scotch.io - Sublime Text 3 各种知识点](http://scotch.io/)
 * [Supercharge Your Rails Development Environment](http://joshsymonds.com/blog/2014/01/22/supercharge-your-rails-development-environment/)
+* [A Quick Guide to Sublime Text](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
+* [最佳日志实践](http://www.bitstech.net/2014/01/07/log-best-practice/)
 
 ### 专题
 
@@ -80,6 +83,7 @@ Guides for getting things done, programming well, and programming in style.
 #### API
 
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?utm_campaign=Manong_Weekly_Issue_8&utm_medium=EDM&utm_source=Manong_Weekly)
+* [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 
 #### Rack
 
