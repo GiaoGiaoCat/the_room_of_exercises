@@ -152,3 +152,199 @@ loop do
   break if i > 5
 end
 ```
+
+## Difference between map and collect in Ruby?
+
+*each* is different from *map* and *collect*, but *map* and *collect* are the same (technically *map* is an alias for *collect*, but in my experience map is used a lot more frequently).
+
+*each* performs the enclosed block for each element in the (Enumerable) receiver:
+
+```
+[1,2,3,4].each {|n| puts n*2}
+# Outputs:
+# 2
+# 4
+# 6
+# 8
+
+[1,2,3,4].map {|n| n*2}
+# => [2,4,6,8]
+```
+
+Each will evaluate the block but throws away the result of Each block's evaluation and returns the original array.
+
+```
+irb(main):> [1,2,3].each {|x| x*2}
+=> [1, 2, 3]
+```
+
+Map/collect return an array constructed as the result of calling the block for each item in the array.
+
+```
+irb(main):> [1,2,3].collect {|x| x*2}
+=> [2, 4, 6]
+```
+
+# BLOCKS, PROCS, AND LAMBDAS
+
+代码块就是一小段可以执行的代码。通常由 ```do...end``` 或者 ```{}``` 来定义。
+代码块通常跟随 *times*, *each*, *collect* 之类的方法一起使用。
+
+## Blocks: A Reintroduction
+
+### yield
+
+```
+def block_test
+  puts "We're in the method!"
+  puts "Yielding to the block..."
+  yield
+  puts "We're back in the method!"
+end
+
+block_test { puts ">>> We're in the block!" }
+```
+
+```
+def yield_name(name)
+  puts "In the method! Let's yield."
+  yield("Kim")
+  puts "In between the yields!"
+  yield(name)
+  puts "Block complete! Back in the method."
+end
+
+yield_name("Eric") { |n| puts "My name is #{n}." }
+```
+
+## Procs: Savable Blocks!
+
+在 **一切皆对象** 的 Ruby 中。代码块是一个例外，它不是对象。所以你不能给它复制给一个变量。所以也没有对象那些能力，比如 .methods 方法。
+*&* 把 proc 转换成 block。
+*.call* 调用 proc
+
+there's always more than one way to do something in Ruby.
+
+### 好处
+
+* 利用 Proc 把代码块转换之后，可以把代码块当做对象一样来调用各种方法
+* 可以重复调用一个代码块，有利于我们保持 DRY 的原则。
+
+```
+multiples_of_3 = Proc.new do |n|
+  n % 3 == 0
+end
+
+(1..100).to_a.select(&multiples_of_3)
+```
+
+```
+hi = Proc.new { puts "Hello!" }
+hi.call
+```
+
+利用 *&* 可以把符号转换成代码块。
+
+```
+strings = ["1", "2", "3"]
+nums = strings.map(&:to_i)
+# ==> [1, 2, 3]
+```
+
+## Lambdas
+
+### 区别
+
+1. lambdas 检查参数的个数，Procs 不会。在 Proc 中，多余的参数被设为 nil。但 lambdas 中，Ruby 抛出了一个错误。
+2. lambdas 的 return 是返回值给方法，方法会继续执行。Proc 的 return 会终止方法并返回得到的值。
+
+### 为何这么设计
+
+* Ruby 中的 Procs 是代码片段(code snippets)，不是方法。因此，Proc 的 return 就是整个方法的 return。
+* lambdas 就像是单独的 methods (只不过是匿名的)，所以它要检查参数个数，且不会覆盖整个方法的返回。
+
+
+## Method
+
+当你想把一个方法以闭包的形式传递给另一个方法，并且保持代码DRY。你可以使用 Ruby 的 method 方法。
+如你所料，square 不是 Proc，而是 Method。Method 与 lambda 用法相同，因为它们的概念是一样的。不同的是 Method 是有名字的 method，而 lambda 是匿名 method。
+
+```
+class Array
+  def iterate!(code)
+    self.each_with_index do |n, i|
+      self[i] = code.call(n)
+    end
+  end
+end
+
+def square(n)
+  n ** 2
+end
+
+array = [1, 2, 3, 4]
+
+array.iterate!(method(:square))
+
+puts array.inspect
+
+# => [1, 4, 9, 16]
+```
+
+今日发现的坑
+
+```
+by_channel_and_app = lambda do
+  settings = 'hello'
+  "victor" if settings == "hello"
+end
+
+puts by_channel_and_app.call
+```
+
+
+# OBJECT-ORIENTED PROGRAMMING, PART I
+
+* @ 实例变量
+* $ 全局变量
+* @@ 类变量
+
+```
+class Computer
+  $manufacturer = "Mango Computer, Inc."
+  @@files = {hello: "Hello, world!"}
+
+  def initialize(username, password)
+    @username = username
+    @password = password
+  end
+
+  def current_user
+    @username
+  end
+
+  def self.display_files
+    @@files
+  end
+end
+
+# Make a new Computer instance:
+hal = Computer.new("Dave", 12345)
+
+puts "Current user: #{hal.current_user}"
+# @username belongs to the hal instance.
+
+puts "Manufacturer: #{$manufacturer}"
+# $manufacturer is global! We can get it directly.
+
+puts "Files: #{Computer.display_files}"
+# @@files belongs to the Computer class.
+
+#=>
+
+Current user: Dave
+Manufacturer: Mango Computer, Inc.
+Files: {:hello=>"Hello, world!"}
+```
+
+# OBJECT-ORIENTED PROGRAMMING, PART II
