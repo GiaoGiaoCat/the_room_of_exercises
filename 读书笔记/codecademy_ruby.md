@@ -3,8 +3,9 @@
 1. hash = Hash.new(0) 然后 hash 里面添加任何一个新的 key 默认的 value 都是 0。
 2. 多行注释的时候 =begin 和 =end 是ruby少数几个，不能用空格隔开的地方。通常情况下我们认为 ruby 是忽略空格的。
 3. <=> 不是比较内存地址，只是比较两个对象的值，根据相等，大于，小于 依次返回 0，1，-1。所以数组反向排序的排序可以使用 arr.sort! { |a,b| b <=> a }。
-4. false 和 nil 是 Ruby 中唯一不是 true 的值，但是它俩并不一样。 unless nil 和 unless false 都会执行。
-5. Hash 创建的方法。
+4. hash 的 select 方法，可以过滤条件 hash.select { |k, v| v > 50 }
+5. false 和 nil 是 Ruby 中唯一不是 true 的值，但是它俩并不一样。 unless nil 和 unless false 都会执行。
+6. Hash 创建的方法。
 
 ```
 Hash["a", 100, "b", 200]             #=> {"a"=>100, "b"=>200}
@@ -33,6 +34,7 @@ end
 puts "String time: #{string_time} seconds."
 puts "Symbol time: #{symbol_time} seconds."  
 ```
+
 
 
 # Introduction to Ruby
