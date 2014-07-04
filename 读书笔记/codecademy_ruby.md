@@ -3,6 +3,37 @@
 1. hash = Hash.new(0) 然后 hash 里面添加任何一个新的 key 默认的 value 都是 0。
 2. 多行注释的时候 =begin 和 =end 是ruby少数几个，不能用空格隔开的地方。通常情况下我们认为 ruby 是忽略空格的。
 3. <=> 不是比较内存地址，只是比较两个对象的值，根据相等，大于，小于 依次返回 0，1，-1。所以数组反向排序的排序可以使用 arr.sort! { |a,b| b <=> a }。
+4. false 和 nil 是 Ruby 中唯一不是 true 的值，但是它俩并不一样。 unless nil 和 unless false 都会执行。
+5. Hash 创建的方法。
+
+```
+Hash["a", 100, "b", 200]             #=> {"a"=>100, "b"=>200}
+Hash[ [ ["a", 100], ["b", 200] ] ]   #=> {"a"=>100, "b"=>200}
+Hash["a" => 100, "b" => 200]         #=> {"a"=>100, "b"=>200}
+所以我们可以这么创建 Hash
+symbol_AZ = Hash[(:a..:z).to_a.zip((1..26).to_a)]
+```
+
+1. benchmark. The Benchmark module provides methods to measure and report the time used to execute Ruby code.
+
+```
+require 'benchmark'
+
+string_AZ = Hash[("a".."z").to_a.zip((1..26).to_a)]
+symbol_AZ = Hash[(:a..:z).to_a.zip((1..26).to_a)]
+
+string_time = Benchmark.realtime do
+  100_000.times { string_AZ["r"] }
+end
+
+symbol_time = Benchmark.realtime do
+  100_000.times { symbol_AZ[:r] }
+end
+
+puts "String time: #{string_time} seconds."
+puts "Symbol time: #{symbol_time} seconds."  
+```
+
 
 # Introduction to Ruby
 
