@@ -35,6 +35,7 @@ Guides for getting things done, programming well, and programming in style.
 * [CodeWars](http://www.codewars.com/)
 * [CodeSchool](https://www.codeschool.com/)
 * [CodeCademy](http://www.codecademy.com/dashboard)
+* [RubyMonk](https://rubymonk.com/) - 有6个Lesson，包括Ruby Collection, Ruby Object, OOP, String, Hash，Control Structure等
 
 ### Rails 提高
 
