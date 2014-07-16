@@ -348,3 +348,5 @@ Files: {:hello=>"Hello, world!"}
 ```
 
 # OBJECT-ORIENTED PROGRAMMING, PART II
+
+* private 方法不能有明确的接受者
