@@ -43,6 +43,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Web 开发小技巧](http://happycasts.net/)
 * [RailsCasts](http://railscasts.com/)
 * [Rails 视频教程](http://railscasts-china.com/)
+* [Create amazing web apps 视频教程](https://gorails.com/)
 * [tutsplus 视频教程](http://tutsplus.com)
 * [DESTROY ALL SOFTWARE CATALOG 视频教程](https://www.destroyallsoftware.com/screencasts/catalog)
 * [14个方法让 ruby 编码更快乐](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
