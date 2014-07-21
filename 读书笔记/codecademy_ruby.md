@@ -6,6 +6,7 @@
 4. hash 的 select 方法，可以过滤条件 hash.select { |k, v| v > 50 }
 5. false 和 nil 是 Ruby 中唯一不是 true 的值，但是它俩并不一样。 unless nil 和 unless false 都会执行。
 6. Hash 创建的方法。
+7. class.ancestors 可以查看一个类的所有父类。class.included_modules 可以查看类包含的所有模块。
 
 ```
 Hash["a", 100, "b", 200]             #=> {"a"=>100, "b"=>200}
@@ -305,6 +306,19 @@ puts by_channel_and_app.call
 
 # OBJECT-ORIENTED PROGRAMMING, PART I
 
+1. 为什么需要 classes
+
+在 Ruby 中几乎一切都是对象，对象有方法和属性。类用来组织和产生拥有相近属性和方法的对象。
+
+2. 如何定义 class
+3. initialize 方法
+4. 实例变量
+5. 创建类的实例
+6. 变量作用域
+7. 继承
+8. 重载
+9. 只能有一个父类
+
 * @ 实例变量
 * $ 全局变量
 * @@ 类变量
@@ -349,4 +363,47 @@ Files: {:hello=>"Hello, world!"}
 
 # OBJECT-ORIENTED PROGRAMMING, PART II
 
-* private 方法不能有明确的接受者
+1. private 方法不能有明确的接受者
+2. attr_reader, attr_writer, attr_accessor
+3. module 是包含一组方法和常量的工具箱，它和类非常像，只是不能被创建实例
+4. require, include 方法可以引入一些 Ruby 本身提供的工具模块
+
+# require, load, include and extend 的区别
+
+## require
+
+加载一个库，并且只加载一次，如果你多次加载会返回 false。只有当你要加载的库位于一个分离的文件中时才有必要使用 require。使用时不需要加扩展名，一般放在文件的最前面： require 'test_library'
+
+## load
+
+多次加载一个库，你必须指定扩展名: load 'test_library.rb'
+
+## include
+
+当你的库加载之后，你可以在你的类定义中包含一个 module，让 module 的实例方法和变量成为类本身的实例方法和类变量，它们 mix 进来了。
+根据锄头书，include 并不会把 module 的实例方法拷贝到类中，只是做了引用，包含 module 的不同类都指向了同一个对象。
+如果你改变了 module 的定义，即使你的程序还在运行，所有包含 module 的类都会改变行为。
+
+## extend
+
+会把 module 的实例方法作为类方法加入类中：
+
+```
+class TestClass
+  extend Log
+end
+```
+
+## 不同之处
+
+1. requre, load 用于文件，如 .rb 等等结尾的文件
+2. include 则用于包含一个文件( .rb 等结尾的文件)中的模块
+3. requre 一般情况下用于加载库文件，而 load 则用于加载配置文件
+
+
+# 链接
+
+* [methods-in-ruby-objects-or-not](http://stackoverflow.com/questions/2602340/methods-in-ruby-objects-or-not)
+* [了解 Ruby 中的闭包 : blocks , procs 和 lambdas](http://www.oschina.net/translate/know-your-closures-blocks-procs-and-lambdas?cmp&p=1)
+* [理解Ruby的4种闭包：blocks, Procs, lambdas 和 Methods](http://rubyer.me/blog/917/)
+* [Ruby面向对象(类)](http://www.yiibai.com/ruby/ruby_object_oriented.html#ruby_object_oriented)
