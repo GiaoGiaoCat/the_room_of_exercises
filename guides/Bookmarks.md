@@ -131,6 +131,12 @@
 
 * [raywenderlich](http://www.raywenderlich.com/)
 
+## 数据库
+
+### Redis
+
+* [Redis 常见使用模式分析](http://www.slideshare.net/vincent253/redis-37221509)
+
 ## Dvorak Keyboard Layout
 
 * [Programmer Dvorak Keyboard Layout](http://www.kaufmann.no/roland/dvorak/)
