@@ -27,18 +27,59 @@ if (condition) {
 
 # FUNCTIONS
 
+1. return 关键字在函数中，会返回该值，否则函数不会返回任何值。这和 Ruby 不同，函数并没有默认返回值。
+2. 全局变量和局部变量。全局变量就是定义在函数之外的变量。
+3. Math.random() 生成随机数
+
 ```
-var divideByThree = function (number) {
-    var val = number / 3;
-    console.log(val);
+var my_number = 7; //this has global scope
+var divideByThree = function(length, width) {
+    return length * width;
 };
 
-divideByThree(6);
+var result = divideByThree(6, 2);
+console.log(result);
 ```
 
 # 'FOR' LOOPS IN JAVASCRIPT
 
+```
+text = "Blah blah blah blah blah blah Eric \
+blah blah blah Eric blah blah Eric blah blah \
+blah blah blah blah blah Eric";
+
+var myName = "Eric";
+var hits = [];
+
+// Look for "E" in the text
+for(var i = 0; i < text.length; i++) {
+  if (text[i] === "E") {
+    // If we find it, add characters up to
+    // the length of my name to the array
+    for(var j = i; j < (myName.length + i); j++) {
+      hits.push(text[j]);
+    }
+  }
+}
+
+if (hits.length === 0) {
+  console.log("Your name wasn't found!");
+} else {
+  console.log(hits);
+}
+```
+
 # 'WHILE' LOOPS IN JAVASCRIPT
+
+```
+var coinFace = Math.floor(Math.random() * 2);
+
+while(coinFace === 0){
+	console.log("Heads! Flipping again...");
+	var coinFace = Math.floor(Math.random() * 2);
+}
+console.log("Tails! Done flipping.");
+```
 
 # CONTROL FLOW
 

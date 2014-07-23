@@ -401,6 +401,18 @@ end
 3. requre 一般情况下用于加载库文件，而 load 则用于加载配置文件
 
 
+# 相等：==, ===, eql?, equal?, <=>
+
+1. == 普通的相等，不对 object_id 是否相等进行检查
+2. eql? 和 == 是相同的
+3. equal? 则是要对 object_id 是否相等进行检查
+4. 当使用 case statement 的时候，在 ruby 内部，会调用 === 方法
+5. 在 case statement 外部使用的时候， Tripple Equal 有两种不同的情况
+  * 如果是类来调用 === 方法，就会比较另一个对象是否为当前类的实例
+  * 如果是对象调用 === 方法，和 == 用法相同
+6. <=> 返回 -1, 0, 1
+
+
 # 链接
 
 * [methods-in-ruby-objects-or-not](http://stackoverflow.com/questions/2602340/methods-in-ruby-objects-or-not)

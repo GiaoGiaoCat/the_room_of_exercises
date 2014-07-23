@@ -13,6 +13,7 @@
 ## D
 
 * Descending Order 降序
+* Domain-specific language DSL 领域特定语言
 
 ## E
 
@@ -25,6 +26,7 @@
 ## I
 
 * Instance Variable 实例变量
+* Iterator 迭代器
 
 ## L
 
@@ -32,6 +34,7 @@
 
 ## M
 
+* Metaprogramming 元编程
 * Method 方法
 * Multiplies 相乘
 
@@ -39,7 +42,17 @@
 
 * Parameters 参数
 
+## R
+
+* Regexp 正则表达式
+* Range 范围
+
 ## S
 
+* String interpolation 字符串内插
 * Splat Arguments - Variable Length Arguments List
 * Sorting Algorithm 排序算法
+
+## T
+
+* The conditional operator 三元表达式
