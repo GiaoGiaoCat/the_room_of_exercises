@@ -79,6 +79,13 @@ while(coinFace === 0){
 	var coinFace = Math.floor(Math.random() * 2);
 }
 console.log("Tails! Done flipping.");
+
+
+var loopCondition = false;
+
+do {
+	console.log("I'm gonna stop looping 'cause my condition is " + loopCondition + "!");
+} while (loopCondition);
 ```
 
 # CONTROL FLOW
