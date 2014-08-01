@@ -134,6 +134,11 @@
 
 * [raywenderlich](http://www.raywenderlich.com/)
 
+## 在线服务
+
+* [AVOS Cloud加速移动应用开发](https://cn.avoscloud.com/)
+* [环信即时通讯云 - 5分钟，为你的应用加入移动IM功能](http://www.easemob.com/index.php)
+
 ## 数据库
 
 ### Redis
