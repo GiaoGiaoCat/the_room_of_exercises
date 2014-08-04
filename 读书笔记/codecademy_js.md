@@ -234,6 +234,8 @@ var bob = new Person("Bob Smith", 30);
 1. typeof 用来判断参数是什么类型，常用的类型有 "number" "string" "function"  "object"
 2. hasOwnProperty 判断对象自身含有什么属性
 3. for 可以遍历对象的属性
+4. prototype 为类添加方法
+5. 类的继承  Penguin.prototype = new Animal();
 
 ```
 var james = {
@@ -271,4 +273,42 @@ var nyc = {
 for(var property in nyc) {
     console.log(property);
 }
+```
+
+```
+function Dog (breed) {
+  this.breed = breed;
+};
+
+// here we make buddy and teach him how to bark
+var buddy = new Dog("golden Retriever");
+Dog.prototype.bark = function() {
+  console.log("Woof");
+};
+buddy.bark();
+
+// here we make snoopy
+var snoopy = new Dog("Beagle");
+/// this time it works!
+snoopy.bark();
+```
+
+```
+// the original Animal class and sayName method
+function Animal(name, numLegs) {
+    this.name = name;
+    this.numLegs = numLegs;
+}
+Animal.prototype.sayName = function() {
+    console.log("Hi my name is " + this.name);
+};
+
+// define a Penguin class
+function Penguin(name) {
+    this.name = name;
+    this.numLegs = 2;
+}
+
+// set its prototype to be a new instance of Animal
+Penguin.prototype = new Animal();
 ```

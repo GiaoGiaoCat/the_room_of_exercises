@@ -41,6 +41,7 @@ Guides for getting things done, programming well, and programming in style.
 
 * [CodeWall发现各种tips](https://coderwall.com/)
 * [Web 开发小技巧](http://happycasts.net/)
+* [Ruby on Rails screencasts for developers who want to become pros](https://gorails.com/)
 * [RailsCasts](http://railscasts.com/)
 * [Rails 视频教程](http://railscasts-china.com/)
 * [Create amazing web apps 视频教程](https://gorails.com/)
