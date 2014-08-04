@@ -79,14 +79,24 @@
 * [Go 语言在线学习](http://go-tour-zh.appspot.com/#1)
 * [Learn Version Control with Git](http://www.git-tower.com/learn/)
 
+## 前端开发
+
+* [带注释的 underscore js 代码](http://underscorejs.org/docs/underscore.html)
+
 ### 收集资源
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 * [图灵免费电子书](http://www.ituring.com.cn/book)
 * [Yelp开发团队发布内部网站设计指南](http://www.infoq.com/cn/news/2014/02/yelp-style-guide?utm_source=tuicool)
+* [Mac OS配置指南](http://www.sourabhbajaj.com/mac-setup/index.html)
+
 
 ### 开发阅读
 
+* [Ruby Weekly](http://rubyweekly.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [HTML5 Weekly](http://html5weekly.com/)
+* [HTML5 Game Weekly](http://gamedevjsweekly.com/)
 * [码农周刊](http://weekly.manong.io/)
 * [编程狂人](http://www.tuicool.com/mags)
 * [谷歌开发者周刊](http://gdgweekly.com/)

@@ -182,4 +182,93 @@ search("Steve");
 
 # OBJECTS I
 
+1. OOP 中重要的概念就是方法，在 JS 中方法和函数很像。我们可以按照给对象属性赋值的方法，将一个函数复制给对象的属性即可。
+  * 方法可以用来改变对象的属性
+  * 方法可以用来进行基于对象属性的计算
+2. this 引用调用方法的对象。
+3. Constructors 构造器相当于其他语言中的类的概念。
+
+```
+// here is bob again, with his usual properties
+var bob = new Object();
+bob.name = "Bob Smith";
+bob.age = 30;
+// this time we have added a method, setAge
+bob.setAge = function (newAge){
+  bob.age = newAge;
+};
+// here we set bob's age to 40
+bob.setAge(40);
+```
+
+```
+// here we define our method using "this", before we even introduce bob
+var setAge = function (newAge) {
+  this.age = newAge;
+};
+// now we make bob
+var bob = new Object();
+bob.age = 30;
+// and down here we just use the method we already made
+bob.setAge = setAge;
+
+// change bob's age to 50 here
+bob.setAge(50);
+```
+
+```
+function Person(name,age) {
+  this.name = name;
+  this.age = age;
+  this.print = function() {
+    console.log(this.name + this.age);
+  }
+}
+
+// Let's make bob and susan again, using our constructor
+var bob = new Person("Bob Smith", 30);
+```
+
 # OBJECTS II
+
+1. typeof 用来判断参数是什么类型，常用的类型有 "number" "string" "function"  "object"
+2. hasOwnProperty 判断对象自身含有什么属性
+3. for 可以遍历对象的属性
+
+```
+var james = {
+    job: "programmer",
+    married: false,
+    speak: function(string) {
+        console.log("Hello, I am feeling " + string);
+
+    }
+};
+
+james.speak("great");
+
+console.log( typeof james );
+```
+
+```
+var myObj = {
+    // finish myObj
+    name: "Victor"
+};
+
+console.log( myObj.hasOwnProperty('name') ); // should print true
+console.log( myObj.hasOwnProperty('nickname') ); // should print false
+```
+
+```
+var nyc = {
+    fullName: "New York City",
+    mayor: "Bill de Blasio",
+    population: 8000000,
+    boroughs: 5
+};
+
+for(var property in nyc) {
+    console.log(property);
+}
+```
