@@ -82,6 +82,7 @@
 ## 前端开发
 
 * [带注释的 underscore js 代码](http://underscorejs.org/docs/underscore.html)
+* [智能社 JavaScript 视频教程](http://www.youku.com/playlist_show/id_18270248.html)
 
 ### 收集资源
 
