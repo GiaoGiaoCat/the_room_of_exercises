@@ -89,6 +89,18 @@ Guides for getting things done, programming well, and programming in style.
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?utm_campaign=Manong_Weekly_Issue_8&utm_medium=EDM&utm_source=Manong_Weekly)
 * [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 
+### API 测试
+
+* [Rails Testing Antipatterns: Fixtures and Factories](https://semaphoreapp.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html)
+* [Adding Minitest Spec in Rails 4](http://blowmage.com/2013/07/08/minitest-spec-rails4)
+* [Rails API Testing Best Practices](http://matthewlehner.net/rails-api-testing-guidelines/)
+* [Rails Rspec APIs Testing Notes](https://coderwall.com/p/nmu9fq)
+* [Testing Rails JSON APIs with RSpec](http://easyart.github.io/2012/04/10/testing-rails-json-apis-with-rspec/)
+* [Rails JSON API testing POST request with PARAMS in JSON](http://stackoverflow.com/questions/18683336/rails-json-api-testing-post-request-with-params-in-json)
+* [How to use Ruby MiniTest::Spec with Rails for API integration tests?](http://stackoverflow.com/questions/10694355/how-to-use-ruby-minitestspec-with-rails-for-api-integration-tests)
+* [Testing Rails with MiniTest](http://blog.crowdint.com/2013/06/14/testing-rails-with-minitest.html)
+* [Minitest Quick Reference](http://www.mattsears.com/articles/2011/12/10/minitest-quick-reference)
+
 #### Rack
 
 * [A Quick Introduction to Rack](http://rubylearning.com/blog/a-quick-introduction-to-rack/)
@@ -107,7 +119,9 @@ Guides for getting things done, programming well, and programming in style.
 
 * [David Lesches on Rails](http://davidlesches.com/)
 * [GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS](http://robots.thoughtbot.com/)
-
+* [arkency's blog](http://blog.arkency.com/)
+* [Ruby/rails performance tools](http://pivotallabs.com/rubyrails-performance-tools/)
+* [Most Common Mistakes On Legacy Rails Apps](http://edelpero.svbtle.com/most-common-mistakes-on-legacy-rails-apps)
 
 ---
 

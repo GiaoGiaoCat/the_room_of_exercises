@@ -56,3 +56,10 @@
 ## T
 
 * The conditional operator 三元表达式
+
+### 测试方法名
+
+test_order_status_when_initialized
+test_order_amount_when_initialized
+test_default_is_zero
+test_total_calculation
