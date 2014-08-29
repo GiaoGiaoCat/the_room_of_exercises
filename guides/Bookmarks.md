@@ -117,7 +117,9 @@
 * [IT桔子](http://itjuzi.com)
 * [内存溢出 - 为程序员服务的内容聚合网站](http://outofmemory.cn/)
 * [天使湾推荐 - 互联网创业者最值得关注的资源汇总](http://www.tisiwi.com/123)
-* [快速发现好网站](http://www.kuaichanpin.com/)
+* [程序员的资料库](http://codecloud.net/)
+* [小众软件](http://codecloud.net/)
+* [快速发现好网站](http://www.appinn.com/)
 
 ### 编程规范
 
