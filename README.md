@@ -1,4 +1,4 @@
-人生，是一場修行。
+内容将陆续转移至 [wjp2013.github.io](http://wjp2013.github.io)
 
 ## Guides 各种手册
 

@@ -100,6 +100,7 @@
 * [HTML5 Game Weekly](http://gamedevjsweekly.com/)
 * [码农周刊](http://weekly.manong.io/)
 * [编程狂人](http://www.tuicool.com/mags)
+* [美团技术团队](http://tech.meituan.com/)
 * [谷歌开发者周刊](http://gdgweekly.com/)
 * [设计匠艺](http://www.tuicool.com/mags/design)
 * [独立博客大全](http://lusongsong.com/daohang/)
@@ -143,6 +144,14 @@
 * [Android Holo Colors Generator](http://android-holo-colors.com/)
 * [Product Hunt - the best new products, every day](http://www.producthunt.com/)
 
+### Best Free HTML5 Presentation Systems(PPT Tool)
+
+* [Reveal.js](http://lab.hakim.se/reveal-js/#/)
+* [Impress.js](http://bartaz.github.io/impress.js/#/bored)
+* [Google Slides Template](http://html5slides.googlecode.com/svn/trunk/template/index.html#1)
+* [Deck.js](http://imakewebthings.github.com/deck.js/)
+* [Shower](http://shwr.me/)
+* [CSSS](http://leaverou.github.io/csss/#intro)
 
 ## 游戏开发
 
