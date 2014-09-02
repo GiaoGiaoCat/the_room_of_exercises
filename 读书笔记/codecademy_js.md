@@ -312,3 +312,217 @@ function Penguin(name) {
 // set its prototype to be a new instance of Animal
 Penguin.prototype = new Animal();
 ```
+
+类的继承，子类的对象同样有父类定义的方法
+
+```
+// original classes
+function Animal(name, numLegs) {
+    this.name = name;
+    this.numLegs = numLegs;
+    this.isAlive = true;
+}
+// create your Penguin class here and make it inherit from Animal
+function Penguin(name) {
+    this.name = name;
+    this.numLegs = 2;
+}
+// create your Emperor class here and make it inherit from Penguin
+function Emperor(name) {
+    this.name = name;
+    this.saying = "Waddle waddle";
+}
+
+// set up the prototype chain
+Penguin.prototype = new Animal();
+Emperor.prototype = new Penguin();
+
+var myEmperor = new Emperor("Jules");
+
+console.log( myEmperor.saying ); // should print "Waddle waddle"
+console.log( myEmperor.numLegs ); // should print 2
+console.log( myEmperor.isAlive ); // should print true
+```
+
+在 JavaScript 中类的实例的属性都是 public 的。但是我们也可以为对象定义 Private Variables
+
+```
+function Person(first,last,age) {
+   this.firstname = first;
+   this.lastname = last;
+   this.age = age;
+   var bankBalance = 7500;
+}
+```
+
+Accessing Private Variables
+
+We can define a public method that returns the value of a private variable.
+
+```
+function Person(first,last,age) {
+   this.firstname = first;
+   this.lastname = last;
+   this.age = age;
+   var bankBalance = 7500;
+
+   this.getBalance = function() {
+      // your code should return the bankBalance
+      getBalance.prototype = new Person();
+      console.log(bankBalance);
+   };
+}
+
+var john = new Person('John','Smith',30);
+console.log(john.bankBalance);
+
+// create a new variable myBalance that calls getBalance()
+var myBalance = john.getBalance
+```
+
+Private Methods
+
+```
+function Person(first,last,age) {
+   this.firstname = first;
+   this.lastname = last;
+   this.age = age;
+   var bankBalance = 7500;
+
+   var returnBalance = function() {
+      return bankBalance;
+   };
+
+   // create the new function here
+   this.askTeller = function() {
+       return returnBalance
+   }
+}
+
+var john = new Person('John','Smith',30);
+console.log(john.returnBalance);
+var myBalanceMethod = john.askTeller();
+var myBalance = myBalanceMethod();
+console.log(myBalance);
+
+#=>
+undefined
+7500
+```
+
+Passing Arguments
+
+```
+function Person(first,last,age) {
+   this.firstname = first;
+   this.lastname = last;
+   this.age = age;
+   var bankBalance = 7500;
+
+   this.askTeller = function(pass) {
+     if (pass == 1234) return bankBalance;
+     else return "Wrong password.";
+   };
+}
+
+var john = new Person('John','Smith',30);
+/* the variable myBalance should access askTeller()
+   with a password as an argument  */
+var myBalance = john.askTeller(1234)
+```
+
+Looks For-In To Me
+
+```
+var languages = {
+    english: "Hello!",
+    french: "Bonjour!",
+    notALanguage: 4,
+    spanish: "Hola!"
+};
+
+// print hello in the 3 different languages
+
+
+for (var l in languages) {
+    if (typeof languages[l] === "string") {
+        console.log(languages[l])
+    }
+}
+```
+
+```
+function Dog (breed) {
+    this.breed = breed;
+
+};
+
+// add the sayHello method to the Dog class
+// so all dogs now can say hello
+Dog.prototype.sayHello = function() {
+    console.log("Hello this is a " + this.breed + " dog")
+}
+
+var yourDog = new Dog("golden retriever");
+yourDog.sayHello();
+
+var myDog = new Dog("dachshund");
+myDog.sayHello();
+```
+
+```
+// what is this "Object.prototype" anyway...?
+var prototypeType = typeof Object.prototype;
+console.log(prototypeType);
+
+// now let's examine it!
+var hasOwn = Object.prototype.hasOwnProperty('hasOwnProperty')
+console.log(hasOwn);
+```
+
+```
+function StudentReport() {
+    var grade1 = 4;
+    var grade2 = 2;
+    var grade3 = 1;
+    this.getGPA = function() {
+        return (grade1 + grade2 + grade3) / 3;
+    };
+}
+
+var myStudentReport = new StudentReport();
+
+for(var x in myStudentReport) {
+    if(typeof myStudentReport[x] !== "function") {
+        console.log("Muahaha! " + myStudentReport[x]);
+    }
+}
+
+console.log("Your overall GPA is " + myStudentReport.getGPA());
+```
+
+```
+var cashRegister = {
+    total:0,
+    add: function(itemCost){
+        this.total += itemCost;
+    },
+    scan: function(item) {
+        switch (item) {
+        case "eggs": this.add(0.98); break;
+        case "milk": this.add(1.23); break;
+        case "magazine": this.add(4.99); break;
+        case "chocolate": this.add(0.45); break;
+        }
+    }
+};
+
+//Scan 2 eggs and 3 magazines
+cashRegister.scan("magazine");
+cashRegister.scan("magazine");
+cashRegister.scan("magazine");
+cashRegister.scan("eggs");
+cashRegister.scan("eggs");
+//Show the total bill
+console.log('Your bill is '+cashRegister.total);
+```
