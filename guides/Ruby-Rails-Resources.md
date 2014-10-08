@@ -116,6 +116,7 @@ Guides for getting things done, programming well, and programming in style.
 * [張文鈿](http://ihower.tw/)
 * [李华顺](http://huacnlee.com/)
 * [Rei A web developer](http://chloerei.com/)
+* [Andor Chen](http://about.ac/)
 
 #### 英文
 
