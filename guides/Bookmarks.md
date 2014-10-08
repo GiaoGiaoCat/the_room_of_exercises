@@ -90,7 +90,7 @@
 * [图灵免费电子书](http://www.ituring.com.cn/book)
 * [Yelp开发团队发布内部网站设计指南](http://www.infoq.com/cn/news/2014/02/yelp-style-guide?utm_source=tuicool)
 * [Mac OS配置指南](http://www.sourabhbajaj.com/mac-setup/index.html)
-
+* [alias 资源技巧收集站](http://alias.sh/most-popular/usage)
 
 ### 开发阅读
 
@@ -147,6 +147,7 @@
 ### Best Free HTML5 Presentation Systems(PPT Tool)
 
 * [Reveal.js](http://lab.hakim.se/reveal-js/#/)
+* [Reveal.js Tool](https://slides.com/victorwang)
 * [Impress.js](http://bartaz.github.io/impress.js/#/bored)
 * [Google Slides Template](http://html5slides.googlecode.com/svn/trunk/template/index.html#1)
 * [Deck.js](http://imakewebthings.github.com/deck.js/)
@@ -193,7 +194,7 @@
 * [Key Mapping and Vintage Mode Setup for Sublime Text 2](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2/)
 * [Vintage Mode for Sublime Text 2](https://www.sublimetext.com/docs/2/vintage.html)
 * [vim 插件网站](http://vimawesome.com/)
-
+* [VIM 视频教学](http://vimcasts.org/episodes/)
 
 ### VIM & Dvorak
 

@@ -39,6 +39,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ### Rails 提高
 
+* [Free video tutorials for web developers and designers](http://leveluptuts.com/tutorials)
 * [CodeWall发现各种tips](https://coderwall.com/)
 * [Web 开发小技巧](http://happycasts.net/)
 * [Ruby Quicktips](http://rubyquicktips.com/)
@@ -64,6 +65,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Supercharge Your Rails Development Environment](http://joshsymonds.com/blog/2014/01/22/supercharge-your-rails-development-environment/)
 * [A Quick Guide to Sublime Text](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
 * [最佳日志实践](http://www.bitstech.net/2014/01/07/log-best-practice/)
+* [优秀的Ruby博客](http://thepugautomatic.com/)
 
 ### 专题
 
