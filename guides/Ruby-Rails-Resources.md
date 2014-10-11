@@ -39,6 +39,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ### Rails 提高
 
+* [appcasts](https://appcasts.io/)
 * [Free video tutorials for web developers and designers](http://leveluptuts.com/tutorials)
 * [CodeWall发现各种tips](https://coderwall.com/)
 * [Web 开发小技巧](http://happycasts.net/)
