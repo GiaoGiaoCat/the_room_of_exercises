@@ -4,8 +4,11 @@
 * [各种转换工具大全](http://tool.chinaz.com/)
 * [ASCII码图片转换器](http://www.network-science.de/ascii/)
 * [Ruby正则替换器](http://www.rubular.com/)
+* [正则检查器](http://www.regexr.com/)
 * [Ruby Code Review](https://codeclimate.com/)
 * [Unpack or deobfuscate JavaScript and HTML](http://jsbeautifier.org/)
+* [Shell命令检查器](http://www.shellcheck.net/)
+* [Shell命令解释](http://explainshell.com/)
 
 ## 设计师资源
 
