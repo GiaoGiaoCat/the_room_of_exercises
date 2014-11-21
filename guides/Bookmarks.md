@@ -1,6 +1,7 @@
 ## Github 好书
 
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [Your unofficial guide to dotfiles on GitHub](http://dotfiles.github.io/)
 
 ## 工具类网站
 
