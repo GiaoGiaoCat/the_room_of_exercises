@@ -1,3 +1,7 @@
+## Github 好书
+
+* [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+
 ## 工具类网站
 
 * [API测试平台](https://www.runscope.com/)
