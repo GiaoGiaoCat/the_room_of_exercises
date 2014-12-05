@@ -83,6 +83,7 @@
 * [中文慕课网](http://www.imooc.com/)
 * [中文学习编程](http://www.fenby.com/index)
 * [泰课在线](http://www.taikr.com/)
+* [优才网](http://www.ucai.cn/)
 * [teamtreehouse 学习前端和iPhone开发](http://teamtreehouse.com/)
 * [测试你的编程能力](http://smarterer.com/)
 * [Go 语言在线学习](http://go-tour-zh.appspot.com/#1)
