@@ -25,7 +25,7 @@
 * [marvelapp.com](https://marvelapp.com/) - 导入图片
 * [flinto.com](https://www.flinto.com/) - 导入图片
 
-** 动画效果设计工具**
+**动画效果设计工具**
 
 例子: http://www.pinterest.com/julient/animated-uxui/
 
@@ -36,6 +36,7 @@
 * [Origmai](http://facebook.github.io/origami/)
 * [avocado](https://github.com/ideo/avocado/)
 * [After Effects](http://developertodesigner.wordpress.com/2014/05/09/how-to-create-animated-gifs-for-ui-design-presentations/)
+* [framerjs](http://framerjs.com/) 看起来这个很流行
 
 **Sketch 相关**
 
