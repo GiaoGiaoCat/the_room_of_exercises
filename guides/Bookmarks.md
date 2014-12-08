@@ -124,6 +124,7 @@
 * [NSHipster 关注被忽略的 Objective-C 和 Cocoa 特性](http://nshipster.cn/)
 * [iOS Dev Weekly](https://iosdevweekly.com/)
 * [Java Code Geeks](http://www.javacodegeeks.com/android/)
+* [Designer News](https://news.layervault.com/)
 
 ### IT新闻
 
