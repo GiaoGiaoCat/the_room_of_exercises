@@ -42,11 +42,12 @@ Guides for getting things done, programming well, and programming in style.
 * [appcasts](https://appcasts.io/)
 * [Free video tutorials for web developers and designers](http://leveluptuts.com/tutorials)
 * [CodeWall发现各种tips](https://coderwall.com/)
+* [SecCasts Rails 安全相关视频](https://seccasts.com/mror)
 * [Web 开发小技巧](http://happycasts.net/)
 * [Ruby Quicktips](http://rubyquicktips.com/)
 * [Ruby on Rails screencasts for developers who want to become pros](https://gorails.com/)
 * [RailsCasts](http://railscasts.com/)
-* [Rails 视频教程](http://railscasts-china.com/)
+* [中文 Rails 视频教程](http://railscasts-china.com/)
 * [Create amazing web apps 视频教程](https://gorails.com/)
 * [tutsplus 视频教程](http://tutsplus.com)
 * [DESTROY ALL SOFTWARE CATALOG 视频教程](https://www.destroyallsoftware.com/screencasts/catalog)
@@ -203,6 +204,28 @@ Guides for getting things done, programming well, and programming in style.
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
 
+##### Node.js开发
 
-[前端技能汇总](https://github.com/JacksonTian/fks)
-[30天学习30种新技术系列](http://segmentfault.com/a/1190000000349384)
+1. JavaScript 和 NoSQL 基本功，MongoDB 最好
+2. 需要 HTTP/REST 烂熟于胸
+3. 熟悉 Node 的框架，Express 最好/Restify/Sails/KOA
+4. 了解 Spark 和 Hadoop
+
+##### Web前端开发
+
+1. AngularJS
+2. HTML5/CSS/JavaScript 基本功
+3. 需要 HTTP/REST 烂熟于胸
+4. 了解 NoSQL 和 Node
+5. Git/GitHub，开发流程用 Trello
+
+##### 全栈开发工程师
+
+1. 熟悉 MEAN(MongoDB/Express/AngularJS/Node.js) 架构，MEAN 实际项目经验一年以上，Web 开发经验三年以上
+2. 优秀的 Javascript 基本功
+3. 了解最新的 web 技术框架和趋势，优秀的技术架构能力
+4. 需要 HTTP/REST/NoSQL 烂熟于胸
+5. 强烈的产品意识和分享精神
+
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+* [30天学习30种新技术系列](http://segmentfault.com/a/1190000000349384)

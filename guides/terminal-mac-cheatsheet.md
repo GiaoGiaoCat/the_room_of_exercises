@@ -109,3 +109,4 @@
 ### 相关资源
 
 * [OS X 键盘快捷键](http://support.apple.com/kb/HT1343?viewlocale=zh_CN)
+* http://ss64.com/osx/syntax-bashkeyboard.html

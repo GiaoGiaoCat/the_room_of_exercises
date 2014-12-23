@@ -1,3 +1,8 @@
+## Github 好书
+
+* [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [Your unofficial guide to dotfiles on GitHub](http://dotfiles.github.io/)
+
 ## 工具类网站
 
 * [API测试平台](https://www.runscope.com/)
@@ -5,8 +10,11 @@
 * [在线工具大全，包含js格式化工具](http://tool.oschina.net/)
 * [ASCII码图片转换器](http://www.network-science.de/ascii/)
 * [Ruby正则替换器](http://www.rubular.com/)
+* [正则检查器](http://www.regexr.com/)
 * [Ruby Code Review](https://codeclimate.com/)
 * [Unpack or deobfuscate JavaScript and HTML](http://jsbeautifier.org/)
+* [Shell命令检查器](http://www.shellcheck.net/)
+* [Shell命令解释](http://explainshell.com/)
 
 ## 设计师资源
 
@@ -18,7 +26,7 @@
 * [marvelapp.com](https://marvelapp.com/) - 导入图片
 * [flinto.com](https://www.flinto.com/) - 导入图片
 
-** 动画效果设计工具**
+**动画效果设计工具**
 
 例子: http://www.pinterest.com/julient/animated-uxui/
 
@@ -29,6 +37,7 @@
 * [Origmai](http://facebook.github.io/origami/)
 * [avocado](https://github.com/ideo/avocado/)
 * [After Effects](http://developertodesigner.wordpress.com/2014/05/09/how-to-create-animated-gifs-for-ui-design-presentations/)
+* [framerjs](http://framerjs.com/) 看起来这个很流行
 
 **Sketch 相关**
 
@@ -49,6 +58,8 @@
 * [iOS 7 GUI templates will ship inside of Sketch 3](http://www.teehanlax.com/blog/ios-7-gui-templates-will-ship-inside-of-sketch-3/)
 * [Android-UI in dribbble](https://dribbble.com/shots/1029552-Android-UI-XHDPI-Template-sketch)
 * [20 Free UI Templates for Sketch.app](http://speckyboy.com/2013/04/22/free-ui-templates-for-sketch-app/)
+* [Diagram Template .Sketch File](https://dribbble.com/shots/1780574-Diagram-Template-Sketch-File?list=users&offset=0)
+* [72 Miniature Wireframes (AI, PSD, Sketch)](http://pixelbuddha.net/ui-tiles/)
 
 **图标和资源下载**
 
@@ -75,6 +86,7 @@
 * [中文慕课网](http://www.imooc.com/)
 * [中文学习编程](http://www.fenby.com/index)
 * [泰课在线](http://www.taikr.com/)
+* [优才网](http://www.ucai.cn/)
 * [teamtreehouse 学习前端和iPhone开发](http://teamtreehouse.com/)
 * [测试你的编程能力](http://smarterer.com/)
 * [Go 语言在线学习](http://go-tour-zh.appspot.com/#1)
@@ -113,6 +125,7 @@
 * [NSHipster 关注被忽略的 Objective-C 和 Cocoa 特性](http://nshipster.cn/)
 * [iOS Dev Weekly](https://iosdevweekly.com/)
 * [Java Code Geeks](http://www.javacodegeeks.com/android/)
+* [Designer News](https://news.layervault.com/)
 
 ### IT新闻
 
