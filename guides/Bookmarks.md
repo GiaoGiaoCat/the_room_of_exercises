@@ -2,6 +2,7 @@
 
 * [API测试平台](https://www.runscope.com/)
 * [各种转换工具大全](http://tool.chinaz.com/)
+* [在线工具大全，包含js格式化工具](http://tool.oschina.net/)
 * [ASCII码图片转换器](http://www.network-science.de/ascii/)
 * [Ruby正则替换器](http://www.rubular.com/)
 * [Ruby Code Review](https://codeclimate.com/)
