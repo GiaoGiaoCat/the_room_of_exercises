@@ -55,6 +55,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Object-Oriented Design and Refactoring Patterns in Ruby](https://github.com/wjp2013/ruby-refactoring)
 * [Rails Best Practices](https://github.com/railsbp/rails_best_practices)
 * [Rails 源代码学习](http://monkeyandcrow.com/series/reading_rails/)
+* [Ruby Rogues is a weekly panel discussion about programming](http://devchat.tv/ruby-rogues)
 
 ### 收集资源
 
