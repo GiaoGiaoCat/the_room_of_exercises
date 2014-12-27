@@ -10,3 +10,4 @@
 ### Ruby and Rails
 
 * [Steve Tooke](http://tooky.co.uk/)
+* [The Pug Automatic](http://thepugautomatic.com/)
