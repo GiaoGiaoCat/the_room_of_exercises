@@ -68,7 +68,6 @@ Guides for getting things done, programming well, and programming in style.
 * [Supercharge Your Rails Development Environment](http://joshsymonds.com/blog/2014/01/22/supercharge-your-rails-development-environment/)
 * [A Quick Guide to Sublime Text](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
 * [最佳日志实践](http://www.bitstech.net/2014/01/07/log-best-practice/)
-* [优秀的Ruby博客](http://thepugautomatic.com/)
 
 ### 专题
 
@@ -111,23 +110,6 @@ Guides for getting things done, programming well, and programming in style.
 * [A Quick Introduction to Rack](http://rubylearning.com/blog/a-quick-introduction-to-rack/)
 * [32 Rack Resources to Get You Started](http://jasonseifer.com/2009/04/08/32-rack-resources-to-get-you-started)
 * [使用Rack::Cache进行平滑的HTTP缓存](http://www.infoq.com/cn/news/2008/11/rack-cache)
-
-### Ruby & Rails 业内博客
-
-#### 中文
-
-* [張文鈿](http://ihower.tw/)
-* [李华顺](http://huacnlee.com/)
-* [Rei A web developer](http://chloerei.com/)
-* [Andor Chen](http://about.ac/)
-
-#### 英文
-
-* [David Lesches on Rails](http://davidlesches.com/)
-* [GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS](http://robots.thoughtbot.com/)
-* [arkency's blog](http://blog.arkency.com/)
-* [Ruby/rails performance tools](http://pivotallabs.com/rubyrails-performance-tools/)
-* [Most Common Mistakes On Legacy Rails Apps](http://edelpero.svbtle.com/most-common-mistakes-on-legacy-rails-apps)
 
 ---
 
