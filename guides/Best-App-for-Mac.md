@@ -82,6 +82,7 @@ Duo | 测试网页的响应式设计
 *ProCSSor* | CSS 处理工具
 *CodeKit* | 自动编译前端文件，自动刷新浏览器，还能对图片优化
 ImageOptim | 缩小图片体积
+[Macaw](http://macaw.co/) | 值得关注的一款前端开发工具
 
 
 ## 工具相关的文章
