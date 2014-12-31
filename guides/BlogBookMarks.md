@@ -27,3 +27,4 @@
 * [arkency's blog](http://blog.arkency.com/)
 * [Ruby/rails performance tools](http://pivotallabs.com/rubyrails-performance-tools/)
 * [Most Common Mistakes On Legacy Rails Apps](http://edelpero.svbtle.com/most-common-mistakes-on-legacy-rails-apps)
+* [Simone Carletti 's Blog](http://simonecarletti.com/blog/)
