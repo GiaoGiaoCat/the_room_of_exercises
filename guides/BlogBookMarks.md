@@ -6,12 +6,15 @@
 * [李华顺](http://huacnlee.com/)
 * [Rei A web developer](http://chloerei.com/)
 * [Andor Chen](http://about.ac/)
+* [ihower](https://ihower.tw/blog/)
+* [hellolucky's blog](http://blog.hellolucky.info/)
 
 ### 程序员
 
 * [闫肃的博客](http://yansu.org/)
 * [gansteed](http://gansteed.github.io/)
 * [robbin的自言自语](http://robbinfan.com/)
+* [hSATAC](http://blog.hsatac.net/)
 
 ## 英文
 
