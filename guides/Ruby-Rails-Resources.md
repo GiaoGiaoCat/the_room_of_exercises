@@ -57,6 +57,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Rails 源代码学习](http://monkeyandcrow.com/series/reading_rails/)
 * [Ruby Rogues is a weekly panel discussion about programming](http://devchat.tv/ruby-rogues)
 * [Learn the Ruby Programming Language](http://ruby.about.com/)
+* [Ruby Conference 2014 Schedule](http://confreaks.com/events/RubyConf2014)
 
 ### 收集资源
 
