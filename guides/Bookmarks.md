@@ -200,6 +200,7 @@
 * [在线学习VIM](http://www.openvim.com/tutorial.html)
 * [游戏：VIM大冒险](http://coolshell.cn/articles/7166.html)
 * [vim快捷键](http://wenku.baidu.com/link?url=jqiAJZL49_r_OyeAKt7S02FbvFXf5il3nV1btXDc-jnPrbkmS3OAeZO9MKU8gsmYyoyqLFnhQvvF50fjzntoIl462v_Xr6XRRAciAJVg6Qa)
+* [vimsheet](http://vimsheet.com/)
 
 ### VIM 提高
 
