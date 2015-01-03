@@ -204,6 +204,8 @@
 ### VIM 提高
 
 * [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
+* [爽爽快快學Vim](http://blog.eddie.com.tw/2012/04/27/screencast-1-learning-vim-from-the-beginning/)
+* [Vim Tutorial Videos](http://derekwyatt.org/vim/tutorials/)
 * [9 Enhancements to Shell and Vim Productivity](http://www.danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity)
 * [继续 FSE 插件](http://bluegene8210.is-programmer.com/categories/5367/posts)
 * [Key Mapping and Vintage Mode Setup for Sublime Text 2](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2/)
