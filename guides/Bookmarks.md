@@ -108,6 +108,7 @@
 
 ### 开发阅读
 
+* [开发者头条](http://toutiao.io/)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
