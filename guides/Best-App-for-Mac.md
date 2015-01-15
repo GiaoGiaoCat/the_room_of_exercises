@@ -114,9 +114,9 @@ Ember ♣ | 图片素材收集工具
 
 名称 | 功能简述
 ----- | ------
-Mou ☆ | Markdown 编辑器
-MWeb ☆ | Markdown 编辑器
-haroopress ☆ | Markdown 编辑器
+Mou ☆ | Markdown 编辑器，经常死机
+MWeb ☆ | Markdown 编辑器，厚脸求了一个兑换码，发现也不太好用
+haroopress ☆ | Markdown 编辑器，卡出翔了
 
 #### 废弃日常工具
 
