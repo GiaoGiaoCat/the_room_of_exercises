@@ -94,6 +94,7 @@ Duo ★ | 测试网页的响应式设计
 ImageOptim ★ | 缩小图片体积
 GluePrint ★ | 小工具用来确保前端像素级别还原设计
 [Macaw](http://macaw.co/) ♣ | 值得关注的一款前端开发工具
+[brackets](http://brackets.io/) ♣ | 值得关注的一款前端开发工具
 
 #### 设计工具
 
