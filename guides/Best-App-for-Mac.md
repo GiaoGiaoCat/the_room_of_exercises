@@ -123,7 +123,7 @@ haroopress ☆ | Markdown 编辑器
 名称  | 功能简述
 ----- | ------
 Manico ☆ | 图便宜买了，用了几天发现没啥用
-Shimo ☆ | 科学上网，因为不再使用 VPN 所以不再使用了，一个授权大概 250 左右，无法在 MAS 购买
+Shimo ☆ | 科学上网，因为不再使用 VPN 所以不再使用了
 Proxifier ☆ | 单App，规则代理工具
 Clyppan ☆ | 管理剪贴板，改用 Alfred 来管理剪切板
 One ☆ | 改用 Reeder
@@ -163,7 +163,7 @@ Fonts ☆ | 字体预览
 FontExplorer X Pro ☆ | 字体管理，太贵了
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
-Antetype ☆ | 界面设计工具。它功能全面，交互到位，精细之处做的非常细致，创造了全新的部件风格(改用 Sketch)
+Antetype ☆ | 界面设计工具，改用 Sketch
 
 ### 工具相关的文章
 
