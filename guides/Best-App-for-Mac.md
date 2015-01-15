@@ -107,6 +107,7 @@ Sip ★★★| 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Ember ♣ | 图片素材收集工具
+[framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 
 ### 废弃工具列表
 
