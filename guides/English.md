@@ -44,18 +44,29 @@
 
 ## R
 
-* Regexp 正则表达式
 * Range 范围
+* Regexp 正则表达式
+* Resources 资源
 
 ## S
 
+* ```scheme``` URL 模式(例如 http, ftp, mailto, git)
 * String interpolation 字符串内插
+* statelessness 无状态的
 * Splat Arguments - Variable Length Arguments List
 * Sorting Algorithm 排序算法
+* session identifier 会话标识符
 
 ## T
 
 * The conditional operator 三元表达式
+* token 令牌
+
+
+## U
+
+* Uniform Resource Locator 统一资源定位符(URL)
+* Uniform Resource Identifier 统一资源标识符(URI)
 
 ### 测试方法名
 
