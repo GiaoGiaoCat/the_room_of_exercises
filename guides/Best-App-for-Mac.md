@@ -74,7 +74,6 @@ Dash ★★★★★ | 全语言文档手册速查
 Sublime Text ★★★★★ | Editor，每天用它写代码
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
-Datum LE ★ | Sqlite 库管理软件
 SourceTree ★★★ | Git 工具
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
@@ -83,6 +82,7 @@ CodeBox ★ | 代码收集管理
 MacVim ★ | Editor
 BugHub ★ | 管理 Github Issues 的工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
+Datum LE ★ | Sqlite 库管理软件
 
 #### 前端工具
 
