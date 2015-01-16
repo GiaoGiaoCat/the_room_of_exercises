@@ -2,9 +2,7 @@
 
 大家使用同款软件的好处就是，遇到问题至少有同事帮忙搞定。且能互相交流高阶用法。大家都用的迅雷，QQ 之类的软件没收录。
 
-每个开发团队都要有如下工具：wiki，错误跟踪，任务管理，版本控制，Diff工具，在线备份，文件共享，原型设计，编辑器。注：错误跟踪，任务管理通常可以合为同一工具。但这里只关注客户端，不关注网络服务。
-
-斜体的是我已经废弃不再使用的软件，并不是软件不好，可能是因为我在工作中已经其他替代品了，比如用了 云梯 之后，Shimo 和 Proxifier 不用了。
+对于我已经废弃不再使用的软件，并不是软件不好，可能是因为我在工作中已经其他替代品了。
 
 ### 说明
 
@@ -25,6 +23,7 @@ Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看
 MindNode Pro ★ | 思维导图
 Skitch ♣ | 标注图片工具
 Highlights ♣ | 标注 PDF 工具
+[raindrop](https://raindrop.io) ♣ | 看起来类似 Pocket，不过界面似乎更棒
 
 #### 写作
 
@@ -55,6 +54,7 @@ GoAgentX ★★★ | 翻山过海来看你
 BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
+AppCleaner ★★ | 删除软件
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
 cDock ★ | 美化 Dock
@@ -62,7 +62,9 @@ SPlayerX ★ | 播放视频
 LiteIcon ★ | 替换图标
 Cog ★ | 高品质音乐播放器
 爱壁纸HD ★ | 壁纸
+fluid ★ | 把网页转换成 Mac APP
 Spillo ♣ | 书签管理
+Keka ♣ | 解压工具
 
 #### 开发工具
 
@@ -83,6 +85,12 @@ MacVim ★ | Editor
 BugHub ★ | 管理 Github Issues 的工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
 Datum LE ★ | Sqlite 库管理软件
+Vagrant ♣ | 虚拟机确实需要一个，一直没动手
+[Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
+[Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
+[RESTed](http://www.helloresolven.com/portfolio/rested/) ♣ | API 测试工具
+[TrackRecord](http://excitedatom.com/trackrecord/) ♣ | 帮你完成重复工作，就像按键精灵
+Charles ♣ | 抓包代理调试工具
 
 #### 前端工具
 
@@ -91,7 +99,7 @@ Datum LE ★ | Sqlite 库管理软件
 xScope ★★★ | 8合一标尺神器，据说都用来配合 sketch
 LiveReload ★ | 调试工具：浏览器自刷新、前端代码编译等
 Duo ★ | 测试网页的响应式设计
-ImageOptim ★ | 缩小图片体积
+[ImageOptim](https://imageoptim.com/) ★ | 缩小图片体积
 GluePrint ★ | 小工具用来确保前端像素级别还原设计
 [Macaw](http://macaw.co/) ♣ | 值得关注的一款前端开发工具
 [brackets](http://brackets.io/) ♣ | 值得关注的一款前端开发工具
@@ -102,13 +110,22 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 ----- | ------
 Sketch 3 ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
 zepline ★★★★★ | 配合 sektch 使用
-Pixelmator ★★★ | 位图处理
+Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★| 配色软件
 Sip ★★★| 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
+
+#### 命令行工具
+
+名称  | 功能简述
+----- | ------
+[brew](http://brew.sh/) | Mac 下的包管理器
+[rvm](https://rvm.io/) | Ruby 版本管理器
+[oh my zsh](http://ohmyz.sh/) | 命令行增强
+[cask](http://caskroom.io) | 利用 brew 安装软件
 
 ### 废弃工具列表
 
@@ -137,14 +154,18 @@ Blackmagic Disk Speed Test ☆ | N年使用一次的测硬盘读写速度的工�
 
 名称  | 功能简述
 ----- | ------
-Atom ☆ | 性能再调整100年才能用
+Atom ☆ | 作为一款编辑器，经常崩溃而且性能再调整几年才能用
 Versions ☆ | SVN 工具
-Navicat Premium ☆ | 全数据库管理软件，买不起
+Navicat Premium ☆ | 全数据库管理软件，很好也很贵
 0xED ☆ | 2进制文件编辑器
 Robomongo ☆ | mongodb 数据库管理
 PlistEdit Pro ☆ | Plist 编辑器
 shuttle ☆ | A simple SSH shortcut menu
-AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不好用了
+AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不工作了
+Tower ☆ | git 工具，曾经想买但是不支持 workflow 就放弃了
+[codebugapp](http://codebugapp.com/) ☆ | PHP 调试工具，虽然它是最好的语言，可是我不会
+[Gistify](http://gistifyapp.com/) ☆ | 作为一款 gists 的客户端足够小巧，不喜欢界面
+[gisto](http://www.gistoapp.com/) ☆ | gists 的客户端不喜欢界面
 
 #### 废弃前端工具
 
@@ -153,16 +174,17 @@ AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不好用了
 Coda ☆ | Editor
 Xpressive ☆ | CSS 前端开发工具
 ProCSSor ☆ | CSS 处理工具
-CodeKit ☆ | 自动编译前端文件，自动刷新浏览器，还能对图片优化
+[CodeKit](http://incident57.com/codekit/) ☆ | 自动编译前端文件，自动刷新浏览器，还能对图片优化
 
 #### 废弃设计工具
 
 名称  | 功能简述
 ----- | ------
-OmniGraffle ☆ | 穷屌买不起
+[ColorSchemer](http://www.colorschemer.com/osx_info.php) ☆ | 色彩工具，价格不便宜
+OmniGraffle ☆ | 很棒的专业绘图制表工具，但是对我来说没啥用
 PaintCode ☆ | 设计软件，生成的图标可以直接在iOS中使用的源码
 Fonts ☆ | 字体预览
-FontExplorer X Pro ☆ | 字体管理，太贵了
+FontExplorer X Pro ☆ | 字体管理，价格不菲而且经常崩溃
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
 Antetype ☆ | 界面设计工具，改用 Sketch
@@ -170,19 +192,11 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 ### 工具相关的文章
 
 * [Brett Terpstra 的 2014 年度最佳 Mac 软件推荐](http://www.waerfa.com/brett-terpstra-top-mac-app-list-from-2014)
+* [Mac web developer apps](https://gist.github.com/erikreagan/3259442)
+* [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
 * [sublime theme 大全](http://colorsublime.com/)
 * [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
 * [iterm2：Mac_os下开源免费的并支持Zmodem(sz_rz)的ssh客户端手把手教程](http://wenku.baidu.com/link?url=SVUT0DpPCl7dfgM2JqexucPHVkEuM2LOSqHkzNpgme1merhUYhkzOyXOYfKt1sEJI00Ac04teYtqP1wDBEI8D4Q62ENlmCs6SglaBIYYYuC)
-* [iTerm Themes](http://iterm2colorschemes.com/)
-* [A set of fecund iTerm 2 color schemes](https://github.com/baskerville/iTerm-2-Color-Themes)
 
-## 找寻和下载 Best App
-
-* [“反”斗软件旗下软件限免资讯网站](http://free.apprcn.com/)
-* [Mac软件推荐 | 玩儿法](http://www.waerfa.com/)
-* [小众软件](http://www.appinn.com/)
-* [爱应用](http://www.iapps.im/)
-* [异次元软件世界](http://www.iplaysoft.com/)
-* [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
