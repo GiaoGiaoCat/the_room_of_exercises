@@ -62,6 +62,7 @@ nginx ★ | 反向代理服务器
 
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
+* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 
 ### 程序员的自我修养
 

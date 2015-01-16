@@ -51,6 +51,7 @@ YoudaoDict ★★★★ | 有道词典
 1Password 5 ★★★ | 密码管理
 AirMail ★★★ | 邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱
 GoAgentX ★★★ | 翻山过海来看你
+[Proxycap](http://www.proxycap.com/) ★★★ | 指定 APP 走 socks5 代理
 BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
@@ -143,7 +144,7 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 ----- | ------
 Manico ☆ | 图便宜买了，用了几天发现没啥用
 Shimo ☆ | 科学上网，因为不再使用 VPN 所以不再使用了
-Proxifier ☆ | 单App，规则代理工具
+Proxifier ☆ | 单App，规则代理工具，价格不菲所以改用免费的 Proxycap 了
 Clyppan ☆ | 管理剪贴板，改用 Alfred 来管理剪切板
 One ☆ | 改用 Reeder
 Vitamin-R 2 ☆ | 买了之后发现没有应用场景
@@ -193,6 +194,7 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 
 * [Brett Terpstra 的 2014 年度最佳 Mac 软件推荐](http://www.waerfa.com/brett-terpstra-top-mac-app-list-from-2014)
 * [Mac web developer apps](https://gist.github.com/erikreagan/3259442)
+* [Mac Menu Bars](http://macmenubars.com/)
 * [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
