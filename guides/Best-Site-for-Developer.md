@@ -30,10 +30,12 @@
 [github](https://github.com/) ★ | 代码托管
 [newrelic](https://newrelic.com/) ★ | 服务器状态监控
 [BitTorrentSync](http://www.getsync.com/) ★ | 团队内部的素材、视频、电子书、学习资料共享
-? | wiki
 [rubocop](https://github.com/bbatsov/rubocop) ★ | 代码质量检查
 [Code Climate](https://codeclimate.com/) ★ | Code Review，和 rubocop 不是一回事
 [Travis CI](https://travis-ci.org/) ☆ | 持续集成
+? | wiki
+? | 原型设计
+? | 脑图
 bitbucket ☆ | 代码托管备选
 github issues ☆ | 错误跟踪
 Vagrant ♣ | 虚拟机用于代码分发和环境同步
