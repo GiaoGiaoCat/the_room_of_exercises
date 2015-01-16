@@ -36,10 +36,12 @@
 ? | wiki
 ? | 原型设计
 ? | 脑图
-bitbucket ☆ | 代码托管备选
-github issues ☆ | 错误跟踪
+? | API 测试
+? | API 文档
 Vagrant ♣ | 虚拟机用于代码分发和环境同步
 Docker ♣ | 代码分发
+bitbucket ☆ | 代码托管备选
+github issues ☆ | 错误跟踪
 
 ### 测试
 
