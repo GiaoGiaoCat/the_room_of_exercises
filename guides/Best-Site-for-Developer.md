@@ -38,8 +38,6 @@
 ? | 脑图
 ? | API 测试
 ? | API 文档
-Vagrant ♣ | 虚拟机用于代码分发和环境同步
-Docker ♣ | 代码分发
 bitbucket ☆ | 代码托管备选
 github issues ☆ | 错误跟踪
 
@@ -57,12 +55,15 @@ github issues ☆ | 错误跟踪
 nginx ★ | 反向代理服务器
 [Puma](http://puma.io/) ★ | Ruby Webservers
 [Mina](http://nadarei.co/mina/) ★ | Really fast deployer and server automation tool
+Vagrant ♣ | 虚拟机用于代码分发和环境同步
+Docker ♣ | 代码分发
 
 ### 代码规范
 
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 * [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+* [A guide for programming in style.](https://github.com/thoughtbot/guides)
 
 ### 程序员的自我修养
 
@@ -82,3 +83,4 @@ nginx ★ | 反向代理服务器
 ----- | ------
 [iTerm Themes](http://iterm2colorschemes.com/) | iTerm 配色大全
 [A set of fecund iTerm 2 color schemes](https://github.com/baskerville/iTerm-2-Color-Themes) | A set of fecund iTerm 2 color schemes
+[Color Sublime](http://colorsublime.com/) | Sublimt Text 配色大全

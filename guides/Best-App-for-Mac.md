@@ -198,7 +198,6 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 * [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
-* [sublime theme 大全](http://colorsublime.com/)
 * [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
 * [iterm2：Mac_os下开源免费的并支持Zmodem(sz_rz)的ssh客户端手把手教程](http://wenku.baidu.com/link?url=SVUT0DpPCl7dfgM2JqexucPHVkEuM2LOSqHkzNpgme1merhUYhkzOyXOYfKt1sEJI00Ac04teYtqP1wDBEI8D4Q62ENlmCs6SglaBIYYYuC)
 
