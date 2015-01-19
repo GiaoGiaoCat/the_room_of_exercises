@@ -79,6 +79,13 @@ Docker ♣ | 代码分发
 
 ## 面向开发者的网站
 
+### Tips
+
+名称  | 功能简述
+----- | ------
+[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) |
+收录了一些Git和Github非常酷同时又少有人知的功能
+
 ### 工具
 
 名称  | 功能简述
