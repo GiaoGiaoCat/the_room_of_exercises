@@ -14,7 +14,15 @@
 
 #### 阅读和学习
 
-阅读当然是为了学习，目前还却一个电子书管理和笔记类的软件，一直没有碰过 Evernote 。
+阅读当然是为了学习，目前还却一个电子书管理和笔记类的软件，一直没有碰过 Evernote 。平时的流程：
+
+1. Feedly 订阅新闻源，然后每天早上利用 Reeder 快速浏览，有好的题目直接 star。(10分钟)
+2. 中午把 star 的 item 详细过一遍，值得细读的放入 Pocket，网站类的链接放入 RainDrop。(30分钟)
+3. 中午图片类的素材直接放入 InBoard 存储。(10分钟)
+4. 晚上细读 Pocket 文章需要做笔记或整理的加星，其余删除或放入 RainDrop。
+5. 周末阅读 Pocket 文章，将代码类的整理放入 Gist。
+6. 周末阅读 Pocket 文章，做笔记，然后删除 Pocket 的 Star。
+7. 最后文章以链接形式积累在 RainDrop 中，笔记积累在 github blog，图片积累在 InBoard。
 
 名称 | 功能简述
 ----- | ------
@@ -22,7 +30,7 @@ Reeder 2 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅�
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode Pro ★ | 思维导图
-Skitch ♣ | 标注图片工具
+Skitch ★ | 标注图片工具
 Highlights ♣ | 标注 PDF 工具
 
 #### 写作
