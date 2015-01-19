@@ -20,7 +20,7 @@
 ----- | ------
 Reeder 2 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
-[raindrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
+[RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode Pro ★ | 思维导图
 Skitch ♣ | 标注图片工具
 Highlights ♣ | 标注 PDF 工具
@@ -149,6 +149,8 @@ One ☆ | 改用 Reeder
 Vitamin-R 2 ☆ | 买了之后发现没有应用场景
 Eggscellent ☆ | 不能强制打断工作的番茄工具
 Blackmagic Disk Speed Test ☆ | N年使用一次的测硬盘读写速度的工具
+AppZapper ☆ | 感觉删除的不干净，还遗留一些配置文件，仍然保留了一枚 2.x 的序列号
+QIM ☆ | 购买的第一个付费软件，是输入法，不更新了，而且 Mac 下面的输入法各家也都不错了
 
 #### 废弃开发工具
 
