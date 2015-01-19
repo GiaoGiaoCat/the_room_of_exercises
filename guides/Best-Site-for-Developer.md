@@ -63,7 +63,9 @@ Docker ♣ | 代码分发
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 * [A collection of useful .gitignore templates](https://github.com/github/gitignore)
-* [A guide for programming in style.](https://github.com/thoughtbot/guides)
+* [JSON](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [A guide for programming in style. ☆](https://github.com/thoughtbot/guides)
+* [CSS ☆](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 
 ### 程序员的自我修养
 
@@ -76,6 +78,12 @@ Docker ♣ | 代码分发
 * 《重来》
 
 ## 面向开发者的网站
+
+### 工具
+
+名称  | 功能简述
+----- | ------
+[JSONLint](http://jsonlint.com/) | The JSON Validator
 
 ### 配色
 

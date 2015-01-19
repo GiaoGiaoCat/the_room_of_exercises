@@ -20,10 +20,10 @@
 ----- | ------
 Reeder 2 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
+[raindrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode Pro ★ | 思维导图
 Skitch ♣ | 标注图片工具
 Highlights ♣ | 标注 PDF 工具
-[raindrop](https://raindrop.io) ♣ | 看起来类似 Pocket，不过界面似乎更棒
 
 #### 写作
 
@@ -33,8 +33,6 @@ Marked ★ | Markdown preview 软件，很少用到
 Notes ★ | 随手需要记录一些临时用的东西就打开它
 
 #### 日常工具
-
-还缺一个书签管理软件，不过目前使用 chrome 的 Start 插件也足够了。
 
 名称 | 功能简述
 ----- | ------
@@ -56,6 +54,7 @@ BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
+[DictUnifier ](https://code.google.com/p/mac-dictionary-kit/)★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
 cDock ★ | 美化 Dock
@@ -196,6 +195,8 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 * [Mac web developer apps](https://gist.github.com/erikreagan/3259442)
 * [Mac Menu Bars](http://macmenubars.com/)
 * [收集&推荐优秀的 Apps (Mac OS & iOS)](https://github.com/hzlzh/Best-App)
+* [使用系统自带的词典程序快速取词翻译](http://lightcss.com/mac-dictionary/)
+* [星际译王词库](http://abloz.com/huzheng/stardict-dic/zh_CN/)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
 * [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
