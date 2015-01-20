@@ -58,6 +58,7 @@ YoudaoDict ★★★★ | 有道词典
 AirMail ★★★ | 邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱
 GoAgentX ★★★ | 翻山过海来看你
 [Proxycap](http://www.proxycap.com/) ★★★ | 指定 APP 走 socks5 代理
+Noizio ★★★ | 工作时间的白噪音
 BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
@@ -73,6 +74,7 @@ Cog ★ | 高品质音乐播放器
 fluid ★ | 把网页转换成 Mac APP
 Spillo ♣ | 书签管理
 Keka ♣ | 解压工具
+[Dropzone 3](https://aptonic.com/dropzone3/) ♣ | 常驻状态栏的文件管理器
 
 #### 开发工具
 
@@ -111,6 +113,7 @@ Duo ★ | 测试网页的响应式设计
 GluePrint ★ | 小工具用来确保前端像素级别还原设计
 [Macaw](http://macaw.co/) ♣ | 值得关注的一款前端开发工具
 [brackets](http://brackets.io/) ♣ | 值得关注的一款前端开发工具
+[WebCode](http://www.webcodeapp.com/) ♣ | 画矢量图，导出SVG或者HTML、CSS、JavaScript
 
 #### 设计工具
 
@@ -123,6 +126,7 @@ Spectrum ★★★| 配色软件
 Sip ★★★| 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
+Fonts ★ | 字体预览
 Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 
@@ -193,7 +197,6 @@ ProCSSor ☆ | CSS 处理工具
 [ColorSchemer](http://www.colorschemer.com/osx_info.php) ☆ | 色彩工具，价格不便宜
 OmniGraffle ☆ | 很棒的专业绘图制表工具，但是对我来说没啥用
 PaintCode ☆ | 设计软件，生成的图标可以直接在iOS中使用的源码
-Fonts ☆ | 字体预览
 FontExplorer X Pro ☆ | 字体管理，价格不菲而且经常崩溃
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
