@@ -204,6 +204,7 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 
 ### 工具相关的文章
 
+* [My development stack](http://martineau.tv/2015/01/dev-stack/)
 * [Brett Terpstra 的 2014 年度最佳 Mac 软件推荐](http://www.waerfa.com/brett-terpstra-top-mac-app-list-from-2014)
 * [Mac web developer apps](https://gist.github.com/erikreagan/3259442)
 * [Mac Menu Bars](http://macmenubars.com/)
