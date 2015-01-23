@@ -74,7 +74,6 @@ Cog ★ | 高品质音乐播放器
 fluid ★ | 把网页转换成 Mac APP
 Spillo ♣ | 书签管理
 Keka ♣ | 解压工具
-[Dropzone 3](https://aptonic.com/dropzone3/) ♣ | 常驻状态栏的文件管理器
 
 #### 开发工具
 
@@ -163,6 +162,7 @@ Eggscellent ☆ | 不能强制打断工作的番茄工具
 Blackmagic Disk Speed Test ☆ | N年使用一次的测硬盘读写速度的工具
 AppZapper ☆ | 感觉删除的不干净，还遗留一些配置文件，仍然保留了一枚 2.x 的序列号
 QIM ☆ | 购买的第一个付费软件，是输入法，不更新了，而且 Mac 下面的输入法各家也都不错了
+[Dropzone 3](https://aptonic.com/dropzone3/) ☆ | 常驻状态栏的文件管理器，感觉功能不是很实用
 
 #### 废弃开发工具
 
