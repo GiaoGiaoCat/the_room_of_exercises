@@ -47,6 +47,7 @@ Notes ★ | 随手需要记录一些临时用的东西就打开它
 Alfred 2 ★★★★★ | 效率软件
 Dropbox ★★★★★ | 同步各种配置文件
 iStat Menus ★★★★★ | 监控状态栏
+f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛
 iTerm ★★★★★ | 命令行增强
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
 Moom ★★★★ | 窗口大小管理
@@ -63,6 +64,7 @@ BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
+ShooterSubX ★★ | 射手字幕下载
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/)★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
@@ -126,6 +128,8 @@ Sip ★★★| 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Fonts ★ | 字体预览
+[Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
+[Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
 Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 

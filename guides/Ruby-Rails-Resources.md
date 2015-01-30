@@ -189,28 +189,5 @@ Guides for getting things done, programming well, and programming in style.
 6. 有前端 MVC 开发经验
 7. 了解至少三个：Angular, LESS, CoffeeScript, d3.js, Highcharts, SVG, WebKit/IE 8+/Firefox兼容性
 
-##### Node.js开发
-
-1. JavaScript 和 NoSQL 基本功，MongoDB 最好
-2. 需要 HTTP/REST 烂熟于胸
-3. 熟悉 Node 的框架，Express 最好/Restify/Sails/KOA
-4. 了解 Spark 和 Hadoop
-
-##### Web前端开发
-
-1. AngularJS
-2. HTML5/CSS/JavaScript 基本功
-3. 需要 HTTP/REST 烂熟于胸
-4. 了解 NoSQL 和 Node
-5. Git/GitHub，开发流程用 Trello
-
-##### 全栈开发工程师
-
-1. 熟悉 MEAN(MongoDB/Express/AngularJS/Node.js) 架构，MEAN 实际项目经验一年以上，Web 开发经验三年以上
-2. 优秀的 Javascript 基本功
-3. 了解最新的 web 技术框架和趋势，优秀的技术架构能力
-4. 需要 HTTP/REST/NoSQL 烂熟于胸
-5. 强烈的产品意识和分享精神
-
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [30天学习30种新技术系列](http://segmentfault.com/a/1190000000349384)
