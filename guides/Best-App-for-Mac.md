@@ -65,6 +65,7 @@ Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
+Better Rename ★★ | 批量进行文件改名
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/)★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
@@ -74,6 +75,7 @@ LiteIcon ★ | 替换图标
 Cog ★ | 高品质音乐播放器
 爱壁纸HD ★ | 壁纸
 fluid ★ | 把网页转换成 Mac APP
+[Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
 Spillo ♣ | 书签管理
 Keka ♣ | 解压工具
 
@@ -132,6 +134,7 @@ Fonts ★ | 字体预览
 [Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
 Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
+[Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
 
 #### 命令行工具
 
