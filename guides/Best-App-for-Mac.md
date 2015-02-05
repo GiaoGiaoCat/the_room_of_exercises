@@ -135,6 +135,7 @@ Fonts ★ | 字体预览
 Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 [Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
+[Reveal](http://revealapp.com/) ♣ | Runtime view debugging for iOS apps.
 
 #### 命令行工具
 
@@ -144,6 +145,7 @@ Ember ♣ | 图片素材收集工具
 [rvm](https://rvm.io/) | Ruby 版本管理器
 [oh my zsh](http://ohmyz.sh/) | 命令行增强
 [cask](http://caskroom.io) | 利用 brew 安装软件
+[mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux)
 
 ### 废弃工具列表
 

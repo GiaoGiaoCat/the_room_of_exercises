@@ -46,6 +46,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Web 开发小技巧](http://happycasts.net/)
 * [Ruby Quicktips](http://rubyquicktips.com/)
 * [Ruby on Rails screencasts for developers who want to become pros](https://gorails.com/)
+* [egghead.io 重点在 Angular](https://egghead.io/)
 * [RailsCasts](http://railscasts.com/)
 * [中文 Rails 视频教程](http://railscasts-china.com/)
 * [Create amazing web apps 视频教程](https://gorails.com/)
