@@ -12,7 +12,6 @@
 
 **部署**
 
-* [Puma](http://puma.io/)
 * [Mina](http://nadarei.co/mina/)
 
 **功能**
@@ -28,3 +27,11 @@
 * 你会经常重用应用程序的许多组件。典型地是，这部分被使用的行为，你必须确定你的控制器调用相一致的行为。Cells允许你取得部分的控制器，并把它们封装进它们所拥有的小控制器中。这能让你的代码更简洁，还避免了长时间helper/partial/filter mes。
 
 **开发**
+
+### Assets
+
+* [gon](https://github.com/gazay/gon) - Your Rails variables in your JS
+
+### Web Server
+
+* [puma](https://github.com/puma/puma/)

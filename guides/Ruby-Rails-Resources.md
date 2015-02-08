@@ -62,7 +62,9 @@ Guides for getting things done, programming well, and programming in style.
 
 ### 收集资源
 
+* [AWESOME RUBY](http://awesome-ruby.com/)
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks)
+* [Ruby Links 'n' Bookmarks](http://planetruby.github.io/)
 * [Ruby on Rails文档 (v3.2.3)](http://www.rubycc.com/column/rails3.2.3/railsdoc.htm)
 * [Ruby China Wiki](http://ruby-china.org/wiki)
 * [Ruby Weekly](http://rubyweekly.com/)
