@@ -40,12 +40,21 @@ Highlights ♣ | 标注 PDF 工具
 Marked ★ | Markdown preview 软件，很少用到
 Notes ★ | 随手需要记录一些临时用的东西就打开它
 
+#### 数据同步
+
+名称 | 功能简述
+----- | ------
+Dropbox ★★★★★ | 同步各种配置文件
+[mackup](https://github.com/lra/mackup) ★★★ | Keep your application settings in sync (OS X/Linux)
+[BitTorrent Sync](http://www.getsync.com/) ★★ | 大文件同步，通常会加入一台服务器以便大家能一直在线
+[ChronoSync/ChronoAgent](http://www.econtechnologies.com/chronosync/overview.html) ♣ | Moves file around on the LAN，需付费
+[Arq](http://www.haystacksoftware.com/arq/) ♣ | Moves backups to Amazon Glacier，需付费
+
 #### 日常工具
 
 名称 | 功能简述
 ----- | ------
 Alfred 2 ★★★★★ | 效率软件
-Dropbox ★★★★★ | 同步各种配置文件
 iStat Menus ★★★★★ | 监控状态栏
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛
 iTerm ★★★★★ | 命令行增强
@@ -60,7 +69,6 @@ AirMail ★★★ | 邮件收发工具，2 和 1 没啥变化，换了个皮再�
 GoAgentX ★★★ | 翻山过海来看你
 [Proxycap](http://www.proxycap.com/) ★★★ | 指定 APP 走 socks5 代理
 Noizio ★★★ | 工作时间的白噪音
-BitTorrent Sync ★★ | 共享文件
 Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
@@ -146,7 +154,6 @@ Ember ♣ | 图片素材收集工具
 [rvm](https://rvm.io/) | Ruby 版本管理器
 [oh my zsh](http://ohmyz.sh/) | 命令行增强
 [cask](http://caskroom.io) | 利用 brew 安装软件
-[mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux)
 
 ### 废弃工具列表
 
