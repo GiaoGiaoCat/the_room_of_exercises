@@ -130,6 +130,7 @@ Sip ★★★| 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Fonts ★ | 字体预览
+[GifRocket](http://www.gifrocket.com/) ★ | avi 转 gif
 [Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
 [Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
 Ember ♣ | 图片素材收集工具
