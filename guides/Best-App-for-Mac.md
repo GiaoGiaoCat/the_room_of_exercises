@@ -221,6 +221,7 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 
 ### 工具相关的文章
 
+* [MAC 下常用软件推荐](http://miao.hu/2012/02/26/osx-exp-share/)
 * [My development stack](http://martineau.tv/2015/01/dev-stack/)
 * [Brett Terpstra 的 2014 年度最佳 Mac 软件推荐](http://www.waerfa.com/brett-terpstra-top-mac-app-list-from-2014)
 * [Mac web developer apps](https://gist.github.com/erikreagan/3259442)
@@ -232,4 +233,3 @@ Antetype ☆ | 界面设计工具，改用 Sketch
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
 * [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
 * [iterm2：Mac_os下开源免费的并支持Zmodem(sz_rz)的ssh客户端手把手教程](http://wenku.baidu.com/link?url=SVUT0DpPCl7dfgM2JqexucPHVkEuM2LOSqHkzNpgme1merhUYhkzOyXOYfKt1sEJI00Ac04teYtqP1wDBEI8D4Q62ENlmCs6SglaBIYYYuC)
-
