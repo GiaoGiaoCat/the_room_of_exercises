@@ -20,11 +20,21 @@
 * [Pundit](https://github.com/elabs/pundit)
 * [Draper](https://github.com/drapergem/draper)
 * [Cells](https://github.com/apotonick/cells)
+* [Active Merchant](https://github.com/Shopify/active_merchant)
+* [albino](https://github.com/github-archive/albino)
+* [Rack::MobileDetect](https://github.com/talison/rack-mobile-detect)
 
-* Devise为Rails程序提供了一套易用的用户认证方案，你可以使用这个Gem实现用户登录，注册，找回密码，账户锁定等账户相关的功能。
-* Pundit 通过一套简单的方式，使用Ruby类定义授权系统, 提供了更简单更少"魔法"的权限管理方案。
-* Draper 允许在你的模块上创建decorators。它使你的视图变得清晰并避免编写helpers。不需要用模块调用helpers，你只需定义个decorator,它封装了原始的模块并提供了一些拓展方法和针对你的对象的属性。
+
+---
+
+* Active Merchant is a simple payment abstraction library extracted from Shopify.
+* albino 代码高亮
 * 你会经常重用应用程序的许多组件。典型地是，这部分被使用的行为，你必须确定你的控制器调用相一致的行为。Cells允许你取得部分的控制器，并把它们封装进它们所拥有的小控制器中。这能让你的代码更简洁，还避免了长时间helper/partial/filter mes。
+* Devise为Rails程序提供了一套易用的用户认证方案，你可以使用这个Gem实现用户登录，注册，找回密码，账户锁定等账户相关的功能。
+* Draper 允许在你的模块上创建decorators。它使你的视图变得清晰并避免编写helpers。不需要用模块调用helpers，你只需定义个decorator,它封装了原始的模块并提供了一些拓展方法和针对你的对象的属性。
+* Pundit 通过一套简单的方式，使用Ruby类定义授权系统, 提供了更简单更少"魔法"的权限管理方案。
+* Rack::MobileDetect 为手机优化
+
 
 **开发**
 
