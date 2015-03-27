@@ -23,6 +23,7 @@
 * [Active Merchant](https://github.com/Shopify/active_merchant)
 * [albino](https://github.com/github-archive/albino)
 * [Rack::MobileDetect](https://github.com/talison/rack-mobile-detect)
+* [DeviceDetector](https://github.com/podigee/device_detector)
 
 
 ---
@@ -34,7 +35,7 @@
 * Draper 允许在你的模块上创建decorators。它使你的视图变得清晰并避免编写helpers。不需要用模块调用helpers，你只需定义个decorator,它封装了原始的模块并提供了一些拓展方法和针对你的对象的属性。
 * Pundit 通过一套简单的方式，使用Ruby类定义授权系统, 提供了更简单更少"魔法"的权限管理方案。
 * Rack::MobileDetect 为手机优化
-
+* DeviceDetector 更快更精确的解析检车设备头信息
 
 **开发**
 

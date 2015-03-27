@@ -8,6 +8,7 @@
 * [Andor Chen](http://about.ac/)
 * [ihower](https://ihower.tw/blog/)
 * [hellolucky's blog](http://blog.hellolucky.info/)
+* [Deniel Blog](https://danielzhangqinglong.github.io/)
 
 ### 程序员
 
