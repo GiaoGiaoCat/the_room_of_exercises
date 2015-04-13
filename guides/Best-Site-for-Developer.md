@@ -102,3 +102,10 @@ Docker ♣ | 代码分发
 [iTerm Themes](http://iterm2colorschemes.com/) | iTerm 配色大全
 [A set of fecund iTerm 2 color schemes](https://github.com/baskerville/iTerm-2-Color-Themes) | A set of fecund iTerm 2 color schemes
 [Color Sublime](http://colorsublime.com/) | Sublimt Text 配色大全
+
+### 图片处理
+
+名称  | 功能简述
+----- | ------
+[Tiny Png](https://tinypng.com/) | 图片压缩处理
+
