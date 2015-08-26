@@ -2,6 +2,7 @@
 
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Your unofficial guide to dotfiles on GitHub](http://dotfiles.github.io/)
+* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com/)
 
 ## 工具类网站
 
