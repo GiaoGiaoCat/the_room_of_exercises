@@ -107,6 +107,7 @@
 
 ### 开发阅读
 
+* [稀土掘金](http://gold.xitu.io/)
 * [开发者头条](http://toutiao.io/)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
