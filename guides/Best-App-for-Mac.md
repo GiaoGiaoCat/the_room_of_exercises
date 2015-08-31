@@ -94,7 +94,7 @@ Keka ♣ | 解压工具
 
 名称  | 功能简述
 ----- | ------
-Dash ★★★★★ | 全语言文档手册速查
+Dash3 ★★★★★ | 全语言文档手册速查
 Sublime Text ★★★★★ | Editor，每天用它写代码
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
@@ -145,7 +145,6 @@ Fonts ★ | 字体预览
 [GifRocket](http://www.gifrocket.com/) ★ | avi 转 gif
 [Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
 [Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
-Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 [Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
 [Reveal](http://revealapp.com/) ♣ | Runtime view debugging for iOS apps.
@@ -197,7 +196,6 @@ Robomongo ☆ | mongodb 数据库管理
 PlistEdit Pro ☆ | Plist 编辑器
 shuttle ☆ | A simple SSH shortcut menu
 AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不工作了
-Tower ☆ | git 工具，曾经想买但是不支持 workflow 就放弃了
 [codebugapp](http://codebugapp.com/) ☆ | PHP 调试工具，虽然它是最好的语言，可是我不会
 [Gistify](http://gistifyapp.com/) ☆ | 作为一款 gists 的客户端足够小巧，不喜欢界面
 [gisto](http://www.gistoapp.com/) ☆ | gists 的客户端不喜欢界面
@@ -222,6 +220,7 @@ FontExplorer X Pro ☆ | 字体管理，价格不菲而且经常崩溃
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
 Antetype ☆ | 界面设计工具，改用 Sketch
+Ember ☆ | 图片素材收集工具，改用 Inboard 
 
 ### 工具相关的文章
 
