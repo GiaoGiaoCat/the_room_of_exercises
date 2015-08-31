@@ -137,6 +137,7 @@ zepline ★★★★★ | 配合 sektch 使用
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★| 配色软件
 Sip ★★★| 小巧的取色软件
+IconJar ★★| 素材管理工具
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Fonts ★ | 字体预览
