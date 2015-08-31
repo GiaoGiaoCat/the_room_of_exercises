@@ -98,7 +98,8 @@ Dash ★★★★★ | 全语言文档手册速查
 Sublime Text ★★★★★ | Editor，每天用它写代码
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
-SourceTree ★★★ | Git 工具
+Tower ★★★ | Git 工具
+[Source](http://getsourceapp.com/) ★★★ | 代码片段管理
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Graphviz ★★ | 代码画流程图
