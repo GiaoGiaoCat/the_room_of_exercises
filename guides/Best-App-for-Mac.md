@@ -73,6 +73,7 @@ Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
+Downie ★★ | 在线视频网站内容下载
 Better Rename ★★ | 批量进行文件改名
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/)★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
