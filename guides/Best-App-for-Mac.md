@@ -139,6 +139,7 @@ Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★ | 配色软件
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
 IconJar ★★ | 素材管理工具
+RightFont ★★ | 字体管理工具
 Sip ★★ | 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
@@ -222,7 +223,7 @@ FontExplorer X Pro ☆ | 字体管理，价格不菲而且经常崩溃
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
 Antetype ☆ | 界面设计工具，改用 Sketch
-Ember ☆ | 图片素材收集工具，改用 Inboard 
+Ember ☆ | 图片素材收集工具，改用 Inboard
 
 ### 工具相关的文章
 
