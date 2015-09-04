@@ -73,8 +73,10 @@ Coffee Break ★★ | 番茄工作法
 Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
+Downie ★★ | 在线视频网站内容下载
 Better Rename ★★ | 批量进行文件改名
-[DictUnifier ](https://code.google.com/p/mac-dictionary-kit/)★ | 快速转换星际译王的词典并自动添加到系统中
+ID3Mod2 ★ | 修改 ID3 Tag 的工具
+[DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
 cDock ★ | 美化 Dock
@@ -93,11 +95,12 @@ Keka ♣ | 解压工具
 
 名称  | 功能简述
 ----- | ------
-Dash ★★★★★ | 全语言文档手册速查
+Dash3 ★★★★★ | 全语言文档手册速查
 Sublime Text ★★★★★ | Editor，每天用它写代码
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
-SourceTree ★★★ | Git 工具
+Tower ★★★ | Git 工具
+[Source](http://getsourceapp.com/) ★★★ | 代码片段管理
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Graphviz ★★ | 代码画流程图
@@ -135,6 +138,7 @@ zepline ★★★★★ | 配合 sektch 使用
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★ | 配色软件
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
+IconJar ★★ | 素材管理工具
 Sip ★★ | 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
@@ -142,7 +146,6 @@ Fonts ★ | 字体预览
 [GifRocket](http://www.gifrocket.com/) ★ | avi 转 gif
 [Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
 [Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
-Ember ♣ | 图片素材收集工具
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 [Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
 [Reveal](http://revealapp.com/) ♣ | Runtime view debugging for iOS apps.
@@ -219,6 +222,7 @@ FontExplorer X Pro ☆ | 字体管理，价格不菲而且经常崩溃
 Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
 Antetype ☆ | 界面设计工具，改用 Sketch
+Ember ☆ | 图片素材收集工具，改用 Inboard 
 
 ### 工具相关的文章
 
