@@ -40,10 +40,11 @@ Guides for getting things done, programming well, and programming in style.
 ### Rails 提高
 
 * [appcasts](https://appcasts.io/)
+* [dpdcart](https://rubytapas.dpdcart.com/subscriber/content)
 * [Free video tutorials for web developers and designers](http://leveluptuts.com/tutorials)
-* [CodeWall发现各种tips](https://coderwall.com/)
+* [CodeWall 发现各种 tips](https://coderwall.com/)
 * [SecCasts Rails 安全相关视频](https://seccasts.com/mror)
-* [Web 开发小技巧](http://happycasts.net/)
+* [Web 开发小技巧](http://haoduoshipin.com/)
 * [Ruby Quicktips](http://rubyquicktips.com/)
 * [Ruby on Rails screencasts for developers who want to become pros](https://gorails.com/)
 * [egghead.io 重点在 Angular](https://egghead.io/)

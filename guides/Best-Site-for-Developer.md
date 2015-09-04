@@ -94,6 +94,7 @@ Docker ♣ | 代码分发
 [Rubular](http://rubular.com/) | Ruby 正则工具
 [Travis WebLint](http://yaml.travis-ci.org/) | 验证 travis-ci 配置是否正确
 [Video to GIF](http://imgur.com/vidgif) | 视频变 Gif 文件
+[RailsDiff](http://railsdiff.org/) | 比较 Rails 版本变化
 
 ### 配色
 

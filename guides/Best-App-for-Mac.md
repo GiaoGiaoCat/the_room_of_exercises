@@ -133,8 +133,9 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 Sketch 3 ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
 zepline ★★★★★ | 配合 sektch 使用
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
-Spectrum ★★★| 配色软件
-Sip ★★★| 小巧的取色软件
+Spectrum ★★★ | 配色软件
+Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
+Sip ★★ | 小巧的取色软件
 ImageAlpha ★ | 小巧的图片透明度处理
 Inboard ★ | 图片素材收集工具
 Fonts ★ | 字体预览
