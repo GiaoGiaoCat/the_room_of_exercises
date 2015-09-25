@@ -46,3 +46,7 @@
 ### Web Server
 
 * [puma](https://github.com/puma/puma/)
+
+**别人整理的**
+
+* [Awesome Rails Gem](https://github.com/hothero/awesome-rails-gem)

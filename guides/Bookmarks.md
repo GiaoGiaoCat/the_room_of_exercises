@@ -40,6 +40,7 @@
 
 **Sketch 相关**
 
+* [Sketch It's Me](http://sketch.im/) 一个专注于 Sketch 分享交流的互动平台，更多更好的 Sketch 相关资源汇聚地。
 * [sketchgems](http://www.sketchgems.com/) 出售 sketch 相关的资源
 * [sketchappsources](http://www.sketchappsources.com/)
 * [Sketch中文手册](http://www.ituring.com.cn/book/1305)
