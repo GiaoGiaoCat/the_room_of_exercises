@@ -26,7 +26,7 @@
 
 名称 | 功能简述
 ----- | ------
-Reeder 2 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
+Reeder 3 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode Pro ★ | 思维导图
@@ -61,54 +61,49 @@ iTerm ★★★★★ | 命令行增强
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
 Moom ★★★★ | 窗口大小管理
 NeteaseMusic ★★★★ | 网易云音乐
-Boom 1 ★★★★ | 2 和 1 没啥变化，换了个皮再收一次钱
+OmniDiskSweeper ★★★★ | 清理硬盘空间
+Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 YoudaoDict ★★★★ | 有道词典
 1Password 5 ★★★ | 密码管理
-AirMail ★★★ | 邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱
 GoAgentX ★★★ | 翻山过海来看你
-[Proxycap](http://www.proxycap.com/) ★★★ | 指定 APP 走 socks5 代理
 Noizio ★★★ | 工作时间的白噪音
-Coffee Break ★★ | 番茄工作法
-Hocus Focus ★★ | 自动隐藏光标
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
 Downie ★★ | 在线视频网站内容下载
 Better Rename ★★ | 批量进行文件改名
+QuickCast ★★ | 录屏
 ID3Mod2 ★ | 修改 ID3 Tag 的工具
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
 Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
-cDock ★ | 美化 Dock
 SPlayerX ★ | 播放视频
 LiteIcon ★ | 替换图标
 Cog ★ | 高品质音乐播放器
 爱壁纸HD ★ | 壁纸
 fluid ★ | 把网页转换成 Mac APP
+[Proxycap](http://www.proxycap.com/) ♣ | 指定 APP 走 socks5 代理，有点贵
 [Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
 Spillo ♣ | 书签管理
 Keka ♣ | 解压工具
 
 #### 开发工具
 
-仍然缺一个好的代码片段管理软件。
-
 名称  | 功能简述
 ----- | ------
 Dash3 ★★★★★ | 全语言文档手册速查
-Sublime Text ★★★★★ | Editor，每天用它写代码
+Atom ★★★★★ | 已经渐渐替代 ST 了
+Tower ★★★★★ | Git 客户端工具
+Sublime Text ★★★★★ | Editor
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
-Tower ★★★ | Git 工具
 [Source](http://getsourceapp.com/) ★★★ | 代码片段管理
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Graphviz ★★ | 代码画流程图
-CodeBox ★ | 代码收集管理
+SQLPro for SQLite ★★ | Sqlite 库管理软件
 MacVim ★ | Editor
-BugHub ★ | 管理 Github Issues 的工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
-Datum LE ★ | Sqlite 库管理软件
 Vagrant ♣ | 虚拟机确实需要一个，一直没动手
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
 [Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
@@ -134,19 +129,19 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 名称  | 功能简述
 ----- | ------
 Sketch 3 ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
-zepline ★★★★★ | 配合 sektch 使用
+Zepline ★★★★★ | 配合 sektch 使用
+Inboard ★★★ | 图片素材收集工具
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★ | 配色软件
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
 IconJar ★★ | 素材管理工具
 RightFont ★★ | 字体管理工具
 Sip ★★ | 小巧的取色软件
+[Block](http://blocsapp.com/) ★ | 不用写代码就可以创建出很漂亮的网页
 ImageAlpha ★ | 小巧的图片透明度处理
-Inboard ★ | 图片素材收集工具
 Fonts ★ | 字体预览
 [GifRocket](http://www.gifrocket.com/) ★ | avi 转 gif
 [Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
-[Block](http://blocsapp.com/) ♣ | 不用写代码就可以创建出很漂亮的网页
 [framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
 [Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
 [Reveal](http://revealapp.com/) ♣ | Runtime view debugging for iOS apps.
@@ -174,6 +169,9 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+Coffee Break ☆ | 番茄工作法，作者不更新了，从 10.10 开始就有 bug
+Boom 2 ☆ | 买了1，但是更新到2 之后没有再买
+AirMail ☆ | 买了1，邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱，现在很少用邮件了
 Manico ☆ | 图便宜买了，用了几天发现没啥用
 Shimo ☆ | 科学上网，因为不再使用 VPN 所以不再使用了
 Proxifier ☆ | 单App，规则代理工具，价格不菲所以改用免费的 Proxycap 了
@@ -185,12 +183,13 @@ Blackmagic Disk Speed Test ☆ | N年使用一次的测硬盘读写速度的工�
 AppZapper ☆ | 感觉删除的不干净，还遗留一些配置文件，仍然保留了一枚 2.x 的序列号
 QIM ☆ | 购买的第一个付费软件，是输入法，不更新了，而且 Mac 下面的输入法各家也都不错了
 [Dropzone 3](https://aptonic.com/dropzone3/) ☆ | 常驻状态栏的文件管理器，感觉功能不是很实用
+cDock ☆ | 美化 Dock
 
 #### 废弃开发工具
 
 名称  | 功能简述
 ----- | ------
-Atom ☆ | 作为一款编辑器，经常崩溃而且性能再调整几年才能用
+CodeBox ☆ | 代码收集管理
 Versions ☆ | SVN 工具
 Navicat Premium ☆ | 全数据库管理软件，很好也很贵
 0xED ☆ | 2进制文件编辑器
@@ -198,10 +197,11 @@ Robomongo ☆ | mongodb 数据库管理
 PlistEdit Pro ☆ | Plist 编辑器
 shuttle ☆ | A simple SSH shortcut menu
 AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不工作了
-Tower ☆ | git 工具，曾经想买但是不支持 workflow 就放弃了
+BugHub ☆ | 作者不再更新
 [codebugapp](http://codebugapp.com/) ☆ | PHP 调试工具，虽然它是最好的语言，可是我不会
 [Gistify](http://gistifyapp.com/) ☆ | 作为一款 gists 的客户端足够小巧，不喜欢界面
 [gisto](http://www.gistoapp.com/) ☆ | gists 的客户端不喜欢界面
+Datum LE ☆ | Sqlite 库管理软件
 
 #### 废弃前端工具
 
