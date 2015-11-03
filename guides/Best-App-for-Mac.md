@@ -129,6 +129,7 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 名称  | 功能简述
 ----- | ------
 Sketch 3 ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
+[Markly](http://marklyapp.com/) ★★★★★ | 配合 sektch 使用
 Zepline ★★★★★ | 配合 sektch 使用
 Inboard ★★★ | 图片素材收集工具
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
