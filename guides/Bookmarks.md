@@ -104,6 +104,7 @@
 * [图灵免费电子书](http://www.ituring.com.cn/book)
 * [Yelp开发团队发布内部网站设计指南](http://www.infoq.com/cn/news/2014/02/yelp-style-guide?utm_source=tuicool)
 * [Mac OS配置指南](http://www.sourabhbajaj.com/mac-setup/index.html)
+* [强迫症的Mac设置指南](http://insights.thoughtworkers.org/ocds-guide-to-setting-up-mac/)
 * [alias 资源技巧收集站](http://alias.sh/most-popular/usage)
 
 ### 开发阅读
