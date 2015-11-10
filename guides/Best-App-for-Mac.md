@@ -135,6 +135,7 @@ Inboard ★★★ | 图片素材收集工具
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Spectrum ★★★ | 配色软件
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
+[Drop to GIF](https://github.com/mortenjust/droptogif) ★★★ | 视频 转 gif
 IconJar ★★ | 素材管理工具
 RightFont ★★ | 字体管理工具
 Sip ★★ | 小巧的取色软件
