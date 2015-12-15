@@ -18,6 +18,13 @@ apm config set http-proxy http://proxy.company.com:8080
 * https://github.com/atom/apm
 * http://qiita.com/tsukamoto/items/cef0f2d7e2b33a26a9e5
 
+## 自助安装 Atom Packages
+
+1. search pageages in https://atom.io/packages 
+2. goto repo page
+3. `cd .atom/packages` and `git clone repo`
+4. `cd package_name` then `apm install --verbose`
+
 ## 软件和网站
 
 * [lantern](https://github.com/getlantern/lantern)
