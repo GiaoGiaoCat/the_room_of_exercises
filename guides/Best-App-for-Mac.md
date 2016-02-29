@@ -157,6 +157,7 @@ Fonts ★ | 字体预览
 [rvm](https://rvm.io/) | Ruby 版本管理器
 [oh my zsh](http://ohmyz.sh/) | 命令行增强
 [cask](http://caskroom.io) | 利用 brew 安装软件
+[Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
 
 ### 废弃工具列表
 
