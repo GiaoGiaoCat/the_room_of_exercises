@@ -37,8 +37,7 @@ Highlights ♣ | 标注 PDF 工具
 
 名称 | 功能简述
 ----- | ------
-Marked ★ | Markdown preview 软件，很少用到
-Notes ★ | 随手需要记录一些临时用的东西就打开它
+MWeb ★★★ | 支持 Markdown 格式的日记软件
 
 #### 数据同步
 
@@ -66,12 +65,14 @@ Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 YoudaoDict ★★★★ | 有道词典
 1Password 5 ★★★ | 密码管理
-GoAgentX ★★★ | 翻山过海来看你
+ShadowsocksX ★★★ | 翻山过海来看你
 Noizio ★★★ | 工作时间的白噪音
+Boom 2 ★★★ | 音效增强
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
 Downie ★★ | 在线视频网站内容下载
 Better Rename ★★ | 批量进行文件改名
+Eggscellent ★★ | 结合 Things 的番茄工具
 QuickCast ★★ | 录屏
 ID3Mod2 ★ | 修改 ID3 Tag 的工具
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
@@ -97,7 +98,6 @@ Tower ★★★★★ | Git 客户端工具
 Sublime Text ★★★★★ | Editor
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
-[Source](http://getsourceapp.com/) ★★★ | 代码片段管理
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Graphviz ★★ | 代码画流程图
@@ -165,16 +165,17 @@ Fonts ★ | 字体预览
 
 名称 | 功能简述
 ----- | ------
+Marked ☆ | Markdown preview 软件，很少用到
+Notes ☆ | 随手需要记录一些临时用的东西就打开它
 Mou ☆ | Markdown 编辑器，经常死机
-MWeb ☆ | Markdown 编辑器，厚脸求了一个兑换码，发现也不太好用
 haroopress ☆ | Markdown 编辑器，卡出翔了
 
 #### 废弃日常工具
 
 名称  | 功能简述
 ----- | ------
+GoAgentX ☆ | 翻山过海来看你
 Coffee Break ☆ | 番茄工作法，作者不更新了，从 10.10 开始就有 bug
-Boom 2 ☆ | 买了1，但是更新到2 之后没有再买
 AirMail ☆ | 买了1，邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱，现在很少用邮件了
 Manico ☆ | 图便宜买了，用了几天发现没啥用
 Shimo ☆ | 科学上网，因为不再使用 VPN 所以不再使用了
@@ -182,7 +183,6 @@ Proxifier ☆ | 单App，规则代理工具，价格不菲所以改用免费的 
 Clyppan ☆ | 管理剪贴板，改用 Alfred 来管理剪切板
 One ☆ | 改用 Reeder
 Vitamin-R 2 ☆ | 买了之后发现没有应用场景
-Eggscellent ☆ | 不能强制打断工作的番茄工具
 Blackmagic Disk Speed Test ☆ | N年使用一次的测硬盘读写速度的工具
 AppZapper ☆ | 感觉删除的不干净，还遗留一些配置文件，仍然保留了一枚 2.x 的序列号
 QIM ☆ | 购买的第一个付费软件，是输入法，不更新了，而且 Mac 下面的输入法各家也都不错了
@@ -193,6 +193,7 @@ cDock ☆ | 美化 Dock
 
 名称  | 功能简述
 ----- | ------
+[Source](http://getsourceapp.com/) ☆ | 不是原生，载入速度慢
 CodeBox ☆ | 代码收集管理
 Versions ☆ | SVN 工具
 Navicat Premium ☆ | 全数据库管理软件，很好也很贵
