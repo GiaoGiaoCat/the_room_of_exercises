@@ -109,6 +109,12 @@ Docker ♣ | 代码分发
 [Video to GIF](http://imgur.com/vidgif) | 视频变 Gif 文件
 [RailsDiff](http://railsdiff.org/) | 比较 Rails 版本变化
 [Yep, it’s vulnerable.](https://isitvulnerable.com/) | 上传 Gemfile.lock 检查你的 gem 有哪些漏洞
+[bundlewatcher](http://www.bundlewatcher.com/) | 上传 Gemfile.lock 检查你的 gem 哪些该升级了
+[bundle_outdated](https://github.com/scoop/bundle_outdated) | Find out which gems in your bundle are outdated.
+[checkzilla](https://github.com/mickey/checkzilla) | CheckZilla is a command line tool allowing you to check and be notified of outdated software. 
+[gemnasium](https://gemnasium.com/) | SECURE YOUR PROJECT AND REDUCE TECHNICAL DEBT
+
+
 
 ### 配色
 
