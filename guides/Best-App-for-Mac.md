@@ -1,8 +1,6 @@
 ## Mac 平台下的软件
 
-大家使用同款软件的好处就是，遇到问题至少有同事帮忙搞定。且能互相交流高阶用法。大家都用的迅雷，QQ 之类的软件没收录。
-
-对于我已经废弃不再使用的软件，并不是软件不好，可能是因为我在工作中已经其他替代品了。
+大家使用同款软件的好处就是，遇到问题至少有同事帮忙搞定。且能互相交流高阶用法。
 
 ### 说明
 
@@ -20,24 +18,20 @@
 2. 中午把 star 的 item 详细过一遍，值得细读的放入 Pocket，网站类的链接放入 RainDrop。(30分钟)
 3. 中午图片类的素材直接放入 InBoard 存储。(10分钟)
 4. 晚上细读 Pocket 文章需要做笔记或整理的加星，其余删除或放入 RainDrop。
-5. 周末阅读 Pocket 文章，将代码类的整理放入 Gist。
-6. 周末阅读 Pocket 文章，做笔记，然后删除 Pocket 的 Star。
-7. 最后文章以链接形式积累在 RainDrop 中，笔记积累在 github blog，图片积累在 InBoard。
+5. 周末阅读 Pocket 文章，将代码类的整理放入 SnippetsLab。
+6. 周末阅读 Pocket 文章，做笔记（MWeb/Blog），然后归档 Pocket 的 Star。
+7. 最后文章以链接形式存在 RainDrop 中，代码笔记存在 github blog，文化类笔记存在 MWeb，图片积累在 InBoard。
+8. 以 Trello 设定自己的长期学习计划，学习中遇到系统的知识点利用 MindNode 整理脑图。
 
 名称 | 功能简述
 ----- | ------
 Reeder 3 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
-MindNode Pro ★ | 思维导图
-Skitch ★ | 标注图片工具
-Highlights ♣ | 标注 PDF 工具
-
-#### 写作
-
-名称 | 功能简述
------ | ------
+MindNode ★★★★ | 思维导图
+截图 ★★★★ | 标注图片工具
 MWeb ★★★ | 支持 Markdown 格式的日记软件
+Highlights ♣ | 标注 PDF 工具
 
 #### 数据同步
 
@@ -55,6 +49,7 @@ Dropbox ★★★★★ | 同步各种配置文件
 ----- | ------
 Alfred 2 ★★★★★ | 效率软件
 iStat Menus ★★★★★ | 监控状态栏
+Bartender 2 ★★★★★ | 给 Menu 减负
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛
 iTerm ★★★★★ | 命令行增强
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
@@ -64,13 +59,13 @@ OmniDiskSweeper ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 YoudaoDict ★★★★ | 有道词典
-1Password 5 ★★★ | 密码管理
-ShadowsocksX ★★★ | 翻山过海来看你
+Downie ★★★★ | 在线视频网站内容下载
+1Password 5 ★★★★ | 密码管理
+ShadowsocksX ★★★★ | 翻山过海来看你
 Noizio ★★★ | 工作时间的白噪音
 Boom 2 ★★★ | 音效增强
 AppCleaner ★★ | 删除软件
 ShooterSubX ★★ | 射手字幕下载
-Downie ★★ | 在线视频网站内容下载
 Better Rename ★★ | 批量进行文件改名
 Eggscellent ★★ | 结合 Things 的番茄工具
 QuickCast ★★ | 录屏
@@ -96,20 +91,23 @@ Dash3 ★★★★★ | 全语言文档手册速查
 Atom ★★★★★ | 已经渐渐替代 ST 了
 Tower ★★★★★ | Git 客户端工具
 Sublime Text ★★★★★ | Editor
+SnippetsLab ★★★★★ | 代码片段整理
 [Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | Mysql 库管理软件
+PlantUML ★★★★ | 代码画各种 UML
+Vagrant ★★★★ | 虚拟机确实需要一个，一直没动手
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
+Charles ★★ | 虚拟机确实需要一个，一直没动手 | 抓包代理调试工具
 Graphviz ★★ | 代码画流程图
+[StarUML 2](http://staruml.io/) ★★ | 画 UML
 SQLPro for SQLite ★★ | Sqlite 库管理软件
 MacVim ★ | Editor
 Cleaner ★ | 清理 svn, git 项目垃圾文件
-Vagrant ♣ | 虚拟机确实需要一个，一直没动手
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
 [Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
 [RESTed](http://www.helloresolven.com/portfolio/rested/) ♣ | API 测试工具
 [TrackRecord](http://excitedatom.com/trackrecord/) ♣ | 帮你完成重复工作，就像按键精灵
-Charles ♣ | 抓包代理调试工具
 
 #### 前端工具
 
