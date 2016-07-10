@@ -41,6 +41,7 @@ Guides for getting things done, programming well, and programming in style.
 ### Rails 提高
 
 * [Rails 4-2-stable 参考手册](https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details)
+* [RubyPlus](https://rubyplus.com/articles)
 * [appcasts](https://appcasts.io/)
 * [dpdcart](https://rubytapas.dpdcart.com/subscriber/content)
 * [Free video tutorials for web developers and designers](http://leveluptuts.com/tutorials)
