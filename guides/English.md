@@ -4,6 +4,8 @@
 * Algorithms 算法
 * Arguments 变量
 * Ascending Order 升序
+* Authentication 证明、证实身份（OpenID）
+* Authorization 授权、许可（OAuth）
 
 ## C
 
@@ -70,14 +72,17 @@
 
 ### 测试方法名
 
+```
 test_order_status_when_initialized
 test_order_amount_when_initialized
 test_default_is_zero
 test_total_calculation
+```
 
 
 ### 论坛相关英文
 
+```
 论坛 forum/BBS(bulletin board system)
 社区 community
 聊天 chat
@@ -138,3 +143,4 @@ test_total_calculation
 重复注册 multiple registration
 回复里面套回复 step-laddering
 在各个版面重复张贴（贬） cross post/cross posting
+```
