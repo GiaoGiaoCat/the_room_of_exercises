@@ -38,6 +38,7 @@ Highlights ♣ | 标注 PDF 工具
 名称 | 功能简述
 ----- | ------
 Dropbox ★★★★★ | 同步各种配置文件
+iCloud ★★★★★ | 同步 文档 和 桌面 两个文件夹 
 [mackup](https://github.com/lra/mackup) ★★★ | Keep your application settings in sync (OS X/Linux)
 [BitTorrent Sync](http://www.getsync.com/) ★★ | 大文件同步，通常会加入一台服务器以便大家能一直在线
 [ChronoSync/ChronoAgent](http://www.econtechnologies.com/chronosync/overview.html) ♣ | Moves file around on the LAN，需付费
@@ -108,6 +109,7 @@ Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
 [RESTed](http://www.helloresolven.com/portfolio/rested/) ♣ | API 测试工具
 [TrackRecord](http://excitedatom.com/trackrecord/) ♣ | 帮你完成重复工作，就像按键精灵
+Web2App | 瞬间将网站做成 Mac App
 
 #### 前端工具
 
