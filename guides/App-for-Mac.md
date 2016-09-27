@@ -13,6 +13,7 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+ShooterSubX ★★ | 射手字幕下载
 GoAgentX ☆ | 翻山过海来看你
 Coffee Break ☆ | 番茄工作法，作者不更新了，从 10.10 开始就有 bug
 AirMail ☆ | 买了1，邮件收发工具，2 和 1 没啥变化，换了个皮再收一次钱，现在很少用邮件了
@@ -27,7 +28,11 @@ AppZapper ☆ | 感觉删除的不干净，还遗留一些配置文件，仍然�
 QIM ☆ | 购买的第一个付费软件，是输入法，不更新了，而且 Mac 下面的输入法各家也都不错了
 [Dropzone 3](https://aptonic.com/dropzone3/) ☆ | 常驻状态栏的文件管理器，感觉功能不是很实用
 cDock ☆ | 美化 Dock
-
+Eggscellent ★★ | 结合 Things 的番茄工具
+ID3Mod2 ★ | 修改 ID3 Tag 的工具
+Photo2Text ★ | 图片转文字
+Spillo ♣ | 书签管理
+Keka ♣ | 解压工具
 
 ## 开发工具
 

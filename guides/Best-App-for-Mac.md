@@ -48,9 +48,9 @@ iCloud ★★★★★ | 同步 文档 和 桌面 两个文件夹
 
 名称 | 功能简述
 ----- | ------
-Alfred 2 ★★★★★ | 效率软件
+Alfred ★★★★★ | 效率软件
 iStat Menus ★★★★★ | 监控状态栏
-Bartender 2 ★★★★★ | 给 Menu 减负
+Bartender ★★★★★ | 给 Menu 减负
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛
 iTerm ★★★★★ | 命令行增强
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
@@ -61,18 +61,14 @@ Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 YoudaoDict ★★★★ | 有道词典
 Downie ★★★★ | 在线视频网站内容下载
-1Password 5 ★★★★ | 密码管理
-ShadowsocksX ★★★★ | 翻山过海来看你
+1Password ★★★★ | 密码管理
+ShadowsocksX-NG ★★★★ | 翻山过海来看你
 Noizio ★★★ | 工作时间的白噪音
 Boom 2 ★★★ | 音效增强
 AppCleaner ★★ | 删除软件
-ShooterSubX ★★ | 射手字幕下载
 Better Rename ★★ | 批量进行文件改名
-Eggscellent ★★ | 结合 Things 的番茄工具
 QuickCast ★★ | 录屏
-ID3Mod2 ★ | 修改 ID3 Tag 的工具
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
-Photo2Text ★ | 图片转文字
 OhMyStar ★ | 管理 Github 上面收藏的项目
 SPlayerX ★ | 播放视频
 LiteIcon ★ | 替换图标
@@ -81,8 +77,6 @@ Cog ★ | 高品质音乐播放器
 fluid ★ | 把网页转换成 Mac APP
 [Proxycap](http://www.proxycap.com/) ♣ | 指定 APP 走 socks5 代理，有点贵
 [Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
-Spillo ♣ | 书签管理
-Keka ♣ | 解压工具
 
 #### 开发工具
 
@@ -101,6 +95,7 @@ Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTre
 CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Charles ★★ | 虚拟机确实需要一个，一直没动手 | 抓包代理调试工具
 Graphviz ★★ | 代码画流程图
+Mac CLI ★★ | OS X command line tools for developers
 [StarUML 2](http://staruml.io/) ★★ | 画 UML
 SQLPro for SQLite ★★ | Sqlite 库管理软件
 MacVim ★ | Editor
@@ -129,7 +124,8 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 
 名称  | 功能简述
 ----- | ------
-Sketch 3 ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
+Sketch ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
+Sketch Toolbox | Sketch 插件管理
 [Markly](http://marklyapp.com/) ★★★★★ | 配合 sektch 使用
 [Silver](http://silverflows.com/) ★★★★★ | 配合 sektch 使用的原型工具
 Zepline ★★★★★ | 配合 sektch 使用
