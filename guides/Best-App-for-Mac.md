@@ -152,10 +152,14 @@ iOS Images Extractor | 提取App.car包里面的素材
 名称  | 功能简述
 ----- | ------
 [brew](http://brew.sh/) | Mac 下的包管理器
-[rvm](https://rvm.io/) | Ruby 版本管理器
+[rbenv](https://github.com/rbenv/rbenv) | Ruby 版本管理器
 [oh my zsh](http://ohmyz.sh/) | 命令行增强
 [cask](http://caskroom.io) | 利用 brew 安装软件
+[Caskroom-fonts](https://github.com/caskroom/homebrew-fonts) | Casks of fonts http://caskroom.io
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
+[mas-cli](https://github.com/argon/mas) | Mac App Store command line interface
+[Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
+
 
 
 ### 工具相关的文章
