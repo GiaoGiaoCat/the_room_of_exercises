@@ -77,6 +77,7 @@ Cog ★ | 高品质音乐播放器
 fluid ★ | 把网页转换成 Mac APP
 [Proxycap](http://www.proxycap.com/) ♣ | 指定 APP 走 socks5 代理，有点贵
 [Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
+smcfancontrol | 風扇控制軟件
 
 #### 开发工具
 
