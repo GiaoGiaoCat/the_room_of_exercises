@@ -63,6 +63,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Ruby Rogues is a weekly panel discussion about programming](http://devchat.tv/ruby-rogues)
 * [Learn the Ruby Programming Language](http://ruby.about.com/)
 * [Ruby Conference 2014 Schedule](http://confreaks.com/events/RubyConf2014)
+* [Drifting Ruby 免费视频](https://www.driftingruby.com/episodes)
 
 ### 收集资源
 
