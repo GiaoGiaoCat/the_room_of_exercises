@@ -8,7 +8,7 @@
 * [站群SEO操作技巧](http://bbs.28tui.com/thread-15622142-1-1.html)
 * [大家都是怎么做站群的？](https://www.zhihu.com/question/20998390)
 * [有人做垃圾站群，年入百万，这些站是怎么获得大量流量的呢？](https://www.zhihu.com/question/19825065)
-
+* [我有100个网站 怎么利用站群做推广](https://zhidao.baidu.com/question/689620553191347804.html)
 
 ## 软件
 
