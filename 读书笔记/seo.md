@@ -5,6 +5,7 @@
 ## 文章
 
 * [揭开黑帽SEO的神秘面纱：蜘蛛池、寄生虫、站群](http://mt.sohu.com/20161107/n472504662.shtml)
+* [站群SEO操作技巧](http://bbs.28tui.com/thread-15622142-1-1.html)
 * [大家都是怎么做站群的？](https://www.zhihu.com/question/20998390)
 * [有人做垃圾站群，年入百万，这些站是怎么获得大量流量的呢？](https://www.zhihu.com/question/19825065)
 
