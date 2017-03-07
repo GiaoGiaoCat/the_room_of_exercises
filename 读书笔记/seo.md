@@ -9,7 +9,7 @@
 ## 软件
 
 * [芭奇站群软件，无绑定机器，无限制域名，无限制网站个数](https://baqisoft.taobao.com/)
-
+* [千云繁殖池](http://www.zhizhu365.com/)
 
 
 ## 心得
