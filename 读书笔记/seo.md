@@ -1,5 +1,6 @@
 ## 基础概念
 * [站群定义](http://baike.baidu.com/link?url=ommcQyxZOOAulygARd9xzxcXeEzKSCPdwiT9XmbFUN44pQo7rkNZ9hf1KvEfHCm6VYQ53lM26nX-ZPDangzX4K1nCzEa31hKb8RDQhHiUHe)
+* 国内免备案.301跳转.翻墙.CDN.不限制内容高防-服务器
 
 ## 文章
 
