@@ -1,3 +1,6 @@
+## 基础概念
+* [站群定义](http://baike.baidu.com/link?url=ommcQyxZOOAulygARd9xzxcXeEzKSCPdwiT9XmbFUN44pQo7rkNZ9hf1KvEfHCm6VYQ53lM26nX-ZPDangzX4K1nCzEa31hKb8RDQhHiUHe)
+
 ## 文章
 
 * [揭开黑帽SEO的神秘面纱：蜘蛛池、寄生虫、站群](http://mt.sohu.com/20161107/n472504662.shtml)
@@ -6,7 +9,7 @@
 
 * [芭奇站群软件，无绑定机器，无限制域名，无限制网站个数](https://baqisoft.taobao.com/)
 
-## 基础概念
+
 
 ## 心得
 
