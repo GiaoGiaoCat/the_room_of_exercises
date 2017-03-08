@@ -3,19 +3,21 @@
 * 国内免备案.301跳转.翻墙.CDN.不限制内容高防-服务器
 * [实例分析爱站和CHINAZ的权重谁的更准](http://www.admin5.com/article/20130820/520907.shtml)
 ## 文章
-
 * [揭开黑帽SEO的神秘面纱：蜘蛛池、寄生虫、站群](http://mt.sohu.com/20161107/n472504662.shtml)
 * [站群SEO操作技巧](http://bbs.28tui.com/thread-15622142-1-1.html)
 * [大家都是怎么做站群的？](https://www.zhihu.com/question/20998390)
 * [有人做垃圾站群，年入百万，这些站是怎么获得大量流量的呢？](https://www.zhihu.com/question/19825065)
 * [我有100个网站 怎么利用站群做推广](https://zhidao.baidu.com/question/689620553191347804.html)
 * [站群SEO一：我如何低成本维护上千个网站？](http://www.chinaz.com/web/2015/0323/392249.shtml)
-
+* [站群技术深度挖掘](https://www.zhihu.com/question/20370496)
+* [站群是如何运营的？使用了哪些站群 SEO 软件？](https://www.zhihu.com/question/20370496)
 
 ## 交流
 * [广告中国](http://www.advertcn.com/)
 * [A5](http://www.a5.net/)
 
+## 网站
+* [发外推网](http://www.fawaitui.com/)
 ## 软件
 
 * [芭奇站群软件，无绑定机器，无限制域名，无限制网站个数](https://baqisoft.taobao.com/)
