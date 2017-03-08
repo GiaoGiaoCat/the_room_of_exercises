@@ -19,6 +19,7 @@
 
 * [芭奇站群软件，无绑定机器，无限制域名，无限制网站个数](https://baqisoft.taobao.com/)
 * [千云繁殖池](http://www.zhizhu365.com/)
+* [克隆侠站群](http://www.kelongxia.com/)
 
 ## 淘宝
 * [com出租 cn域名 蜘蛛池 站群域名 域名出租 二级域名 微信 MX](https://item.taobao.com/item.htm?spm=a230r.1.14.110.GK0WBQ&id=533018226722&ns=1&abbucket=11#detail)
