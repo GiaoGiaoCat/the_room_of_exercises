@@ -9,7 +9,7 @@
 * [大家都是怎么做站群的？](https://www.zhihu.com/question/20998390)
 * [有人做垃圾站群，年入百万，这些站是怎么获得大量流量的呢？](https://www.zhihu.com/question/19825065)
 * [我有100个网站 怎么利用站群做推广](https://zhidao.baidu.com/question/689620553191347804.html)
-
+* [站群SEO一：我如何低成本维护上千个网站？](http://www.chinaz.com/web/2015/0323/392249.shtml)
 ## 软件
 
 * [芭奇站群软件，无绑定机器，无限制域名，无限制网站个数](https://baqisoft.taobao.com/)
