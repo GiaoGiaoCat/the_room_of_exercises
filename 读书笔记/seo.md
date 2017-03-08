@@ -25,6 +25,7 @@
 * [长尾关键词挖掘软件 百度关键词挖掘工具](https://item.taobao.com/item.htm?spm=2013.1.20141002.7.LnmckG&scm=1007.10009.70205.100200300000001&id=530643654503&pvid=a12b6f57-95cd-4a70-aa0f-9fb4d67498de)
 * [快速引百度蜘蛛](https://item.taobao.com/item.htm?spm=a230r.1.14.80.GK0WBQ&id=530588219559&ns=1&abbucket=11#detail)
 * [黑侠外推蜘蛛池V2.0](https://item.taobao.com/item.htm?spm=2013.1.w4023-15939124170.7.Pr3Wpk&id=545253555205)
+* [2016新品龙少极速百万流量站群软件逆天者X版霸屏版](https://item.taobao.com/item.htm?spm=a230r.1.14.37.GK0WBQ&id=540367734625&ns=1&abbucket=11#detail)
 
 ## 心得
 
