@@ -26,6 +26,7 @@
 * [快速引百度蜘蛛](https://item.taobao.com/item.htm?spm=a230r.1.14.80.GK0WBQ&id=530588219559&ns=1&abbucket=11#detail)
 * [黑侠外推蜘蛛池V2.0](https://item.taobao.com/item.htm?spm=2013.1.w4023-15939124170.7.Pr3Wpk&id=545253555205)
 * [2016新品龙少极速百万流量站群软件逆天者X版霸屏版](https://item.taobao.com/item.htm?spm=a230r.1.14.37.GK0WBQ&id=540367734625&ns=1&abbucket=11#detail)
+* [克隆侠第五代&第六代站群程序](https://item.taobao.com/item.htm?spm=a230r.1.14.73.GK0WBQ&id=543298484140&ns=1&abbucket=11#detail)
 
 ## 心得
 
