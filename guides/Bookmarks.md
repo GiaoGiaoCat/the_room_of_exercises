@@ -14,6 +14,8 @@
 * [Unpack or deobfuscate JavaScript and HTML](http://jsbeautifier.org/)
 * [Shell命令检查器](http://www.shellcheck.net/)
 * [Shell命令解释](http://explainshell.com/)
+* [Browser Detected](http://detectmobilebrowsers.com/)
+
 
 ## 设计师资源
 
