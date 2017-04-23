@@ -16,6 +16,7 @@
 ## 交流
 * [广告中国](http://www.advertcn.com/)
 * [A5](http://www.a5.net/)
+* [中国 VPS 玩家和黄赌毒站长们的聚集地](http://www.hostloc.com/forum.php)
 
 ## 网站
 * [发外推网](http://www.fawaitui.com/)
