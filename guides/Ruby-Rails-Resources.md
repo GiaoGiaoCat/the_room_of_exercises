@@ -22,6 +22,11 @@ Guides for getting things done, programming well, and programming in style.
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
 * [Rails 102](http://rocodev.gitbooks.io/rails-102/)
 
+### Rails5 知识
+
+* [Rails 5](http://blog.bigbinary.com/categories/Rails-5)
+
+
 ### Rails4 知识
 
 * [Strong Parameters](https://github.com/rails/strong_parameters)
