@@ -398,9 +398,9 @@ NOTE:  Pressing just the motion while in Normal mode without an operator will
 
   1. 移动光标到以下以--->标记的行。
 
-  2. 键入 2w 以使光标向前移动两个单词。
+  2. 键入 2w 以使光标向后移动两个单词。
 
-  3. 键入 3e 以使光标向前移动到第三个单词尾。
+  3. 键入 3e 以使光标向后移动到第三个单词尾。
 
   4. 键入 0 移动到行首。
   
