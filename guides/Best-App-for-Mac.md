@@ -83,23 +83,25 @@ smcfancontrol | 風扇控制軟件
 
 名称  | 功能简述
 ----- | ------
-Dash3 ★★★★★ | 全语言文档手册速查
-Atom ★★★★★ | 已经渐渐替代 ST 了
+Dash4 ★★★★★ | 全语言文档手册速查
+Atom ★★★★★ | 主力编辑器
 Tower ★★★★★ | Git 客户端工具
-Sublime Text ★★★★★ | Editor
-SnippetsLab ★★★★★ | 代码片段整理
-[Anvil](http://anvilformac.com/) ★★★★ | Anvil is a beautiful menubar app for managing local websites
-Sequel Pro ★★★★ | Mysql 库管理软件
+Sublime Text ★★★★ | Editor
+SnippetsLab ★★★ | 代码片段整理
+[Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
+Sequel Pro ★★★★ | MySQL GUI 客户端
 PlantUML ★★★★ | 代码画各种 UML
-Vagrant ★★★★ | 虚拟机确实需要一个，一直没动手
+Vagrant ★★★★ | 虚拟机确实需要一个
 Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
-CodeRunner 2 ★★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
-Charles ★★ | 虚拟机确实需要一个，一直没动手 | 抓包代理调试工具
+CodeRunner 2 ★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
+Charles ★★ | 抓包代理调试工具
 Graphviz ★★ | 代码画流程图
+Medis ★★ | Redis GUI 客户端
 Mac CLI ★★ | OS X command line tools for developers
 [StarUML 2](http://staruml.io/) ★★ | 画 UML
-SQLPro for SQLite ★★ | Sqlite 库管理软件
-MacVim ★ | Editor
+Base ★★ | Sqlite 库管理软件
+OhMyStar2 ★★ | Gtihub Star 管理
+PostMan ★★ | API 测试工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
 [Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
