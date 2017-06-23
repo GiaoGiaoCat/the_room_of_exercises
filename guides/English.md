@@ -2,13 +2,14 @@
 
 * Accept 接受
 * Algorithms 算法
-* Arguments 变量
+* Arguments 实际参数
 * Ascending Order 升序
 * Authentication 证明、证实身份（OpenID）
 * Authorization 授权、许可（OAuth）
 
 ## C
 
+* Constant 常量
 * Capitalize 首字母大写
 * Combined Comparison Operator 组合对比运算符
 
@@ -20,19 +21,29 @@
 ## E
 
 * Expect 期望
+* Extension 扩展
 
 ## F
 
 * Foundations 基础
 
+## G
+
+* Global variable 全局变量
+
 ## I
 
 * Instance Variable 实例变量
 * Iterator 迭代器
+* Instantiation 实例化
+* Introspection 自省
+* Immediate value 立即值（Ruby 中的整数，符号，特殊对象true, false, nil。被赋值给变量时，变量持有值本身，而不是引用。）
 
 ## L
 
 * Latest 最新的
+* Library 类库
+* Local variable 局部变量
 
 ## M
 
@@ -42,17 +53,19 @@
 
 ## p
 
-* Parameters 参数
+* Parameters 形式参数
 
 ## R
 
 * Range 范围
 * Regexp 正则表达式
 * Resources 资源
+* Reflection 反射
 
 ## S
 
 * ```scheme``` URL 模式(例如 http, ftp, mailto, git)
+* scope 作用域
 * String interpolation 字符串内插
 * statelessness 无状态的
 * Splat Arguments - Variable Length Arguments List
@@ -69,6 +82,10 @@
 
 * Uniform Resource Locator 统一资源定位符(URL)
 * Uniform Resource Identifier 统一资源标识符(URI)
+
+## V
+
+* variable visibility 变量可见度
 
 ### 测试方法名
 

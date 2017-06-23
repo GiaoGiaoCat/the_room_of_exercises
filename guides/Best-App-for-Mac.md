@@ -5,7 +5,6 @@
 ### 说明
 
 * ★ 正在使用, 星越多代表越常用
-* ☆ 曾经使用，但已经废弃
 * ♣ 关注的软件
 
 ### 工具列表
@@ -58,26 +57,16 @@ Moom ★★★★ | 窗口大小管理
 NeteaseMusic ★★★★ | 网易云音乐
 OmniDiskSweeper ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
-GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 YoudaoDict ★★★★ | 有道词典
 Downie ★★★★ | 在线视频网站内容下载
 1Password ★★★★ | 密码管理
 ShadowsocksX-NG ★★★★ | 翻山过海来看你
-Noizio ★★★ | 工作时间的白噪音
-Boom 2 ★★★ | 音效增强
 AppCleaner ★★ | 删除软件
-Better Rename ★★ | 批量进行文件改名
 QuickCast ★★ | 录屏
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
-OhMyStar ★ | 管理 Github 上面收藏的项目
 SPlayerX ★ | 播放视频
-LiteIcon ★ | 替换图标
-Cog ★ | 高品质音乐播放器
-爱壁纸HD ★ | 壁纸
-fluid ★ | 把网页转换成 Mac APP
-[Proxycap](http://www.proxycap.com/) ♣ | 指定 APP 走 socks5 代理，有点贵
-[Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
-smcfancontrol | 風扇控制軟件
+TG Pro ★★★ | 风扇控制
+MacDown ★★★★  | markdown 文件主力编辑器，生成的 pdf 不错
 
 #### 开发工具
 
@@ -92,7 +81,7 @@ SnippetsLab ★★★ | 代码片段整理
 Sequel Pro ★★★★ | MySQL GUI 客户端
 PlantUML ★★★★ | 代码画各种 UML
 Vagrant ★★★★ | 虚拟机确实需要一个
-Kaleidoscope ★★★ | 精美强大的 Diff 对比工具，可配合 SourceTree 使用
+Kaleidoscope ★★★ | Diff 对比工具，可配合 Tower 使用
 CodeRunner 2 ★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Charles ★★ | 抓包代理调试工具
 Graphviz ★★ | 代码画流程图
@@ -100,28 +89,11 @@ Medis ★★ | Redis GUI 客户端
 Mac CLI ★★ | OS X command line tools for developers
 [StarUML 2](http://staruml.io/) ★★ | 画 UML
 Base ★★ | Sqlite 库管理软件
-OhMyStar2 ★★ | Gtihub Star 管理
+OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
-[Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
-[RESTed](http://www.helloresolven.com/portfolio/rested/) ♣ | API 测试工具
-[TrackRecord](http://excitedatom.com/trackrecord/) ♣ | 帮你完成重复工作，就像按键精灵
-Web2App | 瞬间将网站做成 Mac App
-[iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) ★ | 导出 ipa 里面的图片资源
 
-#### 前端工具
-
-名称  | 功能简述
------ | ------
-xScope ★★★ | 8合一标尺神器，据说都用来配合 sketch
-LiveReload ★ | 调试工具：浏览器自刷新、前端代码编译等
-Duo ★ | 测试网页的响应式设计
-[ImageOptim](https://imageoptim.com/) ★ | 缩小图片体积
-GluePrint ★ | 小工具用来确保前端像素级别还原设计
-[Macaw](http://macaw.co/) ♣ | 值得关注的一款前端开发工具
-[brackets](http://brackets.io/) ♣ | 值得关注的一款前端开发工具
-[WebCode](http://www.webcodeapp.com/) ♣ | 画矢量图，导出SVG或者HTML、CSS、JavaScript
 
 #### 设计工具
 
@@ -129,26 +101,16 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 ----- | ------
 Sketch ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
 Sketch Toolbox | Sketch 插件管理
-[Markly](http://marklyapp.com/) ★★★★★ | 配合 sektch 使用
-[Silver](http://silverflows.com/) ★★★★★ | 配合 sektch 使用的原型工具
 Zepline ★★★★★ | 配合 sektch 使用
 Inboard ★★★ | 图片素材收集工具
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
-Spectrum ★★★ | 配色软件
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
 [Drop to GIF](https://github.com/mortenjust/droptogif) ★★★ | 视频 转 gif
 IconJar ★★ | 素材管理工具
 RightFont ★★ | 字体管理工具
 Sip ★★ | 小巧的取色软件
-[Block](http://blocsapp.com/) ★ | 不用写代码就可以创建出很漂亮的网页
 ImageAlpha ★ | 小巧的图片透明度处理
 Fonts ★ | 字体预览
-[GifRocket](http://www.gifrocket.com/) ★ | avi 转 gif
-[Avocode](http://avocode.com/) ♣ | Turning designs(by Sketch/PS) into code is effortless with Avocode
-[framer](http://framerjs.com/) ♣ | Invent, design and experiment with interaction
-[Composite](http://www.getcomposite.com/) ♣ | A new, delightful way of prototyping
-[Reveal](http://revealapp.com/) ♣ | Runtime view debugging for iOS apps.
-iOS Images Extractor | 提取App.car包里面的素材
 
 #### 命令行工具
 
@@ -162,7 +124,6 @@ iOS Images Extractor | 提取App.car包里面的素材
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
 [mas-cli](https://github.com/argon/mas) | Mac App Store command line interface
 [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
-
 
 
 ### 工具相关的文章
