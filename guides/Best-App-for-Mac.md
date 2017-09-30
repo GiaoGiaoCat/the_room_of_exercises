@@ -76,6 +76,7 @@ Dash4 ★★★★★ | 全语言文档手册速查
 Atom ★★★★★ | 主力编辑器
 Tower ★★★★★ | Git 客户端工具
 Sublime Text ★★★★ | Editor
+[SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
 SnippetsLab ★★★ | 代码片段整理
 [Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
 Sequel Pro ★★★★ | MySQL GUI 客户端
@@ -93,6 +94,7 @@ OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
+
 
 
 #### 设计工具
