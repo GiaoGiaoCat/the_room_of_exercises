@@ -67,6 +67,7 @@ QuickCast ★★ | 录屏
 SPlayerX ★ | 播放视频
 TG Pro ★★★ | 风扇控制
 MacDown ★★★★  | markdown 文件主力编辑器，生成的 pdf 不错
+iina ★★★★  | 看电影
 
 #### 开发工具
 
