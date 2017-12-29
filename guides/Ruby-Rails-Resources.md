@@ -86,6 +86,9 @@ Guides for getting things done, programming well, and programming in style.
 * [A Quick Guide to Sublime Text](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
 * [最佳日志实践](http://www.bitstech.net/2014/01/07/log-best-practice/)
 
+### 开源项目
+* [5 Best Ruby On Rails CMS](http://codecrux.com/blog/2017/best-ruby-on-rails-cms.html)
+
 ### 专题
 
 #### 重构&最佳实践
