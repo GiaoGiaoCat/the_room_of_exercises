@@ -16,7 +16,7 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Rails 教程中文版](https://github.com/Tassandar/Rails-Tutorial-Translate/)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-* [Ruby on Rails Guides 中文](http://guides.ruby-china.org/)
+* [Ruby on Rails Guides 中文](https://ruby-china.github.io/rails-guides/)
 * [免费的编程中文书籍索引](https://code.csdn.net/JustJavaC/free-programming-books-zh_cn)
 * [Cumiki is the platform for learning and teaching programming](http://cumiki.com/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
