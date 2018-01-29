@@ -128,6 +128,8 @@ Fonts ★ | 字体预览
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
 [mas-cli](https://github.com/argon/mas) | Mac App Store command line interface
 [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
+[httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
+[htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
 
 
 ### 工具相关的文章
