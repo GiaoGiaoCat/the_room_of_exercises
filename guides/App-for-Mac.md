@@ -13,6 +13,7 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛，macOS 10.12 内置该功能
 ShooterSubX ★★ | 射手字幕下载
 GoAgentX ☆ | 翻山过海来看你
 Coffee Break ☆ | 番茄工作法，作者不更新了，从 10.10 开始就有 bug
