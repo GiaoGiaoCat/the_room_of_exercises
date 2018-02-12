@@ -46,7 +46,7 @@
 [rubocop](https://github.com/bbatsov/rubocop) ★ | 代码质量检查
 [Code Climate](https://codeclimate.com/) ★ | Code Review，和 rubocop 不是一回事
 [Travis CI](https://travis-ci.org/) ☆ | 持续集成
-[Witeboard](https://witeboard.com/) ★ | 白板
+[Witeboard](https://www.tutorialspoint.com/whiteboard.htm) ★ | 白板
 [github wiki](https://github.com/) ★ | wiki
 ? | 原型设计
 ? | 脑图
