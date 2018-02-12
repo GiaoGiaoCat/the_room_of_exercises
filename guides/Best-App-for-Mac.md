@@ -68,6 +68,7 @@ TG Pro ★★★ | 风扇控制
 MacDown ★★★★  | markdown 文件主力编辑器，生成的 pdf 不错
 iina ★★★★  | 看电影
 [pap.er](http://paper.meiyuan.in/index.html) ★  | 桌面壁纸
+iPic | 图片上传
 
 #### 开发工具
 
