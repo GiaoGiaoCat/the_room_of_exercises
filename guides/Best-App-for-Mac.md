@@ -61,7 +61,7 @@ Downie ★★★★ | 在线视频网站内容下载
 1Password ★★★★ | 密码管理
 ShadowsocksX-NG ★★★★ | 翻山过海来看你
 AppCleaner ★★ | 删除软件
-QuickCast ★★ | 录屏
+Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
 SPlayerX ★ | 播放视频
 TG Pro ★★★ | 风扇控制
