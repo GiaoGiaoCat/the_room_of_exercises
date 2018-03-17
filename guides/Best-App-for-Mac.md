@@ -6,20 +6,16 @@
 
 * ★ 正在使用, 星越多代表越常用
 * ♣ 关注的软件
+* 可以经常关注 https://alternativeto.net/ 会发现一些不错的软件
 
 ### 工具列表
 
 #### 阅读和学习
 
-阅读当然是为了学习，目前还却一个电子书管理和笔记类的软件，一直没有碰过 Evernote 。平时的流程：
+把注意力放在自己所知道、能做以及拥有的东西上，2018 学习的流程修改：
 
-1. Feedly 订阅新闻源，然后每天早上利用 Reeder 快速浏览，有好的题目直接 star。(10分钟)
-2. 中午把 star 的 item 详细过一遍，值得细读的放入 Pocket，网站类的链接放入 RainDrop。(30分钟)
-3. 中午图片类的素材直接放入 InBoard 存储。(10分钟)
-4. 晚上细读 Pocket 文章需要做笔记或整理的加星，其余删除或放入 RainDrop。
-5. 周末阅读 Pocket 文章，将代码类的整理放入 SnippetsLab。
-6. 周末阅读 Pocket 文章，做笔记（MWeb/Blog），然后归档 Pocket 的 Star。
-7. 最后文章以链接形式存在 RainDrop 中，代码笔记存在 github blog，文化类笔记存在 MWeb，图片积累在 InBoard。
+1. Feedly 订阅新闻源，然后每周 1 - 2 次利用 Reeder 快速浏览，有好的题目直接 Pocket 或 RainDrop
+2. 阅读 Pocket 文章，将代码片段的整理放入 SnippetsLab，做笔记 Github Page
 8. 以 Trello 设定自己的长期学习计划，学习中遇到系统的知识点利用 MindNode 整理脑图。
 
 名称 | 功能简述
