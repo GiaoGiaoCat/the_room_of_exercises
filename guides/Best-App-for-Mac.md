@@ -15,18 +15,22 @@
 把注意力放在自己所知道、能做以及拥有的东西上，2018 学习的流程修改：
 
 1. Feedly 订阅新闻源，然后每周 1 - 2 次利用 Reeder 快速浏览，有好的题目直接 Pocket 或 RainDrop
-2. 阅读 Pocket 文章，将代码片段的整理放入 SnippetsLab，做笔记 Github Page
-8. 以 Trello 设定自己的长期学习计划，学习中遇到系统的知识点利用 MindNode 整理脑图。
+2. 阅读 Pocket 文章，将代码片段的整理放入 SnippetsLab，笔记存在 Github Page
+3. **按时阅读，并以 mubu 的方式积累笔记。编程类的书籍，笔记存在 Github Page**
+4. **以 Trello 设定自己的长期学习计划，Things 设定每天的任务和计算**
+5. **每天记录成功笔记**
+
+看书学习为主，碎片化学习用来学习一些较新的知识点。
 
 名称 | 功能简述
 ----- | ------
 Reeder 3 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅新闻然后配合阅读
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
-MindNode ★★★★ | 思维导图
+MindNode 5 ★★★★ | 思维导图
 截图 ★★★★ | 标注图片工具
-MWeb ★★★ | 支持 Markdown 格式的日记软件
-Highlights ♣ | 标注 PDF 工具
+Things 3 ★★★★★ | 任务管理
+mubu ★★★★★ | 知识笔记
 
 #### 数据同步
 
