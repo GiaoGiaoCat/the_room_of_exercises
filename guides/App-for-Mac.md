@@ -13,6 +13,8 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+MWeb ★★★ | 支持 Markdown 格式的日记软件，改用 Blog 和 幕布
+Highlights ♣ | 标注 PDF 工具
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛，macOS 10.12 内置该功能
 QuickCast ★★ | 录屏，软件已死，停止维护了
 ShooterSubX ★★ | 射手字幕下载
