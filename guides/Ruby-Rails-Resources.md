@@ -45,6 +45,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ### Rails 提高
 
+* [GoRails](https://gorails.com/)
 * [rails-handbook](https://github.com/infinum/rails-handbook)
 * [Running with Ruby](https://mensfeld.pl/)
 * [Rails 4-2-stable 参考手册](https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details)
