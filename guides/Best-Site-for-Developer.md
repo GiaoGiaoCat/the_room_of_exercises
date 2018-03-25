@@ -48,6 +48,7 @@
 [Travis CI](https://travis-ci.org/) ☆ | 持续集成
 [Witeboard](https://www.tutorialspoint.com/whiteboard.htm) ★ | 白板
 [github wiki](https://github.com/) ★ | wiki
+[floobits](https://floobits.com/) ★ | 结对编程
 ? | 原型设计
 ? | 脑图
 ? | API 测试
