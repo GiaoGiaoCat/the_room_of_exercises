@@ -7,6 +7,7 @@
 * ★ 正在使用, 星越多代表越常用
 * ♣ 关注的软件
 * 可以经常关注 https://alternativeto.net/ 会发现一些不错的软件
+* [Awesome list of open source applications for macOS.](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ### 工具列表
 
