@@ -99,8 +99,7 @@ Docker ♣ | 代码分发
 
 名称  | 功能简述
 ----- | ------
-[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) |
-收录了一些Git和Github非常酷同时又少有人知的功能
+[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) | 收录了一些Git和Github非常酷同时又少有人知的功能
 
 ### 工具
 
@@ -118,7 +117,8 @@ Docker ♣ | 代码分发
 [gemnasium](https://gemnasium.com/) | SECURE YOUR PROJECT AND REDUCE TECHNICAL DEBT
 [演说.IO](http://yanshuo.io/) | 在线编辑、分享、保存，打开网页就能演示的幻灯片
 [asciiflow](http://asciiflow.com/) | 通过 ASCII 编码来绘制图表的在线工具
-
+[Uml Ascii Art](http://wiki.c2.com/?UmlAsciiArt) | Uml Ascii Art的说明
+[使用 Graph-Easy 绘制 ASCII 图](https://www.jianshu.com/p/54255050d42f) | 使用 Graph-Easy 绘制 ASCII 图
 
 
 ### 配色
