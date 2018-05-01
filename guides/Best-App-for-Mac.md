@@ -78,6 +78,8 @@ iPic | 图片上传
 Dash4 ★★★★★ | 全语言文档手册速查
 Atom ★★★★★ | 主力编辑器
 Tower ★★★★★ | Git 客户端工具
+GitUp ★★★★★ | 免费的 Git 增强工具
+Gitfinder ★ | Git & Finder 结合到一起
 Sublime Text ★★★★ | Editor
 [SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
 SnippetsLab ★★★ | 代码片段整理
