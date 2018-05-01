@@ -96,8 +96,7 @@ Base ★★ | Sqlite 库管理软件
 OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
-[Patterns](http://krillapps.com/patterns/) ♣ | 正则工具，现在用的是网络服务
-
+[Expressions](http://apptorium.com/expressions) ★★ | 正则工具
 
 
 #### 设计工具
