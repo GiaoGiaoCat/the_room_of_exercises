@@ -77,6 +77,7 @@ GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) ★ | 导出 ipa 里面的图片资源
 iOS Images Extractor | 提取 App.car 包里面的素材
 [boostnote](https://boostnote.io/) | 多平台代码笔记
+[Patterns](http://krillapps.com/patterns/) ♣ | 正则工具
 
 ## 前端工具
 
