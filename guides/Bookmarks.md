@@ -126,8 +126,6 @@
 * [Startup News](http://news.dbanotes.net/)
 * [移动开发每周精选](http://www.mobdevweekly.com/)
 * [移动开发者门户](http://www.apkbus.com/)
-* [iOS技术周报](http://weekly.ios-wiki.com/)
-* [iOS移动开发周报](http://blog.devtang.com/blog/categories/ios/)
 * [NSHipster 关注被忽略的 Objective-C 和 Cocoa 特性](http://nshipster.cn/)
 * [iOS Dev Weekly](https://iosdevweekly.com/)
 * [Java Code Geeks](http://www.javacodegeeks.com/android/)
@@ -145,7 +143,6 @@
 ### 编程规范
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [Code_Guide](https://github.com/Suxiaogang/Code_Guide)
 * [编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范](http://codeguide.bootcss.com/?utm_source=tuicool)
 
 ## 娱乐
