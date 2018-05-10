@@ -96,6 +96,23 @@ test_default_is_zero
 test_total_calculation
 ```
 
+### 游戏数据指标
+
+* Daily NewUsers 日新登用户数(每日注册并登录游戏的用户数)
+* Daily OneSession Users 日一次会话用户数(一次会话用户，即新登用户中只有一次会话，其会话时长低于规定阈值)
+* Daily ActiveUsers 日活跃用户数
+* Weekly ActiveUsers 周活跃用户数
+* MonthlyActive Users 月活跃用户数
+* DailyEngagement Count 日参与次数
+* Daily Avg Online Time 每日总计在线时长／日活跃用户数
+* Day 1 Retention Ratio 次日留存率
+* Payment Ratio 付费率
+* ActivePayment Account 活跃付费用户数
+* AverageRevenue per User 平均每用户收入
+* AverageRevenue per Payment User 平均每付费用户收入
+
+参考
+* [认识游戏数据指标（二）](http://blog.talkingdata.net/?p=3395)
 
 ### 论坛相关英文
 
