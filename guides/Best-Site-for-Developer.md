@@ -53,6 +53,8 @@
 ? | 脑图
 ? | API 测试
 ? | API 文档
+[yapi](http://yapi.demo.qunar.com/) | API 接口管理平台
+[easy api](https://www.easyapi.com/) | API 接口管理平台，稍差一些
 [trello](https://trello.com) ★ | 任务需求管理备选
 bitbucket ☆ | 代码托管备选
 github issues ☆ | 错误跟踪
