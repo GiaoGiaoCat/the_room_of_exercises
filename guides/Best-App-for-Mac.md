@@ -99,6 +99,8 @@ OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
 Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Expressions](http://apptorium.com/expressions) ★★ | 正则工具
+[ForkLift 3](https://binarynights.com/) ★ | The most advanced dual pane file manager and file transfer client for macOS.
+
 
 
 #### 设计工具
