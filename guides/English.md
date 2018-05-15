@@ -96,6 +96,31 @@ test_default_is_zero
 test_total_calculation
 ```
 
+### Service Object
+
+```
+create_record_failed_message_service.rb
+destroy_record_failed_message_service.rb
+build_suggestion_service.rb
+find_suggestion_service.rb
+suggestion_not_found_message_service.rb
+build_topic_service.rb
+```
+
+```
+app/services
+├── record_services
+│   └── message
+│       ├── create_failed.rb
+│       └── destroy_failed.rb
+├── suggestion_services
+│   ├── build.rb
+│   ├── find.rb
+│   └── not_found_message.rb
+└── topic_services
+    └── build.rb
+```
+
 ### 游戏数据指标
 
 * Daily NewUsers 日新登用户数(每日注册并登录游戏的用户数)
