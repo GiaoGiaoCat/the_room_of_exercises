@@ -62,5 +62,4 @@ total = x +
   y
 total = x
   + y
-
 ```

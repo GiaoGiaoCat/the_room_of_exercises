@@ -1,0 +1,6 @@
+properties
+description
+image_url
+associations
+reservations
+guest
