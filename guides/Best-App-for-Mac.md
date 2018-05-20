@@ -137,6 +137,7 @@ Fonts ★ | 字体预览
 
 ### 工具相关的文章
 
+* [An app for every job, already on your Mac.](https://setapp.com/)
 * [MAC 下常用软件推荐](http://miao.hu/2012/02/26/osx-exp-share/)
 * [My development stack](http://martineau.tv/2015/01/dev-stack/)
 * [Brett Terpstra 的 2014 年度最佳 Mac 软件推荐](http://www.waerfa.com/brett-terpstra-top-mac-app-list-from-2014)
