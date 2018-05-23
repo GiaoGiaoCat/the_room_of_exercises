@@ -7,6 +7,7 @@
 * [Rei A web developer](http://chloerei.com/)
 * [Andor Chen](http://about.ac/)
 * [ihower](https://ihower.tw/blog/)
+* [liuzxc](http://liuzxc.github.io/)
 * [hellolucky's blog](http://blog.hellolucky.info/)
 * [Deniel Blog](https://danielzhangqinglong.github.io/)
 
