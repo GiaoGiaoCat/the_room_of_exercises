@@ -17,7 +17,7 @@
 
 1. Feedly 订阅新闻源，然后每周 1 - 2 次利用 Reeder 快速浏览，有好的题目直接 Pocket 或 RainDrop
 2. 阅读 Pocket 文章，将代码片段的整理放入 SnippetsLab，笔记存在 Github Page
-3. **按时阅读，并以 mubu 的方式积累笔记。编程类的书籍，笔记存在 Github Page**
+3. **减少碎片阅读，多用 Kindle，并以 mubu 的方式积累笔记。编程类的书籍，笔记仍存放到 Github Page**
 4. **以 Trello 设定自己的长期学习计划，Things 设定每天的任务和计算**
 5. **每天记录成功笔记**
 
