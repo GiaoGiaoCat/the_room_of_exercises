@@ -45,6 +45,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ### Rails 提高
 
+* [Episodes Archives &ndash; RubyTapa](https://www.rubytapas.com/category/episodes/)
 * [GoRails](https://gorails.com/)
 * [rails-handbook](https://github.com/infinum/rails-handbook)
 * [Running with Ruby](https://mensfeld.pl/)
