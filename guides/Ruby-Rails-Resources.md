@@ -42,6 +42,7 @@ Guides for getting things done, programming well, and programming in style.
 * [CodeSchool](https://www.codeschool.com/)
 * [CodeCademy](http://www.codecademy.com/dashboard)
 * [RubyMonk](https://rubymonk.com/) - 有6个Lesson，包括Ruby Collection, Ruby Object, OOP, String, Hash，Control Structure等
+* [UpCase](https://thoughtbot.com/) thoughtbot 的付费学习网站
 
 ### Rails 提高
 
