@@ -205,6 +205,8 @@ Guides for getting things done, programming well, and programming in style.
 * Basic HTML, CSS and JavaScript
 * Basic GIT - clone, commit, push
 
+[What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
+
 #### 前端开发工程师
 
 1. 至少两年的前端开发工作经验
