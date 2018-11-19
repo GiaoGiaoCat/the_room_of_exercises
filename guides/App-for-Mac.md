@@ -55,6 +55,7 @@ YoMail | 呵呵垃圾
 
 名称  | 功能简述
 ----- | ------
+Atom ★★★★★ | 曾经的主力编辑器，直到有一天开始莫名其妙的无限崩溃
 Bee ☆ | 管理 github issue，一点也不方便
 [Source](http://getsourceapp.com/) ☆ | 不是原生，载入速度慢
 CodeBox ☆ | 代码收集管理
