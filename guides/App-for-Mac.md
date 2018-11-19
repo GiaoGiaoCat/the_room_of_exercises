@@ -5,6 +5,7 @@
 名称 | 功能简述
 ----- | ------
 Marked ☆ | Markdown preview 软件，很少用到
+MacDown ★★★★  | 曾经的 markdown 文件主力编辑器，生成的 pdf 不错
 Notes ☆ | 随手需要记录一些临时用的东西就打开它
 Mou ☆ | Markdown 编辑器，经常死机
 haroopress ☆ | Markdown 编辑器，卡出翔了
