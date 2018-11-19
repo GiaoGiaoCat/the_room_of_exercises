@@ -135,6 +135,7 @@ Fonts ★ | 字体预览
 [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
 [httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
 [htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
+[fx](https://github.com/antonmedv/fx) | Terminal JSON viewer
 
 
 ### 工具相关的文章
