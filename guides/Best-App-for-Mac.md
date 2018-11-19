@@ -76,7 +76,7 @@ iPic | 图片上传
 名称  | 功能简述
 ----- | ------
 Dash4 ★★★★★ | 全语言文档手册速查
-Atom ★★★★★ | 主力编辑器
+VS Code ★★★★★ | 主力编辑器
 Tower ★★★★★ | Git 客户端工具
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
