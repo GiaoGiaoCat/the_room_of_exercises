@@ -66,7 +66,8 @@ Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 [DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
 SPlayerX ★ | 播放视频
 TG Pro ★★★ | 风扇控制
-MacDown ★★★★  | markdown 文件主力编辑器，生成的 pdf 不错
+Be Focused Pro ★★★ | 番茄工作法
+Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
 [pap.er](http://paper.meiyuan.in/index.html) ★  | 桌面壁纸
 iPic | 图片上传
