@@ -70,7 +70,8 @@ TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
-[pap.er](http://paper.meiyuan.in/index.html) ★  | 桌面壁纸
+[Photon](https://github.com/alanzhangzm/Photon) ★★ | aria2 的下载器，不用配置直接用
+[pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
 iPic | 图片上传
 
 #### 开发工具
