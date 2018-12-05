@@ -2,6 +2,8 @@
 
 大家使用同款软件的好处就是，遇到问题至少有同事帮忙搞定。且能互相交流高阶用法。
 
+2018年12月心得更新：我开始不断减少自己常用的软件和插件，已经废弃掉的都转移到 App-for-Mac 里面去了。
+
 ### 说明
 
 * ★ 正在使用, 星越多代表越常用
@@ -32,18 +34,15 @@ Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看
 MindNode 5 ★★★★ | 思维导图
 截图 ★★★★ | 标注图片工具
 Things 3 ★★★★★ | 任务管理
-mubu ★★★★★ | 知识笔记
+mubu ★★★★★ | 速读大纲
+MWeb ★★★★★ | 文化类读书笔记
 
 #### 数据同步
 
 名称 | 功能简述
 ----- | ------
 Dropbox ★★★★★ | 同步各种配置文件
-iCloud ★★★★★ | 同步 文档 和 桌面 两个文件夹
 [mackup](https://github.com/lra/mackup) ★★★ | Keep your application settings in sync (OS X/Linux)
-[BitTorrent Sync](http://www.getsync.com/) ★★ | 大文件同步，通常会加入一台服务器以便大家能一直在线
-[ChronoSync/ChronoAgent](http://www.econtechnologies.com/chronosync/overview.html) ♣ | Moves file around on the LAN，需付费
-[Arq](http://www.haystacksoftware.com/arq/) ♣ | Moves backups to Amazon Glacier，需付费
 
 #### 日常工具
 
@@ -53,10 +52,9 @@ Alfred ★★★★★ | 效率软件
 iStat Menus ★★★★★ | 监控状态栏
 Bartender ★★★★★ | 给 Menu 减负
 iTerm ★★★★★ | 命令行增强
-Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
 Moom ★★★★ | 窗口大小管理
 NeteaseMusic ★★★★ | 网易云音乐
-OmniDiskSweeper ★★★★ | 清理硬盘空间
+CleanMyMac ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
 Downie ★★★★ | 在线视频网站内容下载
@@ -64,15 +62,12 @@ Downie ★★★★ | 在线视频网站内容下载
 ShadowsocksX-NG ★★★★ | 翻山过海来看你
 AppCleaner ★★ | 删除软件
 Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
-[DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
-SPlayerX ★ | 播放视频
 TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
-[Photon](https://github.com/alanzhangzm/Photon) ★★ | aria2 的下载器，不用配置直接用
+Declutter ★★ | 整理桌面
 [pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
-iPic | 图片上传
 
 #### 开发工具
 
@@ -81,22 +76,18 @@ iPic | 图片上传
 Dash4 ★★★★★ | 全语言文档手册速查
 VS Code ★★★★★ | 主力编辑器
 Tower ★★★★★ | Git 客户端工具
+TablePlus | 多种数据库客户端，还能处理 Reids
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
 Sublime Text ★★★★ | Editor
 [SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
 SnippetsLab ★★★ | 代码片段整理
 [Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
-Sequel Pro ★★★★ | MySQL GUI 客户端
 PlantUML ★★★★ | 代码画各种 UML
-Vagrant ★★★★ | 虚拟机确实需要一个
 Kaleidoscope ★★★ | Diff 对比工具，可配合 Tower 使用
-CodeRunner 2 ★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
+CodeRunner ★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
 Charles ★★ | 抓包代理调试工具
-Graphviz ★★ | 代码画流程图
 Medis ★★ | Redis GUI 客户端
-Mac CLI ★★ | OS X command line tools for developers
-[StarUML 2](http://staruml.io/) ★★ | 画 UML
 Base ★★ | Sqlite 库管理软件
 OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
@@ -137,7 +128,7 @@ Fonts ★ | 字体预览
 [httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
 [htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
 [fx](https://github.com/antonmedv/fx) | Terminal JSON viewer
-
+Mac CLI ★★ | OS X command line tools for developers
 
 ### 工具相关的文章
 
