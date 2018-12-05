@@ -1,5 +1,14 @@
 # 废弃工具列表
 
+#### 数据同步
+
+名称 | 功能简述
+----- | ------
+iCloud ★★★★★ | 同步 文档 和 桌面 两个文件夹
+[BitTorrent Sync](http://www.getsync.com/) ★★ | 大文件同步，通常会加入一台服务器以便大家能一直在线
+[ChronoSync/ChronoAgent](http://www.econtechnologies.com/chronosync/overview.html) ♣ | Moves file around on the LAN，需付费
+[Arq](http://www.haystacksoftware.com/arq/) ♣ | Moves backups to Amazon Glacier，需付费
+
 ## 写作工具
 
 名称 | 功能简述
@@ -14,6 +23,8 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
+OmniDiskSweeper ★★★★ | 清理硬盘空间
 MWeb ★★★ | 支持 Markdown 格式的日记软件，改用 Blog 和 幕布
 Highlights ♣ | 标注 PDF 工具
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛，macOS 10.12 内置该功能
@@ -50,7 +61,10 @@ Web2App | 瞬间将网站做成 Mac App
 smcfancontrol | 風扇控制軟件
 [Recordit](http://recordit.co/) ♣ | 录屏并转换成在线可观看的 gif
 YoMail | 呵呵垃圾
-
+[DictUnifier ](https://code.google.com/p/mac-dictionary-kit/) ★ | 快速转换星际译王的词典并自动添加到系统中
+SPlayerX ★ | 播放视频
+[Photon](https://github.com/alanzhangzm/Photon) ★★ | aria2 的下载器，不用配置直接用
+iPic | 图片上传
 
 ## 开发工具
 
@@ -64,15 +78,19 @@ Versions ☆ | SVN 工具
 Navicat Premium ☆ | 全数据库管理软件，很好也很贵
 0xED ☆ | 2进制文件编辑器
 Robomongo ☆ | mongodb 数据库管理
+Sequel Pro ★★★★ | MySQL GUI 客户端
+Vagrant ★★★★ | 虚拟机确实需要一个
 PlistEdit Pro ☆ | Plist 编辑器
 shuttle ☆ | A simple SSH shortcut menu
 AliyunOSS ☆ | 阿里云管理工具，作者不更新，已经不工作了
 BugHub ☆ | 作者不再更新
+Graphviz ★★ | 代码画流程图
 [codebugapp](http://codebugapp.com/) ☆ | PHP 调试工具，虽然它是最好的语言，可是我不会
 [Gistify](http://gistifyapp.com/) ☆ | 作为一款 gists 的客户端足够小巧，不喜欢界面
 [gisto](http://www.gistoapp.com/) ☆ | gists 的客户端不喜欢界面
 Datum LE ☆ | Sqlite 库管理软件
 GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
+[StarUML 2](http://staruml.io/) ★★ | 画 UML
 [Echo for Mac](http://echoapp.net/) ♣ | API 测试工具
 [RESTed](http://www.helloresolven.com/portfolio/rested/) ♣ | API 测试工具
 [TrackRecord](http://excitedatom.com/trackrecord/) ♣ | 帮你完成重复工作，就像按键精灵
