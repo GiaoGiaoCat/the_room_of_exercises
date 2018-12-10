@@ -36,6 +36,7 @@ MindNode 5 ★★★★ | 思维导图
 Things 3 ★★★★★ | 任务管理
 mubu ★★★★★ | 速读大纲
 MWeb ★★★★★ | 文化类读书笔记
+Klib ★★★ | 导出 Kindle 的书摘
 
 #### 数据同步
 
@@ -48,6 +49,7 @@ Dropbox ★★★★★ | 同步各种配置文件
 
 名称 | 功能简述
 ----- | ------
+Setapp ★★★★★ | 正版软件
 Alfred ★★★★★ | 效率软件
 iStat Menus ★★★★★ | 监控状态栏
 Bartender ★★★★★ | 给 Menu 减负
@@ -66,6 +68,7 @@ TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
+Keka ★★★ | 解压工具
 Declutter ★★ | 整理桌面
 [pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
 
