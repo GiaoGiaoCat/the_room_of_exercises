@@ -128,7 +128,7 @@ Fonts ★ | 字体预览
 [httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
 [htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
 [fx](https://github.com/antonmedv/fx) | Terminal JSON viewer
-Mac CLI ★★ | OS X command line tools for developers
+[lnav](https://github.com/tstack/lnav) ★★ | Log file navigator
 
 ### 工具相关的文章
 
