@@ -130,7 +130,11 @@ Fonts ★ | 字体预览
 ----- | ------
 [brew](http://brew.sh/) | Mac 下的包管理器
 [rbenv](https://github.com/rbenv/rbenv) | Ruby 版本管理器
-[oh my zsh](http://ohmyz.sh/) | 命令行增强
+Antigen | ZSH 插件管理工具
+autojump | 文件夹跳转
+thefuck | 命令纠错
+bash-completion | 命令补全
+[git-extras](https://github.com/tj/git-extras) | git 补充命令大合集
 [cask](http://caskroom.io) | 利用 brew 安装软件
 [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts) | Casks of fonts http://caskroom.io
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
@@ -140,6 +144,9 @@ Fonts ★ | 字体预览
 [htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
 [fx](https://github.com/antonmedv/fx) | Terminal JSON viewer
 [lnav](https://github.com/tstack/lnav) ★★ | Log file navigator
+curl | 下载
+mackup | 备份
+w3m | 命令行浏览器
 
 ### 工具相关的文章
 
