@@ -131,14 +131,14 @@ Fonts ★ | 字体预览
 [brew](http://brew.sh/) | Mac 下的包管理器
 [rbenv](https://github.com/rbenv/rbenv) | Ruby 版本管理器
 Antigen | ZSH 插件管理工具
-autojump | 文件夹跳转
+autojump | 一键直达任何目录
 thefuck | 命令纠错
 bash-completion | 命令补全
 [git-extras](https://github.com/tj/git-extras) | git 补充命令大合集
 [cask](http://caskroom.io) | 利用 brew 安装软件
 [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts) | Casks of fonts http://caskroom.io
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
-[mas-cli](https://github.com/argon/mas) | Mac App Store command line interface
+[mas-cli](https://github.com/argon/mas) | 命令行界面的苹果应用商店
 [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
 [httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
 [htop](http://hisham.hm/htop/) | an interactive process viewer for Unix systems. 
