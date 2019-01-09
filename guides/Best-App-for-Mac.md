@@ -79,6 +79,7 @@ iina ★★★★  | 看电影
 Keka ★★★ | 解压工具
 Declutter ★★ | 整理桌面
 [pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
+[Mathpix](https://mathpix.com/) | 将图片数学公式转换为 LaTeX
 
 #### 开发工具
 
