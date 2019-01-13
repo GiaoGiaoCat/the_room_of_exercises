@@ -24,6 +24,8 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+[pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
+[Mathpix](https://mathpix.com/) | 将图片数学公式转换为 LaTeX
 ShadowsocksX-NG ★★★★ | 翻山过海来看你
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
 OmniDiskSweeper ★★★★ | 清理硬盘空间
@@ -73,6 +75,9 @@ iPic | 图片上传
 名称  | 功能简述
 ----- | ------
 Atom ★★★★★ | 曾经的主力编辑器，直到有一天开始莫名其妙的无限崩溃
+[SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
+[Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
+Base ★★ | Sqlite 库管理软件
 Bee ☆ | 管理 github issue，一点也不方便
 [Source](http://getsourceapp.com/) ☆ | 不是原生，载入速度慢
 CodeBox ☆ | 代码收集管理
@@ -100,6 +105,8 @@ GithubPulse ★★★★ | 提醒每天坚持 github 上的项目
 iOS Images Extractor | 提取 App.car 包里面的素材
 [boostnote](https://boostnote.io/) | 多平台代码笔记
 [Patterns](http://krillapps.com/patterns/) ♣ | 正则工具
+Cleaner ★ | 清理 svn, git 项目垃圾文件
+[ForkLift 3](https://binarynights.com/) ★ | The most advanced dual pane file manager and file transfer client for macOS.
 
 ## 前端工具
 
@@ -123,6 +130,9 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 
 名称  | 功能简述
 ----- | ------
+Sketch Toolbox | Sketch 插件管理
+Inboard ★★★ | 图片素材收集工具
+
 [Markly](http://marklyapp.com/) ★★★★★ | 配合 sektch 使用，用了 zeplin，再见吧
 [Silver](http://silverflows.com/) ★★★★★ | 配合 sektch 使用的原型工具
 Spectrum ★★★ | 配色软件
@@ -139,3 +149,10 @@ Img2icns ☆ | Img 转换成 Icon
 Briefs ☆ | UE 软件，不好用还不如在线服务
 Antetype ☆ | 界面设计工具，改用 Sketch
 Ember ☆ | 图片素材收集工具，改用 Inboard
+[Drop to GIF](https://github.com/mortenjust/droptogif) ★★★ | 视频 转 gif
+RightFont ★★ | 字体管理工具
+Sip ★★ | 小巧的取色软件
+ImageAlpha ★ | 小巧的图片透明度处理
+Fonts ★ | 字体预览
+IconJar ★★ | 素材管理工具
+
