@@ -69,7 +69,7 @@ Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
 Downie ★★★★ | 在线视频网站内容下载
 1Password ★★★★ | 密码管理
-ShadowsocksX-NG ★★★★ | 翻山过海来看你
+ClashX ★★★★ | 翻山过海来看你
 AppCleaner ★★ | 删除软件
 Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 TG Pro ★★★ | 风扇控制
