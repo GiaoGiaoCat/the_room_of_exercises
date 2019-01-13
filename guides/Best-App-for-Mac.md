@@ -91,20 +91,15 @@ TablePlus | 多种数据库客户端，还能处理 Reids
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
 Sublime Text ★★★★ | Editor
-[SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
 SnippetsLab ★★★ | 代码片段整理
-[Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
 PlantUML ★★★★ | 代码画各种 UML
 Kaleidoscope ★★★ | Diff 对比工具，可配合 Tower 使用
-CodeRunner ★★ | 各编程语言快速测试集成环境，需要去官方下载 2 然后在 MAS 购买 1 才能得到授权
+CodeRunner ★★ | 各编程语言快速测试集成环境
 Charles ★★ | 抓包代理调试工具
 Medis ★★ | Redis GUI 客户端
-Base ★★ | Sqlite 库管理软件
 OhMyStar2 ★ | 管理 Github 上面收藏的项目
 PostMan ★★ | API 测试工具
-Cleaner ★ | 清理 svn, git 项目垃圾文件
 [Expressions](http://apptorium.com/expressions) ★★ | 正则工具
-[ForkLift 3](https://binarynights.com/) ★ | The most advanced dual pane file manager and file transfer client for macOS.
 [marp](https://yhatt.github.io/marp/) | markdown 搞成 PPT
 
 #### 设计工具
@@ -112,17 +107,9 @@ Cleaner ★ | 清理 svn, git 项目垃圾文件
 名称  | 功能简述
 ----- | ------
 Sketch ★★★★★ | 图像处理设计工具，获2012苹果设计大奖
-Sketch Toolbox | Sketch 插件管理
 Zepline ★★★★★ | 配合 sektch 使用
-Inboard ★★★ | 图片素材收集工具
 Pixelmator ★★★ | Photoshop 的简化版，简单好用
 Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
-[Drop to GIF](https://github.com/mortenjust/droptogif) ★★★ | 视频 转 gif
-IconJar ★★ | 素材管理工具
-RightFont ★★ | 字体管理工具
-Sip ★★ | 小巧的取色软件
-ImageAlpha ★ | 小巧的图片透明度处理
-Fonts ★ | 字体预览
 
 #### 命令行工具
 
