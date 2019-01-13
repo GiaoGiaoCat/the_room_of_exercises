@@ -132,7 +132,6 @@ GluePrint ★ | 小工具用来确保前端像素级别还原设计
 ----- | ------
 Sketch Toolbox | Sketch 插件管理
 Inboard ★★★ | 图片素材收集工具
-
 [Markly](http://marklyapp.com/) ★★★★★ | 配合 sektch 使用，用了 zeplin，再见吧
 [Silver](http://silverflows.com/) ★★★★★ | 配合 sektch 使用的原型工具
 Spectrum ★★★ | 配色软件
