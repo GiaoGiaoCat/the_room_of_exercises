@@ -135,6 +135,7 @@ bash-completion | 命令补全
 curl | 下载
 mackup | 备份
 w3m | 命令行浏览器
+[hexyl](https://github.com/sharkdp/hexyl) | 用 16 进制的方式查看文件
 
 ### 工具相关的文章
 
