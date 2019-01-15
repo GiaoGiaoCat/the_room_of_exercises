@@ -136,6 +136,8 @@ curl | 下载
 mackup | 备份
 w3m | 命令行浏览器
 [hexyl](https://github.com/sharkdp/hexyl) | 用 16 进制的方式查看文件
+[hr](https://github.com/LuRsT/hr) | 就输出一个横线
+
 
 ### 工具相关的文章
 
