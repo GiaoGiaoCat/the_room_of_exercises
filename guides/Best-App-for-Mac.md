@@ -154,3 +154,7 @@ w3m | 命令行浏览器
 * [各种 theme 大全](https://github.com/daylerees/colour-schemes)
 * [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
 * [iterm2：Mac_os下开源免费的并支持Zmodem(sz_rz)的ssh客户端手把手教程](http://wenku.baidu.com/link?url=SVUT0DpPCl7dfgM2JqexucPHVkEuM2LOSqHkzNpgme1merhUYhkzOyXOYfKt1sEJI00Ac04teYtqP1wDBEI8D4Q62ENlmCs6SglaBIYYYuC)
+
+### 安卓应用相关的文章
+
+* [知乎上最全的App推荐整理](https://zhuanlan.zhihu.com/p/34996583)
