@@ -75,9 +75,13 @@ TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
+ClashX ★★★ | 家里和公司都是路由器 Padavan，偶尔
+iina ★★★★  | 看电影出门
+iina ★★★★  | 看电影用
+iina ★★★★  | 看电影这个
+iina ★★★★  | 看电影
 Keka ★★★ | 解压工具
 Declutter ★★ | 整理桌面
-ClashX ★★★★ | 家里和公司都是路由器 Padavan
 
 
 #### 开发工具
