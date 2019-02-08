@@ -75,6 +75,7 @@ iPic | 图片上传
 
 名称  | 功能简述
 ----- | ------
+PlantUML ★★★★ | 代码画各种 UML
 Atom ★★★★★ | 曾经的主力编辑器，直到有一天开始莫名其妙的无限崩溃
 [SwitchHosts](https://github.com/oldj/SwitchHosts/) ★★★★ | 切换 Hosts
 [Anvil](http://anvilformac.com/) ★★★ | Anvil is a beautiful menubar app for managing local websites
