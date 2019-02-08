@@ -74,12 +74,8 @@ Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
-iina ★★★★  | 看电影
+iina ★★★★  | 看电影，偶尔用，多数用 Netflix
 ClashX ★★★ | 家里和公司都是路由器 Padavan，偶尔
-iina ★★★★  | 看电影出门
-iina ★★★★  | 看电影用
-iina ★★★★  | 看电影这个
-iina ★★★★  | 看电影
 Keka ★★★ | 解压工具
 Declutter ★★ | 整理桌面
 
@@ -95,14 +91,13 @@ TablePlus | 多种数据库客户端，还能处理 Reids
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
 Sublime Text ★★★★ | Editor
+PostMan ★★★★ | API 测试工具
 SnippetsLab ★★★ | 代码片段整理
-PlantUML ★★★★ | 代码画各种 UML
 Kaleidoscope ★★★ | Diff 对比工具，可配合 Tower 使用
 CodeRunner ★★ | 各编程语言快速测试集成环境
 Charles ★★ | 抓包代理调试工具
 Medis ★★ | Redis GUI 客户端
 OhMyStar2 ★ | 管理 Github 上面收藏的项目
-PostMan ★★ | API 测试工具
 [Expressions](http://apptorium.com/expressions) ★★ | 正则工具
 [marp](https://yhatt.github.io/marp/) | markdown 搞成 PPT
 
