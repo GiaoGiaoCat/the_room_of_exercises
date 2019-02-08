@@ -40,7 +40,7 @@ Reeder 3 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅�
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode 5 ★★★★ | 思维导图
-截图 ★★★★ | 标注图片工具
+CleanShot ★★★★ | 标注图片工具
 Things 3 ★★★★★ | 任务管理
 mubu ★★★★★ | 速读大纲
 Notable ★★★★ | 读书笔记和生活日记
@@ -59,6 +59,7 @@ Dropbox ★★★★★ | 同步各种配置文件
 ----- | ------
 Setapp ★★★★★ | 正版软件
 Alfred ★★★★★ | 效率软件
+1Password ★★★★★ | 密码管理
 iStat Menus ★★★★★ | 监控状态栏
 Bartender ★★★★★ | 给 Menu 减负
 iTerm2 ★★★★★ | 命令行增强
@@ -68,7 +69,6 @@ CleanMyMac ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
 Downie 3 ★★★★ | 在线视频网站内容下载
-1Password ★★★★ | 密码管理
 AppCleaner ★★ | 删除软件
 Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 TG Pro ★★★ | 风扇控制
@@ -77,8 +77,8 @@ Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影，偶尔用，多数用 Netflix
 ClashX ★★★ | 家里和公司都是路由器 Padavan，偶尔
 Keka ★★★ | 解压工具
-Declutter ★★ | 整理桌面
-
+Declutter ★★ | 自动规则，整理桌面
+Wallpaper Wizard ★★ | 好看的桌面背景图
 
 #### 开发工具
 
