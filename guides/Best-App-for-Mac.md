@@ -61,9 +61,9 @@ Setapp ★★★★★ | 正版软件
 Alfred ★★★★★ | 效率软件
 iStat Menus ★★★★★ | 监控状态栏
 Bartender ★★★★★ | 给 Menu 减负
-iTerm ★★★★★ | 命令行增强
+iTerm2 ★★★★★ | 命令行增强
 Moom ★★★★ | 窗口大小管理
-NeteaseMusic ★★★★ | 网易云音乐
+Spotify ★★★★★ | 最好的音乐服务
 CleanMyMac ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
