@@ -29,6 +29,7 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 ShadowsocksX-NG ★★★★ | 翻山过海来看你
 Timing ★★★★★ | 程序占用时间追踪工具，可以查看你都把时间花在哪些程序上了
 OmniDiskSweeper ★★★★ | 清理硬盘空间
+NeteaseMusic ★★★★ | 网易云音乐
 MWeb ★★★ | 支持 Markdown 格式的日记软件，改用 Blog 和 幕布
 Highlights ♣ | 标注 PDF 工具
 f.lux ★★★★★ | 自动调整屏幕色温，保护眼睛，macOS 10.12 内置该功能
