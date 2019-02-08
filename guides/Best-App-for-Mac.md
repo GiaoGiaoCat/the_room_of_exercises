@@ -67,9 +67,8 @@ Spotify ★★★★★ | 最好的音乐服务
 CleanMyMac ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
-Downie ★★★★ | 在线视频网站内容下载
+Downie 3 ★★★★ | 在线视频网站内容下载
 1Password ★★★★ | 密码管理
-ClashX ★★★★ | 翻山过海来看你
 AppCleaner ★★ | 删除软件
 Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 TG Pro ★★★ | 风扇控制
@@ -78,6 +77,7 @@ Typora ★★★★  | markdown 文件主力编辑器
 iina ★★★★  | 看电影
 Keka ★★★ | 解压工具
 Declutter ★★ | 整理桌面
+ClashX ★★★★ | 家里和公司都是路由器 Padavan
 
 
 #### 开发工具
@@ -86,7 +86,7 @@ Declutter ★★ | 整理桌面
 ----- | ------
 Dash4 ★★★★★ | 全语言文档手册速查
 VS Code ★★★★★ | 主力编辑器
-Tower ★★★★★ | Git 客户端工具
+Tower 3 ★★★★★ | Git 客户端工具
 TablePlus | 多种数据库客户端，还能处理 Reids
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
