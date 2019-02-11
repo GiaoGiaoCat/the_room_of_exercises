@@ -24,6 +24,7 @@ haroopress ☆ | Markdown 编辑器，卡出翔了
 
 名称  | 功能简述
 ----- | ------
+Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 截图 ★★★★ | 标注图片工具
 [pap.er](http://paper.meiyuan.in/index.html) ★ | 桌面壁纸
 [Mathpix](https://mathpix.com/) | 将图片数学公式转换为 LaTeX
