@@ -40,7 +40,6 @@ Reeder 3 ★★★★★ | RSS 同步阅读工具，可以利用 feedly 订阅�
 Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看，可以选择收藏之后有空再仔细研读
 [RainDrop](https://raindrop.io) ★★★★★ | 书签管理，也可完成素材收集和稍后阅读的功能
 MindNode 5 ★★★★ | 思维导图
-CleanShot ★★★★ | 标注图片工具
 Things 3 ★★★★★ | 任务管理
 mubu ★★★★★ | 速读大纲
 Notable ★★★★ | 读书笔记和生活日记
@@ -69,8 +68,8 @@ CleanMyMac ★★★★ | 清理硬盘空间
 Hocus Focus ★★★★ | 自动隐藏光标，全屏下很好用
 YoudaoDict ★★★★ | 有道词典
 Downie 3 ★★★★ | 在线视频网站内容下载
+CleanShot ★★★★ | 标注图片并能录屏工具
 AppCleaner ★★ | 删除软件
-Kap ★★ | 小巧、全能还免费的 Mac 录屏工具
 TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
