@@ -96,6 +96,7 @@ Kaleidoscope ★★★ | Diff 对比工具，可配合 Tower 使用
 CodeRunner ★★ | 各编程语言快速测试集成环境
 Charles ★★ | 抓包代理调试工具
 Medis ★★ | Redis GUI 客户端
+[sloth](https://github.com/sveinbjornt/Sloth) ★★ | 显示所有正在运行的进程，正在使用的文件和 socket
 OhMyStar2 ★ | 管理 Github 上面收藏的项目
 [Expressions](http://apptorium.com/expressions) ★★ | 正则工具
 [marp](https://yhatt.github.io/marp/) | markdown 搞成 PPT
