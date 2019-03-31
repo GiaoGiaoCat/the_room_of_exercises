@@ -156,10 +156,10 @@ app/services
 密码提示 password hint
 注册 registration
 发帖相关 Posting
-贴子 post
+贴子 post/thread
 主题 subject
 附件 attachment
-回复 reply
+回复 reply/post
 回复贴子 reply to a post
 发表回复 post a reply
 引用 quote
