@@ -119,6 +119,7 @@ Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
 Antigen | ZSH 插件管理工具
 autojump | 一键直达任何目录
 thefuck | 命令纠错
+tree | 目录结构
 [bat](https://github.com/chinanf-boy/bat-zh) | cat 的替代品
 bash-completion | 命令补全
 [git-extras](https://github.com/tj/git-extras) | git 补充命令大合集
