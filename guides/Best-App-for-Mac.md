@@ -20,7 +20,7 @@
 1. Feedly + Reeder 每日阅读 RSS，好的题目暂存到 Pocket 方便将来检索和细读。
 2. 系统性学习仍以读书为主，知识点总结到幕布中。扩充关键知识点通过 Google 寻找相关文章并摘抄到 Blog。
 3. 文哲类书籍用 Kinlde 读，书摘到 Notable。
-4. 平时整理思维用 MindNode，并同步到 Things 中落实为 Project 并扩充每一条 Task，注意通过 Area 制定长期的计划。
+4. 平时整理思维用 MindNode，并同步到 Things 中落实为 Project 并扩充每一条 Task，注意制定长期的计划。
 5. 静坐、读经、健身。关照自己的内心和成长。
 
 #### 知识积累
