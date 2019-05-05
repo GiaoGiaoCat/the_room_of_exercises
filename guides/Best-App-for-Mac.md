@@ -78,6 +78,7 @@ ClashX ★★★ | 家里和公司都是路由器 Padavan，偶尔
 Keka ★★★ | 解压工具
 Declutter ★★ | 自动规则，整理桌面
 Wallpaper Wizard ★★ | 好看的桌面背景图
+[snip](https://mathpix.com/) ★ | LaTeX ORC 识别
 
 #### 开发工具
 
