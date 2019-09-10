@@ -42,7 +42,7 @@ Pocket ★★★★★ | 稍后阅读，RSS 中发现的好文章又没时间看
 MindNode 5 ★★★★ | 思维导图
 Things 3 ★★★★★ | 任务管理
 mubu ★★★★★ | 速读大纲
-Notable ★★★★ | 读书笔记和生活日记
+Notion ★★★★ | 读书笔记和生活日记
 Klib ★★★ | 导出 Kindle 的书摘
 
 #### 数据同步
