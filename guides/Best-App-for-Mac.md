@@ -87,7 +87,7 @@ Wallpaper Wizard ★★ | 好看的桌面背景图
 Dash4 ★★★★★ | 全语言文档手册速查
 VS Code ★★★★★ | 主力编辑器
 Tower 3 ★★★★★ | Git 客户端工具
-TablePlus | 多种数据库客户端，还能处理 Reids
+TablePlus ★★★★★ | 多种数据库客户端，还能处理 Reids
 GitUp ★★★★★ | 免费的 Git 增强工具
 Gitfinder ★ | Git & Finder 结合到一起
 Sublime Text ★★★★ | Editor
