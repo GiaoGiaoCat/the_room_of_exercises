@@ -19,6 +19,7 @@ MacDown ★★★★  | 曾经的 markdown 文件主力编辑器，生成的 pdf
 Notes ☆ | 随手需要记录一些临时用的东西就打开它
 Mou ☆ | Markdown 编辑器，经常死机
 haroopress ☆ | Markdown 编辑器，卡出翔了
+Notable ☆ | 就是不想用了
 
 ## 日常工具
 
