@@ -124,7 +124,7 @@ tree | 目录结构
 [bat](https://github.com/chinanf-boy/bat-zh) | cat 的替代品
 bash-completion | 命令补全
 [git-extras](https://github.com/tj/git-extras) | git 补充命令大合集
-[cask](http://caskroom.io) | 利用 brew 安装软件
+[cask](https://formulae.brew.sh/cask/) | 利用 brew 安装软件
 [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts) | Casks of fonts http://caskroom.io
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
 [mas-cli](https://github.com/argon/mas) | 命令行界面的苹果应用商店
