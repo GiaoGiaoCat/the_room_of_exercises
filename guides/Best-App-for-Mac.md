@@ -135,6 +135,8 @@ tree | 目录结构
 bash-completion | 命令补全
 [git-extras](https://github.com/tj/git-extras) | git 补充命令大合集
 [Trash](https://github.com/sindresorhus/trash) | 不要再用 rm 了
+[ctop](https://github.com/bcicen/ctop) | 查看 docker 容器的资源占用率
+[dive](https://github.com/wagoodman/dive) | 分析 docker 容器分层依赖
 [mas-cli](https://github.com/argon/mas) | 命令行界面的苹果应用商店
 [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers
 [httpie](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client
