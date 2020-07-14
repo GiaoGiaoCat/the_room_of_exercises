@@ -128,6 +128,7 @@ Characters ★★ | 让开发者，作者，设计师方便的取特殊字符
 [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts) | Casks of fonts http://caskroom.io
 [rbenv](https://github.com/rbenv/rbenv) | Ruby 版本管理器
 Antigen | ZSH 插件管理工具
+Siege | 高性能压测工具
 autojump | 一键直达任何目录
 thefuck | 命令纠错
 tree | 目录结构
