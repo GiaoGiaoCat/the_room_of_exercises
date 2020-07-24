@@ -45,6 +45,7 @@ mubu ★★★★★ | 速读大纲
 Notion ★★★★ | 读书笔记和生活日记
 Klib ★★★ | 导出 Kindle 的书摘
 MWeb ★★★★ | 文史哲笔记
+[obsidian](https://obsidian.md/) ★★★★ | 非常好的 Markdown 笔记，以神经网络的识图将所有笔记关联起来
 
 #### 数据同步
 
@@ -72,6 +73,7 @@ Downie 4 ★★★★ | 在线视频网站内容下载
 CleanShot ★★★★ | 标注图片并能录屏工具
 [Motrix](https://github.com/agalwood/Motrix) ★★★ | 一款全能的下载工具
 [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master) ★★ | 微信小助手
+Text Scanner ★★ | ORC 软件
 AppCleaner 6 ★★ | 删除软件
 TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
@@ -83,6 +85,7 @@ Declutter ★★ | 自动规则，整理桌面
 Wallpaper Wizard ★★ | 好看的桌面背景图
 [snip](https://mathpix.com/) ★ | LaTeX ORC 识别
 [nativefier](https://github.com/jiahaog/nativefier) ★ | 把 Web 打包成原生 Mac App
+
 
 
 #### 开发工具
