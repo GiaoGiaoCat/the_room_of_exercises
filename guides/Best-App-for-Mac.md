@@ -78,6 +78,7 @@ AppCleaner 6 ★★ | 删除软件
 TG Pro ★★★ | 风扇控制
 Be Focused Pro ★★★ | 番茄工作法
 Typora ★★★★  | markdown 文件主力编辑器
+[WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) ★★★★  | WeChat 多开
 iina ★★★★  | 看电影，偶尔用，多数用 Netflix
 ClashX ★★★ | 家里和公司都是路由器 Padavan，偶尔
 Keka ★★★ | 解压工具
