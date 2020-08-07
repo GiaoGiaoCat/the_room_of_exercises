@@ -122,7 +122,7 @@ Docker ♣ | 代码分发
 [Uml Ascii Art](http://wiki.c2.com/?UmlAsciiArt) | Uml Ascii Art的说明
 [使用 Graph-Easy 绘制 ASCII 图](https://www.jianshu.com/p/54255050d42f) | 使用 Graph-Easy 绘制 ASCII 图
 [Generate an ASCII network diagram](https://changelog.com/news/generate-an-ascii-network-diagram-from-the-route-table-of-a-unixlinux-AJX4) | ASCII 绘制 网络图
-
+[Awesome browser extensions](https://github.com/whatwewant/awesome-chrome-extensions) | Awesome browser extensions
 
 ### 配色
 
