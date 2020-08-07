@@ -72,7 +72,6 @@ YoudaoDict ★★★★ | 有道词典
 Downie 4 ★★★★ | 在线视频网站内容下载
 CleanShot ★★★★ | 标注图片并能录屏工具
 [Motrix](https://github.com/agalwood/Motrix) ★★★ | 一款全能的下载工具
-[WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master) ★★ | 微信小助手
 Text Scanner ★★ | ORC 软件
 AppCleaner 6 ★★ | 删除软件
 TG Pro ★★★ | 风扇控制
