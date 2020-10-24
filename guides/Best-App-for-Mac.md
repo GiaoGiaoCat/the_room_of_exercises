@@ -154,7 +154,8 @@ w3m | 命令行浏览器
 [hr](https://github.com/LuRsT/hr) | 就输出一个横线
 [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | 使 Mac 的预览功能更强大
 [mkcert](https://github.com/FiloSottile/mkcert) | 制作本地信任的开发证书的简单工具，搞定你的 https://127.0.0.1
-
+[onefetch](https://github.com/o2sh/onefetch) | Display information about your Git repository directly
+[gocloc](https://github.com/hhatto/gocloc) | 统计你的代码量
 
 ### 工具相关的文章
 
