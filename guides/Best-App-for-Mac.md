@@ -156,6 +156,7 @@ w3m | 命令行浏览器
 [mkcert](https://github.com/FiloSottile/mkcert) | 制作本地信任的开发证书的简单工具，搞定你的 https://127.0.0.1
 [onefetch](https://github.com/o2sh/onefetch) | Display information about your Git repository directly
 [gocloc](https://github.com/hhatto/gocloc) | 统计你的代码量
+[asciinema](https://asciinema.org/) | 终端录制工具，从 [这里](https://blog.windrunner.me/pages/mac-cli.html) 看到的
 
 ### 工具相关的文章
 
