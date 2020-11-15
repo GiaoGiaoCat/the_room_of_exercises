@@ -15,8 +15,8 @@
 
 ### 基础
 
-* [ ]《macOS 效率手册》
-* [ ]《influxDB 原理与实战》
+* 《macOS 效率手册》
+* 《influxDB 原理与实战》
 
 ### Golang
 
