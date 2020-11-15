@@ -1,6 +1,6 @@
 # 成为更好的程序员
 
-* [8 Ways to Become a Better Coder](https://blog.newrelic.com/engineering/8-ways-become-a-better-coder/)
+[8 Ways to Become a Better Coder](https://blog.newrelic.com/engineering/8-ways-become-a-better-coder/)
 
 1. Remind yourself how much you have to learn.
 2. Stop trying to prove yourself right.
@@ -13,6 +13,11 @@
 
 ## 书单
 
+### 基础
+
+* [ ]《macOS 效率手册》
+* [ ]《influxDB 原理与实战》
+
 ### Golang
 
 * [Go语言圣经（中文版）](https://books.studygolang.com/gopl-zh/)
@@ -23,7 +28,6 @@
 #### 用不上系列
 
 * [《Go语法树入门——开启自制编程语言和编译器之旅》](https://github.com/chai2010/go-ast-book)
-
 
 ### 提高必读
 
