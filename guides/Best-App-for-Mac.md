@@ -157,6 +157,7 @@ w3m | 命令行浏览器
 [onefetch](https://github.com/o2sh/onefetch) | Display information about your Git repository directly
 [gocloc](https://github.com/hhatto/gocloc) | 统计你的代码量
 [asciinema](https://asciinema.org/) | 终端录制工具，从 [这里](https://blog.windrunner.me/pages/mac-cli.html) 看到的
+autossh | ssh 增强工具
 
 ### 工具相关的文章
 
