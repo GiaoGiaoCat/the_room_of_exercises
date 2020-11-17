@@ -58,8 +58,8 @@
 
 ### Github 资源
 
-[Study-Floder](https://github.com/gdut-yy/Study-Floder) 相当不错的图书，例如《数学之美》、《浪潮之巅》、《TCP/IP卷一/卷二/卷三》
-
-[开源社区大学](https://github.com/ossu/computer-science-cn) 旨在为英语能力有待提高的中文学习者提供全中文的在线本科计算机科学学习课程。
+* [Study-Floder](https://github.com/gdut-yy/Study-Floder) 相当不错的图书，例如《数学之美》、《浪潮之巅》、《TCP/IP卷一/卷二/卷三》
+* [开源社区大学](https://github.com/ossu/computer-science-cn) 旨在为英语能力有待提高的中文学习者提供全中文的在线本科计算机科学学习课程。
+* [CS-Learning-res](https://github.com/harvic/CS-Learning-res) 汇总了43个方向的电子书、视频
 
 
