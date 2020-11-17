@@ -21,6 +21,7 @@
 ### Golang
 
 * [Go语言圣经（中文版）](https://books.studygolang.com/gopl-zh/)
+* [Go 语言设计与实现](https://draveness.me/) 
 * [Golang 开发笔记](https://github.com/guyan0319/golang_development_notes/blob/master/zh/preface.md)
 * [7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
 * [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
