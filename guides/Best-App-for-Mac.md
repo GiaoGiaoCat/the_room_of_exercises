@@ -151,6 +151,7 @@ bash-completion | 命令补全
 curl | 下载
 mackup | 备份
 w3m | 命令行浏览器
+dog | 彩色版本的 dig
 [hexyl](https://github.com/sharkdp/hexyl) | 用 16 进制的方式查看文件
 [hr](https://github.com/LuRsT/hr) | 就输出一个横线
 [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | 使 Mac 的预览功能更强大
