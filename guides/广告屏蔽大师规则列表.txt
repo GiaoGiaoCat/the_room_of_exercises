@@ -1,0 +1,147 @@
+Easylist
+官方规则
+https://easylist.to/easylist/easylist.txt
+
+
+Easylistchina
+中文补充规则
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+
+EasyList Lite
+中文精简规则
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+
+
+
+CJX Annoyance
+去自我推广列表
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+
+
+NeoHosts
+国内屏蔽挖矿统计 JS&360 & 百度 & 劫持 & 反感激进内容等
+https://hosts.nfz.moe/full/hosts
+
+
+EasyPrivacy
+隐私保护
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+
+AdblockPlus
+官方规则
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+
+
+
+
+ChinaListV2.0 ：国内大部分视频网站的广告过滤
+http://tools.yiclear.com/ChinaList2.0.txt
+
+
+Fanboy+Easylist-Merged Ultimate List
+https://fanboy.co.nz/r/fanboy-ultimate.txt
+
+AdGuard Simplified Domain Names
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+AdAway
+https://adaway.org/hosts.txt
+
+hpHosts - Ad and Tracking servers only
+https://hosts-file.net/ad_servers.txt
+
+MalwareDomainList.com Hosts List
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+
+tvbox
+https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
+
+neoHosts full
+https://hosts.nfz.moe/full/hosts
+
+5
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+22
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/adblock-for-dnsmasq.conf
+
+2
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+
+百度搜索结果极限净化
+https://gitee.com/banbendalao/adguard/raw/master/kill-baidu-ad.txt
+
+3
+https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt
+
+
+AdditionalFiltersCN
+https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt
+
+Annoyance Mobile Ad hosts filter
+https://raw.githubusercontent.com/yowu/AnnoyanceMobileAdHosts/master/AnnoyanceMobileAdHosts.txt
+
+
+App ads blocklist China
+https://raw.githubusercontent.com/HankAviator/app-ads-blocklist-china/master/app_blocklist.txt
+
+
+CJX's uBlock list
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
+
+lilydjwg's rules, mainly for China webs
+https://raw.githubusercontent.com/lilydjwg/abp-rules/master/list.txt
+
+QuarkList
+https://n2o.io/p/quarklist/dist/quarklist.txt
+
+cf
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+
+EasyList China+EasyList
+https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+
+EasyPrivacy
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+StevenBlack/hosts(多个规则集合
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+adgk手机去广告规则
+https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+
+123
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt
+
+1233
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+
+12
+https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+
+My AdFilters
+https://gitee.com/halflife/list/raw/master/ad.txt
+
+乘风广告过滤规则
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+
+视频过滤规则
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+
+CJX's Annoyance List
+https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+CJX's EasyList Lite
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+MOB过滤器
+https://raw.githubusercontent.com/npljy/npljy.github.io/master/adblock/mob.txt
+
+PC过滤器
+https://raw.githubusercontent.com/npljy/npljy.github.io/master/adblock/pc.txt
+
+DNS过滤器
+https://raw.githubusercontent.com/npljy/npljy.github.io/master/adblock/dns.txt
+
+https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
